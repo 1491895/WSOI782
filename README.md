@@ -86,17 +86,19 @@ Select gmrs_coverage.kml to display full 3D terrain topography and elevation con
 ---
 
 ## Expected CSV Data Schema
+
 The script parses standard myGMRS directory exports with the following column headers:
 
-Header			|	Type		|  Description
-Callsign		|	String		|  Repeater FCC callsign (defaults to GMRS-[City] if blank)
-Frequency (MHz)	|	Float		|  Repeater output / listening frequency
-Offset (MHz)	|	Float		|  Duplex split (defaults to +5.0 MHz for standard GMRS repeaters)
-Tone or PL Tone	|	String		|  Uplink CTCSS / PL Tone required to open the machine
-TSQ Tone		|	String		|  Downlink Tone Squelch (if configured)
-Latitude		|	Float		|  Decimal latitude coordinates
-Longitude		|	Float		|  Decimal longitude coordinates
-Wide Area		|	String		|  If marked Yes, radius increases to 30 miles (Teal). Blank defaults to 18 miles (Purple).
+| Header | Type | Description |
+| :--- | :--- | :--- |
+| `Callsign` | String | Repeater FCC callsign (defaults to `GMRS-[City]` if blank) |
+| `Frequency (MHz)` | Float | Repeater output / listening frequency |
+| `Offset (MHz)` | Float | Duplex split (defaults to `+5.0 MHz` for standard GMRS repeaters) |
+| `Tone` or `PL Tone` | String | Uplink CTCSS / PL Tone required to open the machine |
+| `TSQ Tone` | String | Downlink Tone Squelch (if configured) |
+| `Latitude` | Float | Decimal latitude coordinates |
+| `Longitude` | Float | Decimal longitude coordinates |
+| `Wide Area` | String | If marked `Yes`, radius increases to 30 miles (Teal). Blank defaults to 18 miles (Purple). |
 
 ---
 
