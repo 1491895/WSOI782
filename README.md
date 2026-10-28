@@ -37,51 +37,55 @@ Built strictly with Python standard library modules (csv, json, math, sys, pathl
 ---
 
 ## Instructions
-Step 1: Run the Script
-Place your raw CSV in the project folder and run the script from your terminal:
+Step 1: Generate the Map Files
+
+Place your data CSV into the project directory and run the parser from your terminal:
 
 python parse_mygmrs.py myGMRS_20261027_data_pull.csv
 
-(If executed without arguments, it defaults to looking for myGMRS_20261027_data_pull.csv in the current directory).
+Note: If run without arguments (python parse_mygmrs.py), the script automatically searches for myGMRS_20261027_data_pull.csv in the local folder.
 
-The script will output two files:
+Upon completion, two files are created:
 
-gmrs_coverage.kml
+gmrs_coverage.kml (formatted for Google My Maps and Google Earth)
 
-gmrs_coverage.geojson
+gmrs_coverage.geojson (structured for web maps and mobile apps)
 
-Step 2: Import into Google My Maps (Browser)
-Open your desktop web browser and navigate to Google My Maps.
+Step 2: Import into Google My Maps
+
+In a desktop browser, navigate to https://mymaps.google.com
 
 Click Create a New Map.
 
-Under the untitled layer on the left card, click Import.
+On the layer panel to the left, click Import.
 
-Drag and drop or browse to select gmrs_coverage.kml.
+Upload gmrs_coverage.kml.
 
-Rename the map title (e.g., GMRS Travel Coverage).
+Name your map (for example: GMRS Highway Coverage).
 
-Click any pin or circle boundary to verify the pop-up data card (Output Frequency, Duplex Offset, PL Tone, TSQ Tone, City, and State).
+Click any pin or boundary to confirm the details (callsign, tone, output frequency, and coverage type).
 
-Step 3: View While Driving in Google Maps (Android / iOS)
-Once imported into My Maps, the layer is permanently linked to your Google account and accessible inside the standard Google Maps navigation app:
+Step 3: View While Driving (Google Maps Mobile)
+
+Once imported, the layer automatically syncs to your Google account:
 
 Open the standard Google Maps app on your phone.
 
-Tap the Saved tab at the bottom navigation bar.
+Tap the Saved tab at the bottom, then scroll down and select Maps.
 
-Scroll down to the bottom and select Maps.
+Choose your imported map.
 
-Tap your imported map name (e.g., GMRS Travel Coverage).
+The translucent purple and teal bubbles will appear over your navigation screen, allowing you to track your GPS position relative to active repeater coverage in real time.
 
-The map overlay will load onto your road navigation view. As you drive, your vehicle's blue location dot will show your real-time position inside and outside the repeater coverage bubbles.
+Step 4: Optional 3D View (Google Earth)
 
-Step 4: Alternative Viewing in Google Earth
-Open Google Earth (Web, Desktop, or Mobile App).
+To inspect coverage against terrain, ridgelines, and elevation contours:
 
-Navigate to Projects > Open > Import KML file from computer / device.
+Open Google Earth (Web, Desktop, or Mobile).
 
-Select gmrs_coverage.kml to display full 3D terrain topography and elevation contours under the coverage bubbles.
+Go to Projects > Open > Import KML file from computer / device.
+
+Select gmrs_coverage.kml.
 
 ---
 
