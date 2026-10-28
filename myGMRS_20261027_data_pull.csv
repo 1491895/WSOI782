@@ -1,0 +1,1684 @@
+Callsign,Input Frequency (MHz),Frequency (MHz),Offset (MHz),Tone,City,County,State,Country,Landmark,Latitude,Longitude,ARES,RACES,SKYWARN,CANWARN,AllStar Node,EchoLink Node,IRLP Node,WIRES-X Node,WIRES-X,FM (analog),ATV,DMR,DMR Color Code,D-STAR Node,D-STAR Service,NXDN,NXDN RAN,P25,P25 NAC,TETRA,System Fusion,M17,Wide Area,PL Tone,TSQ Tone
+WRZD712,467.55,462.55,5,114.8,Delta Junction,SE Fairbanks,AK,US,,64.0378,-145.732,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,CSQ
+WSLC997,467.55,462.55,5,123,Fairbanks,Fairbanks North Star,AK,US,,64.84,-147.72,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,CSQ
+WRBK882,467.55,462.55,5,136.5,Ketchikan,Ketchikan,AK,US,,55.357,-131.681,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSMC728,467.55,462.55,5,136.5,Wasilla,Matanuska-Susitna,AK,US,Knik Fairview,61.537,-149.516,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WROS736,467.65,462.65,5,141.3,Palmer,Matanuska-Susitna,AK,US,Mat-su Regional Med Center,61.5631,-149.258,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQCG563,467.675,462.675,5,CSQ,Anchorage,Anchorage,AK,US,Near boniface and reflection,61.188,-149.778,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCA670,467.7,462.7,5,203.5,Anchorage,Anchorage,AK,US,,61.2181,-149.9,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,CSQ
+WROS736,467.7,462.7,5,141.3,Palmer,Matanuska-Susitna,AK,US,Farm Loop And Glenn,61.6463,-149.117,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRTJ547,467.55,462.55,5,141.3,Dothan,Houston,AL,US,,31.0946,-85.4643,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRKV856,467.55,462.55,5,136.5,Jacksonville,Calhoun,AL,US,Chimney Peak,33.8378,-85.7322,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRWB665,467.55,462.55,5,141.3,Littleville,Colbert,AL,US,,34.595,-87.6768,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRYE799,467.55,462.55,5,110.9,Shelby,Shelby,AL,US,Hwy 42 / Hwy 145,33.1228,-86.5419,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,110.9,110.9
+WRVH341,467.55,462.55,5,141.3,Spanish Fort,Baldwin,AL,US,Highland Park,30.6685,-87.9109,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WROV365,467.55,462.55,5,151.4,Wetumpka,Elmore,AL,US,,32.5017,-86.144,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WSGC399,467.575,462.575,5,141.3,Adamsville,Jefferson,AL,US,,33.6009,-86.9561,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKV324,467.575,462.575,5,CSQ,Athens,Limestone,AL,US,,34.8029,-86.9717,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRWT827,467.575,462.575,5,103.5,Ozark,Dale,AL,US,,31.4611,-85.6407,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRWT827,467.575,462.575,5,103.5,Ozark,Dale,AL,US,Water Tower,31.4553,-85.6453,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRVH341,467.575,462.575,5,141.3,Robertsdale,Baldwin,AL,US,Grand River Motorsports Park,30.601,-87.5529,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRVH341,467.575,462.575,5,141.3,Robertsdale,Baldwin,AL,US,Grand River Motorsports Park,30.6033,-87.5513,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRWB665,467.575,462.575,5,CSQ,Tuscumbia,Colbert,AL,US,,34.595,-87.6768,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WROV773,467.6,462.6,5,141.3,Harvest,Madison,AL,US,,34.8556,-86.7508,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRUU567,467.6,462.6,5,141.3,Mobile,Mobile,AL,US,North Mobile County Middle Sch,30.9574,-88.089,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROV365,467.6,462.6,5,141.3,Montgomery,Montgomery,AL,US,Waugh Behind Handy Farms,32.3656,-86.0595,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,CSQ
+WPZU392,467.6,462.6,5,D155,Oneonta,Blount,AL,US,Palisades Park,33.9482,-86.4728,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D155,D155
+WRQT821,467.7,462.6,5.1,D156,Piedmont,Calhoun,AL,US,Highland Cemetery,33.9337,-85.6149,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D156,D156
+WRKV856,467.625,462.625,5,77,Ballplay,Etowah,AL,US,Weisner Mtn,34.0265,-85.6744,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WRVH341,467.625,462.625,5,141.3,Bay Minette,Baldwin,AL,US,,30.883,-87.773,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSFK562,467.625,462.625,5,D054,Bluff Park,Jefferson,AL,US,Shades Crest,33.4166,-86.8518,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D054,D054
+WRWT827,467.625,462.625,5,103.5,Enterprise,Coffee,AL,US,,31.3152,-85.8552,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WRKV856,467.625,462.625,5,136.5,Oxford,Calhoun,AL,US,Coldwater Mtn,33.6208,-85.8718,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRWT827,467.625,462.625,5,103.5,Ozark,Dale,AL,US,,31.4611,-85.6407,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,CSQ
+WRCI382,467.65,462.65,5,141.3,Birmingham,Jefferson,AL,US,Red Mtn,33.5119,-86.7654,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSDD519,467.65,462.65,5,100,Opp,Covington,AL,US,,31.2827,-86.2555,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,CSQ
+WRBW485,467.675,462.675,5,156.7,Bessemer,Jefferson,AL,US,,33.2825,-86.9572,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,CSQ
+WRUU567,467.675,462.675,5,141.3,Mobile,Mobile,AL,US,Springhill Water Tank,30.702,-88.1435,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSCY828,467.675,462.675,5,123,Orange Beach,Baldwin,AL,US,Water Tower,30.26,-87.58,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSIU227,467.675,462.675,5,127.3,Quinton,Jefferson,AL,US,Town Of West Jefferson,33.6377,-87.0856,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,CSQ
+WRWB665,467.675,462.675,5,CSQ,Russellville,Franklin,AL,US,,34.5079,-87.7286,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRWB665,467.675,462.675,5,CSQ,Tuscumbia,Colbert,AL,US,,34.595,-87.6768,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZL466,467.7,462.7,5,162.2,Cullman,Cullman,AL,US,Berlin,34.1894,-86.7437,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,CSQ
+WRUU567,467.7,462.7,5,141.3,Dauphin Island,Mobile,AL,US,Dauphin Island Golf Course,30.2477,-88.1165,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRVH341,467.7,462.7,5,141.3,Fairhope,Baldwin,AL,US,Vfw,30.5159,-87.8816,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WROV773,467.7,462.7,5,141.3,Harvest,Madison,AL,US,,34.8556,-86.7508,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSKJ860,467.7,462.7,5,141.3,Mobile,Mobile,AL,US,Cottage Hill / Knollwood Area,30.6348,-88.1694,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSMB953,467.7,462.7,5,103.5,West Blocton,Bibb,AL,US,Mc Culley Hill,33.1381,-87.0871,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WRKV856,467.725,462.725,5,136.5,Delta,Cleburne,AL,US,Cheaha Mtn,33.4853,-85.8087,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRUR779,467.725,462.725,5,CSQ,Moulton,Lawrence,AL,US,Loosier Community,34.5718,-87.3703,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WROB766,467.55,462.55,5,100,Crossett,Ashley,AR,US,Tower at PMC Hancock Rd.,33.1282,-91.9612,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WROX626,467.55,462.55,5,141.3,Jonesboro,Craighead,AR,US,,35.8579,-90.6669,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRYA255,467.55,462.55,5,141.3,Piggott,Clay,AR,US,,36.3828,-90.1907,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSMZ990,467.55,462.55,5,136.5,Siloam Springs,Benton,AR,US,,36.1915,-94.5498,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSHY910,467.55,462.55,5,141.3,West Fork,Washington,AR,US,,35.9333,-94.1793,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSEI269,467.55,462.55,5,77,Wilmar,Drew,AR,US,Tower,33.6418,-91.9124,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WSAZ229,467.575,462.575,5,131.8,Bryant,Saline,AR,US,,34.6003,-92.4902,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WROB766,467.575,462.575,5,100,EL Dorado,Union,AR,US,Across from CARASTAR Body shop,33.2064,-92.6538,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRBK701,467.575,462.575,5,127.3,Mountain Home,Baxter,AR,US,,36.3426,-92.3961,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRYA255,467.575,462.575,5,151.4,Piggott,Clay,AR,US,Piggott,36.3822,-90.1905,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,151.4,151.4
+WRPE201,467.575,462.575,5,141.3,Rogers,Benton,AR,US,,36.2872,-94.1256,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRVN537,467.6,462.6,5,141.3,De Queen,Sevier,AR,US,,34.0743,-94.3206,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRBK701,467.6,462.6,5,151.4,Forrest City,Saint Francis,AR,US,,35.0105,-90.787,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRKE994,467.6,462.6,5,123,Harrison,Boone,AR,US,Boat Mountain,36.1111,-93.039,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WRNZ625,467.6,462.6,5,100,Monticello,Drew,AR,US,Old Civil Air Patrol Tower,33.7228,-91.7958,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRDE453,467.6,462.6,5,107.2,Newark,Independence,AR,US,,35.7091,-91.441,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,CSQ
+WRPG439,467.6,462.6,5,141.3,Pea Ridge,Benton,AR,US,,36.39,-94.12,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSHY910,467.6,462.6,5,110.9,West Fork,Washington,AR,US,,35.9558,-94.2132,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,110.9,110.9
+WRNZ242,467.625,462.625,5,162.2,Malvern,Hot Spring,AR,US,Sulphur Springs water tower,34.3482,-92.7829,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,CSQ
+WRNQ540,467.625,462.625,5,88.5,Marshall,Searcy,AR,US,Star Mountain,35.822,-92.7393,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRMK691,467.65,462.65,5,141.3,Harrison,Boone,AR,US,Gaither Mountain,36.2298,-93.1074,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRAJ253,467.65,462.65,5,141.3,Rogers,Benton,AR,US,,36.332,-94.1185,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCZ523,467.65,462.65,5,162.2,Tontitown,Washington,AR,US,,36.1764,-94.2352,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WSNT296,467.65,462.65,5,94.8,Wynne,Cross,AR,US,Crowley's Ridge,35.1971,-90.7072,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,94.8,94.8
+WRBK701,467.675,462.675,5,107.2,Brentwood,Washington,AR,US,,35.8601,-94.1071,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WRZT457,467.675,462.675,5,141.3,Gassville,Baxter,AR,US,,36.2835,-92.491,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRJC901,467.675,462.675,5,141.3,Greenbrier,Faulkner,AR,US,,35.2615,-92.4435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRAR667,467.7,462.7,5,141.3,Fayetteville,Washington,AR,US,Dinsmore Trail,36.0636,-94.2072,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROT570,467.7,462.7,5,D731,Ladelle,Drew,AR,US,,33.4653,-91.7936,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D731,D731
+WRKF394,467.7,462.7,5,141.3,Little Rock,Pulaski,AR,US,University Ave,34.7556,-92.3444,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVG775,467.725,462.725,5,136.5,Blytheville,Mississippi,AR,US,,35.9285,-89.9039,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRFT709,467.725,462.725,5,D654,Dewitt,Arkansas,AR,US,,34.2972,-91.3495,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D654,D654
+WRMK691,467.725,462.725,5,141.3,Harrison,Boone,AR,US,Harrison Hill,36.2298,-93.1074,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRFT709,467.725,462.725,5,85.4,Russellville,Pope,AR,US,,35.4794,-93.2073,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,85.4
+WQPP400,467.55,462.55,5,146.2,Benson,Cochise,AZ,US,,31.965,-110.308,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WRUU520,467.55,462.55,5,CSQ,Douglas,Cochise,AZ,US,,31.3445,-109.545,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRQV811,467.55,462.55,5,141.3,Flagstaff,Coconino,AZ,US,Mt Elden,35.2301,-111.579,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXD608,467.55,462.55,5,CSQ,Ft Mohave,Mohave,AZ,US,Gun Range,35.0044,-114.591,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WPRR517,467.55,462.55,5,CSQ,Phoenix,Maricopa,AZ,US,White Tank Mtn,33.5782,-112.573,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+KAE7472,467.55,462.55,5,146.2,Shiprock (nm),Apache,AZ,US,Roof Butte,36.4612,-109.096,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,146.2,CSQ
+WQPP400,467.55,462.55,5,100,Sierra Vista,Cochise,AZ,US,,31.5385,-110.263,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WRMK486,467.55,462.55,5,186.2,Strawberry,Gila,AZ,US,,34.4089,-111.516,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,CSQ
+WRNN597,467.55,462.55,5,141.3,Vail,Pima,AZ,US,Mary Ann Cleveland Way,32.0529,-110.718,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPH450,467.55,462.55,5,136.5,Wenden,La Paz,AZ,US,,33.8225,-113.542,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRPE421,467.6,462.6,5,136.5,Tonopah,Maricopa,AZ,US,411th Ave And Salome Hwy,33.45,-112.915,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,CSQ
+WRCW305,467.6,462.6,5,88.5,Tucson,Pima,AZ,US,"Saguaro National Preserve, NW",32.328,-111.105,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WQJT335,467.625,462.625,5,D047,Sun City West,Maricopa,AZ,US,,33.6769,-112.361,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D047,D047
+WRVQ445,467.65,462.65,5,203.5,Heber,Navajo,AZ,US,,34.4278,-110.598,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,CSQ
+WQUM565,467.65,462.65,5,D315,Maricopa,Pinal,AZ,US,Thunderbird Farms,32.9657,-112.16,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D315,D315
+WRJC626,467.65,462.65,5,D445,Prescott,Yavapai,AZ,US,Granite Mountain,34.7009,-112.118,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D445,D445
+WRFS930,467.675,462.675,5,100,Dolan Springs,Mohave,AZ,US,,35.575,-114.29,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WRVM208,467.675,462.675,5,141.3,Forest Lakes,Coconino,AZ,US,,34.3422,-110.812,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRFF687,467.675,462.675,5,141.3,Maricopa,Pinal,AZ,US,,33.0461,-112.04,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRJC626,467.675,462.675,5,141.3,Prescott,Yavapai,AZ,US,,34.6048,-112.496,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRCX459,467.7,462.7,5,123,Flagstaff,Coconino,AZ,US,,35.1983,-111.651,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSKA386,467.7,462.7,5,151.4,Kingman,Mohave,AZ,US,4135 N Irving St,35.2438,-114.02,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WSKA386,467.7,462.7,5,151.4,Kingman,Mohave,AZ,US,,35.2438,-114.02,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRCX459,467.7,462.7,5,123,Saint David,Cochise,AZ,US,Harmona Ranch,31.9043,-110.214,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRKV251,467.725,462.725,5,141.3,Show Low,Navajo,AZ,US,Porter Mtn,34.1901,-109.935,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WROX766,467.55,462.55,5,CSQ,Apple Valley,San Bernardino,CA,US,,34.5008,-117.186,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFT322,467.55,462.55,5,103.5,Arcadia,Los Angeles,CA,US,Mt Wilson,34.2267,-118.067,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,CSQ
+WRME405,467.55,462.55,5,CSQ,Groveland,Tuolumne,CA,US,,37.8389,-120.231,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSOG679,467.55,462.55,5,162.2,Jurupa Valley,Riverside,CA,US,,33.9806,-117.491,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRFV637,467.55,462.55,5,136.5,Laytonville,Mendocino,CA,US,Mendocino Magic Campground,39.6868,-123.579,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+WQXG569,467.55,462.55,5,91.5,Mendota,Fresno,CA,US,,36.7536,-120.382,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WRZW306,467.55,462.55,5,88.5,Newberry Springs,San Bernardino,CA,US,,34.8795,-116.715,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,88.5,88.5
+WRFJ380,467.55,462.55,5,74.4,Santa Paula,Ventura,CA,US,South Mtn,34.3254,-119.04,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,74.4,74.4
+WRPX745,467.55,462.55,5,103.5,Shaver,Fresno,CA,US,,37.1075,-119.318,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRWS971,467.55,462.55,5,118.8,Weaverville,Trinity,CA,US,Lowden Park,40.7316,-122.933,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRJZ223,467.575,462.575,5,91.5,Auberry,Fresno,CA,US,,37.0808,-119.485,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WQUB950,467.575,462.575,5,186.2,Coalinga,Fresno,CA,US,Joaquin Ridge,36.7783,-119.418,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,186.2,186.2
+WREX300,467.575,462.575,5,D025,Fresno,Fresno,CA,US,Delilah Fire Lookout,36.7783,-119.418,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D025,D025
+WSHS395,467.575,462.575,5,141.3,Johnson Valley,San Bernardino,CA,US,King Of The Hammers (koh),34.3429,-116.561,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPA270,467.575,462.575,5,CSQ,Pittsburg,Contra Costa,CA,US,,38.028,-121.885,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSGX537,467.575,462.575,5,136.5,Porterville,Tulare,CA,US,,36.0867,-119.023,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSNA709,0,462.575,-462.575,CSQ,San Jose,Santa Clara,CA,US,,37.3387,-121.885,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRME405,467.575,462.575,5,CSQ,Sonora,Tuolumne,CA,US,Cedar Ridge,38.0695,-120.276,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSMF487,467.575,462.575,5,136.5,South Lake Tahoe,El Dorado,CA,US,Sierra Tract,38.9252,-119.981,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRFJ380,467.575,462.575,5,74.4,Topanga,Los Angeles,CA,US,Saddle Peak,34.0758,-118.658,,,,,,,,,,Yes,,,,,,,0,,0,,,,,74.4,74.4
+WRPH723,467.575,462.575,5,118.8,Weaverville,Trinity,CA,US,Oes Airport,40.7474,-122.922,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRTX950,467.575,462.575,5,D606,Weed,Siskiyou,CA,US,,41.629,-122.232,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D606,D606
+WROP772,467.6,462.6,5,CSQ,Bassett,Los Angeles,CA,US,San Gabriel Valley,34.0525,-117.972,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRPY493,467.6,462.6,5,88.5,Big Bear City,San Bernardino,CA,US,Baldwin Lake,34.2753,-116.807,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRKD356,467.6,462.6,5,85.4,Chino,San Bernardino,CA,US,Near Ruben Ayala Park,34.0122,-117.689,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,85.4
+WSFB482,467.6,462.6,5,156.7,Idyllwild,Riverside,CA,US,,33.74,-116.719,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRME405,467.6,462.6,5,CSQ,Moccasin,Tuolumne,CA,US,Moccasin Pk,37.8052,-120.328,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZA376,467.6,462.6,5,103.5,Newman,Stanislaus,CA,US,,37.3137,-121.021,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+KAF1291,467.6,462.6,5,CSQ,Oakland,Contra Costa,CA,US,,37.8471,-122.2,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQEV940,467.6,462.6,5,110.9,Paso Robles,San Luis Obispo,CA,US,Radio Ranch,35.6263,-120.713,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRVC311,467.6,462.6,5,196.6,Rio Dell,Humboldt,CA,US,,40.4993,-124.106,,,,,,,,,,Yes,,,,,,,0,,0,,,,,196.6,CSQ
+KAF1291,467.6,462.6,5,CSQ,South Lake Tahoe,El Dorado,CA,US,Heavenly Valley,38.9317,-119.944,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+KAF1291,467.6,462.6,5,CSQ,Sunol,Alameda,CA,US,Sunol Peak,37.6202,-121.922,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRPH747,467.6,462.6,5,123,Tulare,Tulare,CA,US,,36.2077,-119.347,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WRNB252,467.6,462.6,5,100,Ventura,Ventura,CA,US,,34.2808,-119.293,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WREX300,467.6,462.6,5,69.3,Visalia,Tulare,CA,US,,36.3302,-119.292,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,69.3,69.3
+WRCD391,467.625,462.625,5,141.3,Arroyo Grande,San Luis Obispo,CA,US,,35.1186,-120.591,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSFZ752,467.625,462.625,5,100,Grenada,Siskiyou,CA,US,,41.6456,-122.522,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSEU238,467.625,462.625,5,179.9,Helendale,San Bernardino,CA,US,,34.7439,-117.324,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WRDD250,467.625,462.625,5,D205,Lakeside,San Diego,CA,US,Eucalyptus Hills,32.868,-116.934,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D205,D205
+WQBW533,467.625,462.625,5,141.3,Los Gatos,Santa Clara,CA,US,Hwy 17 Summit,37.2375,-121.969,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQOW802,467.625,462.625,5,CSQ,Madera,Madera,CA,US,,36.9596,-120.058,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRHS923,467.625,462.625,5,CSQ,Redding,Shasta,CA,US,,40.5865,-122.392,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRJI287,467.625,462.625,5,103.5,San Francisco,San Francisco,CA,US,,37.7749,-122.474,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRVA634,467.625,462.625,5,136.5,San Pedro,Los Angeles,CA,US,Ft. Macarthur,33.7361,-118.292,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRME405,467.625,462.625,5,CSQ,Strawberry,Tuolumne,CA,US,Strawberry Pk,38.1956,-120.033,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSIR352,467.625,462.625,5,141.3,Turlock,Stanislaus,CA,US,Csus,37.522,-120.858,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYY945,467.625,462.625,5,141.3,Yreka,Siskiyou,CA,US,Mahogany Point,41.7344,-122.748,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRPD872,467.625,462.625,5,CSQ,Yucca Valley,San Bernardino,CA,US,,34.164,-116.37,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJF803,467.65,462.65,5,D116,Bakersfield,Kern,CA,US,,35.3733,-119.019,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D116,D116
+WRZP559,467.65,462.65,5,77,Calico,San Bernardino,CA,US,Calico Pk,34.9954,-116.839,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WQKE778,467.65,462.65,5,CSQ,Hemet,Riverside,CA,US,Simpson Park,33.7051,-116.922,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,D245
+WROJ613,467.65,462.65,5,D072,Indio,Riverside,CA,US,Indio Hill,33.795,-116.23,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D072,D072
+WRAM471,467.65,462.65,5,91.5,Pleasant Hill,Contra Costa,CA,US,,37.9713,-122.104,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WRZM592,467.65,462.65,5,179.9,Quartz Hill,Los Angeles,CA,US,,34.6428,-118.219,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WROJ828,467.65,462.65,5,67,Redlands,San Bernardino,CA,US,,34.0564,-117.206,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WQLS681,467.65,462.65,5,77,San Jose,Santa Clara,CA,US,Almaden Valley,37.2229,-121.897,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WQLS681,467.65,462.65,5,77,San Jose,Santa Clara,CA,US,Almaden Valley,37.223,-121.897,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRMZ431,467.65,462.65,5,94.8,Woodside,San Mateo,CA,US,,37.4299,-122.254,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,94.8,94.8
+WRZF225,467.675,462.675,5,85.4,Delano,Kern,CA,US,,35.7688,-119.247,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,85.4
+WQYY945,467.675,462.675,5,141.3,Fort Jones,Siskiyou,CA,US,Oro Fino,41.6076,-122.84,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSFY490,467.675,462.675,5,151.4,Los Angeles,Los Angeles,CA,US,Csla,34.0671,-118.167,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WSMH504,0,462.675,-462.675,250.3,Los Banos,Merced,CA,US,,37.0826,-120.832,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,250.3,250.3
+WRVA972,467.675,462.675,5,CSQ,Modesto,Stanislaus,CA,US,,37.6678,-120.92,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQEV940,467.675,462.675,5,141.3,Paso Robles,San Luis Obispo,CA,US,Radio Ranch,35.6263,-120.713,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRUE951,467.625,462.675,4.95,CSQ,Ridgecrest,Kern,CA,US,Near Cero Coso College,35.5864,-117.676,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAV865,467.675,462.675,5,192.8,San Francisco,San Francisco,CA,US,Portola,37.7196,-122.402,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,192.8,192.8
+wrkh273,467.675,462.675,5,D311,San Jose,Santa Clara,CA,US,,37.3257,-121.914,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D311,D606
+WSJM872,467.675,462.675,5,94.8,Santa Cruz,Santa Cruz,CA,US,Santa Cruz Mtns,36.9741,-122.029,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,94.8,94.8
+WRCU535,467.675,462.675,5,179.9,Upperlake,Lake,CA,US,Hunter point,39.2124,-122.954,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WRKZ506,467.675,462.675,5,103.5,Visalia,Tulare,CA,US,Park Ridge,36.3401,-119.307,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WROZ212,467.7,462.7,5,CSQ,Banning,Riverside,CA,US,Poppet Flats,33.8649,-116.853,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJA675,467.7,462.7,5,CSQ,Burney,Shasta,CA,US,Bunchgrass,40.8748,-121.772,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRNU333,467.7,462.7,5,192.8,Fresno,Fresno,CA,US,,36.8125,-119.875,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WQCZ300,467.7,462.7,5,CSQ,Glendale,Los Angeles,CA,US,Mt Lukens,34.1425,-118.255,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRFB973,467.7,462.7,5,146.2,Lemoore,Kings,CA,US,,36.3008,-119.783,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WSAT958,467.7,462.7,5,141.3,Rosamond,Kern,CA,US,,34.82,-118.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKZ506,467.7,462.7,5,103.5,Visalia,Tulare,CA,US,Park Ridge,36.3401,-119.307,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WRVQ303,467.725,462.725,5,88.5,Calico,San Bernardino,CA,US,,34.9515,-116.859,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,88.5,88.5
+WSJK648,467.725,462.725,5,250.3,Corralitos,Santa Cruz,CA,US,Velencia Creek Headwaters,37.0354,-121.85,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,250.3,CSQ
+WRZF225,467.675,462.725,4.95,85.4,Delano,Kern,CA,US,,35.7688,-119.247,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,85.4
+WRWE528,467.725,462.725,5,D065,Escondido,San Diego,CA,US,Palomar Mtn,33.3212,-116.88,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D065,D065
+WREX300,467.725,462.725,5,100,Farmersville,Tulare,CA,US,,36.2977,-119.207,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WSEU238,467.725,462.725,5,141.3,Helendale,San Bernardino,CA,US,,34.7439,-117.324,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQD317,467.725,462.725,5,CSQ,Los Altos,Santa Clara,CA,US,,37.38,-122.11,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQOW802,467.725,462.725,5,CSQ,Modesto,Stanislaus,CA,US,,37.6686,-120.974,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQQA926,467.725,462.725,5,CSQ,Orangevale,Sacramento,CA,US,,38.6785,-121.226,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSHA681,467.725,462.725,5,110.9,San Juan Bautista,San Benito,CA,US,Fremont Pk,36.7564,-121.502,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,110.9,110.9
+WRME405,467.725,462.725,5,CSQ,Tuolumne City,Tuolumne,CA,US,Duckwall Mtn,37.9653,-120.235,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRPD872,467.725,462.725,5,225.7,Yucca Valley,San Bernardino,CA,US,,34.153,-116.39,,,,,,,,,,Yes,,,,,,,0,,0,,,,,225.7,CSQ
+WRED603,467.55,462.55,5,CSQ,Bailey,Park,CO,US,,39.4061,-105.479,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSIN942,467.55,462.55,5,141.3,Colorado Springs,El Paso,CO,US,Hocking / Villa Sport,38.9342,-104.724,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSGT697,467.55,462.55,5,141.3,Denver,Jefferson,CO,US,Lookout Mtn,39.7881,-105.046,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+KAE7472,467.55,462.55,5,100,Durango,La Plata,CO,US,Hesperus Hill,37.2996,-108.026,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+KAE7472,467.55,462.55,5,110.9,Ignacio,La Plata,CO,US,,37.115,-107.633,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,110.9,100
+WRPB825,467.55,462.55,5,123,La Junta,Otero,CO,US,La Junta Airbase Hill,38.0512,-103.543,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRCU719,467.55,462.55,5,88.5,Vineland,Pueblo,CO,US,,38.2456,-104.459,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WQOG361,467.55,462.55,5,156.7,Walsh,Baca,CO,US,,37.3861,-102.278,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRVZ866,467.575,462.575,5,CSQ,Colorado Springs,El Paso,CO,US,Academy and Union,38.9033,-104.771,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQOG361,467.575,462.575,5,141.3,Springfield,Baca,CO,US,,37.4066,-102.617,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPI482,467.6,462.6,5,141.3,Colorado Springs,El Paso,CO,US,Prospect Lake,38.8339,-104.821,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WREL457,467.6,462.6,5,141.3,Crawford,Delta,CO,US,,38.7039,-107.609,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQUX891,467.6,462.6,5,CSQ,Northglenn,Adams,CO,US,Front Range,39.8962,-104.981,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WROS769,467.625,462.625,5,141.3,Alamosa,Alamosa,CO,US,,37.47,-105.86,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,CSQ
+WQUX891,467.625,462.625,5,CSQ,Castle Rock,Douglas,CO,US,Devil's Head,39.3726,-104.873,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRPP544,467.625,462.625,5,CSQ,Castle Rock,Douglas,CO,US,,39.376,-104.835,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSAD847,467.625,462.625,5,141.3,Crook,Logan,CO,US,,40.8637,-102.881,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRCE209,467.625,462.625,5,123,Lake City,Hinsdale,CO,US,,38.022,-107.31,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRZJ290,467.625,462.625,5,203.5,Loveland,Larimer,CO,US,I-25 / Us-34,40.4073,-104.993,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,203.5,203.5
+WRDA382,467.625,462.625,5,88.5,Pueblo,Pueblo,CO,US,,38.2706,-104.61,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WQOG361,467.625,462.625,5,141.3,Two Buttes,Baca,CO,US,,37.5611,-102.398,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRPP544,467.65,462.65,5,CSQ,Highlands Ranch,Douglas,CO,US,,39.5427,-104.948,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,D032
+WRPN956,0,462.675,-462.675,136.5,Colorado Springs,El Paso,CO,US,,38.9711,-104.725,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSGT697,467.675,462.675,5,CSQ,Denver,Jefferson,CO,US,Lookout Mtn,39.7392,-104.99,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQUX891,467.675,462.675,5,CSQ,Estes Park,Larimer,CO,US,,40.3772,-105.522,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQUX891,467.675,462.675,5,CSQ,Golden,Jefferson,CO,US,,39.7555,-105.221,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQOG361,467.675,462.675,5,141.3,Vilas,Baca,CO,US,,37.3747,-102.447,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQUX891,467.7,462.7,5,CSQ,Denver,Denver,CO,US,,39.7392,-104.99,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQUX891,467.7,462.7,5,CSQ,Fort Collins,Larimer,CO,US,,40.5853,-105.084,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQOG361,467.7,462.7,5,141.3,Kim,Las Animas,CO,US,Tator Butte,37.2467,-103.352,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQUX891,467.725,462.725,5,CSQ,Evergreen,Jefferson,CO,US,,39.6346,-105.316,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+KAE7472,467.725,462.725,5,162.2,Mancos,La Plata,CO,US,Caviness Mountain,37.3645,-108.147,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,162.2,162.2
+WRJB532,467.625,462.625,5,CSQ,New London,New London,CT,US,,41.3557,-72.0995,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRXR239,467.625,462.625,5,141.3,Putnam,Windham,CT,US,,41.9265,-71.9,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRFE467,467.7,462.7,5,77,Bridgeport,Fairfield,CT,US,,41.2156,-73.2325,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WQDV713,467.7,462.7,5,CSQ,Lebanon,New London,CT,US,Babcock Hill,41.6533,-72.1844,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJB532,467.7,462.7,5,CSQ,New London,New London,CT,US,,41.3557,-72.0995,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSAY338,467.7,462.7,5,D263,North Haven,New Haven,CT,US,Peters Rock,41.3406,-72.8545,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D263,D263
+KAB7046,467.7,462.7,5,141.3,Washington,,DC,US,Anacostia,38.8527,-76.9711,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCU536,467.55,462.55,5,CSQ,Clearwater,Pinellas,FL,US,Countryside Area,28.0153,-82.7302,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRBV668,467.55,462.55,5,141.3,Cudjoe Key,Monroe,FL,US,,24.6815,-81.4911,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRQD365,467.55,462.55,5,141.3,Deltona,Volusia,FL,US,,28.9005,-81.2637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRBM944,467.55,462.55,5,100,Deltona,Volusia,FL,US,Exit 111 on I-4,28.9005,-81.2637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSAB949,467.55,462.55,5,136.5,Floral City,Citrus,FL,US,,28.75,-82.2968,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+WSDD493,467.55,462.55,5,D423,Freeport,Walton,FL,US,Lagrange Bayou,30.4641,-86.151,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D423,CSQ
+WROL455,467.55,462.55,5,141.3,Gainesville,Alachua,FL,US,Wcjb-tv Tower,29.7118,-82.3903,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRWF250,467.55,462.55,5,127.3,Haines City,Polk,FL,US,Landmark Baptist Collage,28.107,-81.6244,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,127.3,127.3
+WRDR470,467.55,462.55,5,103.5,Harmony,Osceola,FL,US,Suburban and Triple N Ranch,28.1301,-81.0667,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,CSQ
+WRZF218,467.55,462.55,5,141.3,Interlachen,Putnam,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRWY858,467.55,462.55,5,192.8,Jacksonville,Duval,FL,US,East Arlington,30.3304,-81.4824,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WQFA691,467.55,462.55,5,167.9,Madison,Madison,FL,US,,30.4694,-83.4129,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,167.9,167.9
+WSCY885,467.725,462.55,5.175,CSQ,Miami,Miami-Dade,FL,US,,25.7617,-80.1918,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSCY885,467.55,462.55,5,CSQ,Miami,Miami-Dade,FL,US,,25.7617,-80.1918,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTF253,467.55,462.55,5,CSQ,Ocala,Marion,FL,US,,29.1338,-82.0128,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRBV668,467.55,462.55,5,CSQ,Ocean Reef,Monroe,FL,US,,25.3176,-80.2747,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSAZ960,467.55,462.55,5,100,Okeechobee,Okeechobee,FL,US,,27.2399,-80.7525,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WSLY636,467.55,462.55,5,107.2,Orlando,Orange,FL,US,West Orange County,28.5415,-81.5106,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WRQD365,467.55,462.55,5,127.3,Orlando,Orange,FL,US,,28.5384,-81.3789,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WSBA793,467.55,462.55,5,123,Palm Beach Gardens,Palm Beach,FL,US,,26.8027,-80.1096,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WQEZ401,467.55,462.55,5,141.3,Ridge Manor,Hernando,FL,US,US-301/SR-50,28.4991,-82.1815,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRYF488,467.55,462.55,5,79.7,Rockledge,Brevard,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,79.7,85.4
+WREZ271,467.55,462.55,5,162.2,Ruskin,Hillsborough,FL,US,Kings Point Club House,27.7111,-82.359,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WREZ271,467.55,462.55,5,162.2,"Ruskin, Fl",Hillsborough,FL,US,Sun City Center,27.7118,82.3294,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRDA964,467.575,462.575,5,CSQ,Bonita Springs,Lee,FL,US,,26.3541,-81.46,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRKI973,467.575,462.575,5,CSQ,Daytona Beach,Volusia,FL,US,,29.155,-81.0745,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRPY677,467.575,462.575,5,CSQ,Homestead,Miami-Dade,FL,US,,25.4724,-80.4758,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRBV668,467.575,462.575,5,CSQ,Marathon,Monroe,FL,US,,24.7119,-81.0935,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRPK786,467.575,462.575,5,167.9,Minneola,Lake,FL,US,,28.5886,-81.752,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WROG208,467.575,462.575,5,167.9,Mount Plymouth,Lake,FL,US,,28.8016,-81.5343,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WQIG532,467.575,462.575,5,100,Nocatee,Saint Johns,FL,US,,30.1056,-81.4811,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WRNU356,467.575,462.575,5,CSQ,Ocoee,Orange,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRUS599,467.575,462.575,5,233.6,Orlando,Orange,FL,US,,28.5643,-81.3543,,,,,,,,,,Yes,,,,,,,0,,0,,,,,233.6,114.8
+WSAT405,467.575,462.575,5,103.5,Port Saint John,Brevard,FL,US,Near The Fpl Power Plant,28.4732,-80.7724,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRAF954,467.575,462.575,5,141.3,Tampa,Hillsborough,FL,US,Downtown,27.95,-82.46,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQFA691,467.575,462.575,5,151.4,Taylor Beaches,Taylor,FL,US,,29.8244,-83.5949,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,151.4,151.4
+WPUH380,467.6,462.6,5,103.5,Auburndale,Polk,FL,US,,28.0653,-81.7887,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,CSQ
+WRUH896,467.6,462.6,5,88.5,Cocoa Beach,Brevard,FL,US,Snug Harbor,28.2911,-80.6098,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRBV668,467.6,462.6,5,CSQ,Cudjoe Key,Monroe,FL,US,,24.6573,-81.4761,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRZC451,467.6,462.6,5,D464,Ft Myers,Charlotte,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D464,D464
+WRCJ634,467.6,462.6,5,CSQ,Jacksonville,Duval,FL,US,,30.3322,-81.6556,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSFX355,467.6,462.6,5,141.3,Lake City,Columbia,FL,US,,30.1537,-82.6502,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRPW274,467.6,462.6,5,141.3,Lecanto,Citrus,FL,US,,28.7639,-82.4834,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WROI295,467.6,462.6,5,CSQ,Milton,Santa Rosa,FL,US,,30.5814,-87.048,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZB474,467.6,462.6,5,141.3,Orlando,Orange,FL,US,Dunhill Dr,28.5531,-81.2329,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WREM697,467.6,462.6,5,100,Orlando,Orange,FL,US,,28.5393,-81.3839,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WREM697,467.6,462.6,5,131.8,Tampa,Hillsborough,FL,US,,27.9515,-82.4582,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRDA964,467.625,462.625,5,CSQ,Arcadia,Desoto,FL,US,,27.2159,-81.8584,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDA964,467.625,462.625,5,CSQ,Bradenton,Manatee,FL,US,,27.4989,-82.5748,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRNA761,467.625,462.625,5,CSQ,Fort Myers,Lee,FL,US,,26.6791,-81.6981,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDE716,467.625,462.625,5,CSQ,Homestead,Miami-Dade,FL,US,,25.4687,-80.4776,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRBV668,467.625,462.625,5,CSQ,Islamorada,Monroe,FL,US,,24.9589,-80.5703,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSFB468,467.625,462.625,5,136.5,Merritt Island,Brevard,FL,US,Crooked Mile,28.2815,-80.6719,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRNA761,467.625,462.625,5,CSQ,North Fort Myers,Lee,FL,US,Suncoast Estates/Mobile Manor,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCU356,467.625,462.625,5,141.3,Polk City,Polk,FL,US,,28.18,-81.81,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRUI413,467.625,462.625,5,167.9,Spring Hill,Hernando,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WQYC991,467.625,462.625,5,146.2,Valrico,Hillsborough,FL,US,,27.9223,-82.2419,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,CSQ
+WRJU655,467.625,462.625,5,141.3,Wacissa,Jefferson,FL,US,,30.37,-83.9698,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQEZ401,467.625,462.625,5,141.3,Zephyrhills,Pasco,FL,US,,28.2336,-82.1812,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSJY352,467.65,462.65,5,141.3,Crestview,Okaloosa,FL,US,,30.7542,-86.5728,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSJY352,467.65,462.65,5,141.3,Crestview,Okaloosa,FL,US,,30.7542,-86.5728,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSSA352,467.65,462.65,5,141.3,Dunnellon,Marion,FL,US,Rainbow Lakes Estates,29.0548,-82.4125,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSCG467,467.65,462.65,5,123,Dunnellon,Marion,FL,US,Dunnellon Oaks,29.0548,-82.4125,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSFX355,467.65,462.65,5,141.3,Lake Butler,Union,FL,US,,30.0227,-82.3396,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRBV668,467.65,462.65,5,CSQ,Layton,Monroe,FL,US,,24.824,-80.8137,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSDK244,467.65,462.65,5,167.9,Lehigh Acres,Lee,FL,US,,26.6244,-81.5998,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,123
+WRPY677,467.65,462.65,5,CSQ,Miami,Miami-Dade,FL,US,,25.7504,-80.2003,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRJU655,467.65,462.65,5,141.3,Monticello,Jefferson,FL,US,,30.5452,-83.8702,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WROE916,467.65,462.65,5,186.2,Orlando,Orange,FL,US,,28.6134,-81.4068,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,D632
+WSFE568,467.65,462.65,5,CSQ,Paisley,Lake,FL,US,,28.9799,-81.5423,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRYF973,467.65,462.65,5,141.3,Santa Rsa Bch,Walton,FL,US,,30.3962,-86.3049,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRDA964,467.65,462.65,5,CSQ,Sarasota,Sarasota,FL,US,,27.26,-82.47,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRZJ421,467.65,462.65,5,D065,Tampa,Hillsborough,FL,US,Tampa Shores,28.0048,-82.6062,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D065,D065
+WRXU693,467.65,462.65,5,141.3,Wallace,Santa Rosa,FL,US,,30.6845,-87.1803,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRBM944,467.65,462.65,5,118.8,Wesley Chapel,Pasco,FL,US,I-75 Exit 279,28.2429,-82.3326,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WSDX985,467.675,462.675,5,D023,Beverly Hills,Citrus,FL,US,,28.9103,-82.4602,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WRQH980,467.675,462.675,5,77,Clearwater,Pinellas,FL,US,,27.9577,-82.7909,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,CSQ
+KAE0182,467.675,462.675,5,141.3,Cocoa,Brevard,FL,US,,28.3495,-80.7323,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSGZ553,467.675,462.675,5,141.3,Crestview,Okaloosa,FL,US,,30.7542,-86.5728,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRJU655,467.675,462.675,5,167.9,Econfina,Taylor,FL,US,,30.036,-83.9282,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WRDA964,467.675,462.675,5,CSQ,Englewood,Sarasota,FL,US,,26.963,-82.3348,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKC465,467.675,462.675,5,67,Homosassa,Citrus,FL,US,Sugarmill Woods,28.7814,-82.6151,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+KAE6188,467.675,462.675,5,141.3,Jacksonville,Duval,FL,US,,30.3281,-81.6947,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+KAE6188,467.675,462.675,5,156.7,Jacksonville Beach,Duval,FL,US,,30.2869,-81.3909,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRWR666,467.675,462.675,5,CSQ,Jupiter,Palm Beach,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDE716,467.675,462.675,5,CSQ,Miami,Miami-Dade,FL,US,Airport,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WROG208,467.675,462.675,5,167.9,Mount Dora,Lake,FL,US,,28.7982,-81.5214,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WRWT815,467.725,462.675,5.05,123,Ocala,Marion,FL,US,Huntington,29.1722,-82.063,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRWT815,467.675,462.675,5,D754,Ocala,Marion,FL,US,SE 52ct / SE 17th st,29.1721,-82.0631,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D754,CSQ
+WSHU542,467.675,462.675,5,141.3,Palatka,Putnam,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRAW556,467.675,462.675,5,118.8,Palmetto,Manatee,FL,US,,27.5594,-82.5395,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WSEK705,467.675,462.675,5,69.3,Panama City Beach,Bay,FL,US,,30.1772,-85.8042,,,,,,,,,,Yes,,,,,,,0,,0,,,,,69.3,69.3
+WSLX639,467.675,462.675,5,CSQ,Port St. Lucie,Saint Lucie,FL,US,Port St. Lucie,27.3108,-80.3441,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WPZE485,467.675,462.675,5,156.7,San Antonio,Pasco,FL,US,St. Leo University,28.3357,-82.2572,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRUB513,467.675,462.675,5,100,Sebring,Highlands,FL,US,SR-66 / CR-635,27.4108,-81.5112,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRPP686,467.675,462.675,5,100,Sebring,Highlands,FL,US,SR-66 / CR-35,27.4109,-81.5112,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WROG208,467.675,462.675,5,167.9,Sorrento,Lake,FL,US,Lone Wolf System,28.8077,-81.5601,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WQFA691,467.675,462.675,5,141.3,Tennille,Dixie,FL,US,,29.778,-83.326,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRJQ750,467.675,462.675,5,CSQ,Westchester,Miami-Dade,FL,US,,25.7222,-80.3498,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSFJ275,467.7,462.7,5,103.5,Cocoa,Brevard,FL,US,Port St John,28.4707,-80.8229,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRWR389,467.7,462.7,5,141.3,Gainesville,Alachua,FL,US,,29.6853,-82.4033,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROK734,467.7,462.7,5,107.2,Grant,Brevard,FL,US,,27.91,-80.5288,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRVZ275,467.7,462.7,5,D023,Labelle700,Glades,FL,US,,26.84,-81.3894,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WRPT996,467.7,462.7,5,141.3,Lake City,Columbia,FL,US,Hwy 100a,30.24,-82.67,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WPUC720,467.7,462.7,5,136.5,Melbourne,Brevard,FL,US,,28.1513,-80.6466,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRPW716,467.7,462.7,5,179.9,Panama City,Bay,FL,US,E 15th St / Transmitter Rd,30.1704,-85.6023,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,179.9,CSQ
+WSDQ989,467.7,462.7,5,123,Ruskin,Hillsborough,FL,US,,27.7059,-82.427,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRZJ421,467.7,462.7,5,D065,Tampa,Hillsborough,FL,US,Tampa Shores,28.0048,-82.6062,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D065,D065
+WRZI813,467.7,462.7,5,CSQ,Vero Beach,Indian River,FL,US,,27.566,-80.4003,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WROR906,467.725,462.725,5,103.5,Apopka,Orange,FL,US,,28.7154,-81.5376,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WQGG262,467.725,462.725,5,141.3,Bartow,Polk,FL,US,,27.8964,-81.8431,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSEA957,467.725,462.725,5,CSQ,Bushnell,Sumter,FL,US,,28.662,-82.1817,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMA780,467.725,462.725,5,D311,Flagler Beach,Flagler,FL,US,,29.4631,-81.1391,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D311,D311
+KAE6188,467.725,462.725,5,156.7,Jacksonville,Duval,FL,US,Downtown,30.3356,-81.6512,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRBV668,467.725,462.725,5,CSQ,Key West,Monroe,FL,US,,24.5659,-81.7702,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRXD909,467.725,462.725,5,103.5,Lutz,Pasco,FL,US,Lake Como,28.1796,-82.4775,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRAW609,467.725,462.725,5,141.3,Merritt Island,Brevard,FL,US,,28.3181,-80.666,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQFA691,467.725,462.725,5,141.3,Perry,Taylor,FL,US,,30.1116,-83.5821,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRWZ670,467.725,462.725,5,141.3,Port Saint Lucie,Saint Lucie,FL,US,,27.6648,-81.5158,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXT441,467.725,462.725,5,141.3,Seminole,Pinellas,FL,US,,27.8828,-82.8009,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROG208,467.725,462.725,5,167.9,Yalaha,Lake,FL,US,,28.74,-81.8153,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WQYU407,467.55,462.55,5,CSQ,Jasper,Pickens,GA,US,,34.5304,-84.3494,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQVH552,467.55,462.55,5,74.4,Pembroke,Bryan,GA,US,,32.136,-81.6221,,,,,,,,,,Yes,,,,,,,0,,0,,,,,74.4,74.4
+WRXY699,467.55,462.55,5,141.3,Pine Mountain,Harris,GA,US,FDR State Park,32.8649,-84.8544,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRMG494,467.55,462.55,5,CSQ,Rockmart,Polk,GA,US,,34.0026,-85.0416,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSKJ269,467.575,462.575,5,CSQ,Aragon,Polk,GA,US,,34.0834,-85.1048,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQYU407,467.575,462.575,5,CSQ,Ball Ground,Cherokee,GA,US,,34.4167,-84.341,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQYU407,467.575,462.575,5,CSQ,Draketown,Haralson,GA,US,Dallas,33.8843,-85.0719,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRFS362,467.575,462.575,5,141.3,Lake Park,Lowndes,GA,US,,30.6697,-83.3181,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYU407,467.575,462.575,5,CSQ,Watkinsville,Oconee,GA,US,,33.849,-83.4406,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSBR950,467.575,462.575,5,CSQ,Woodstock,Cherokee,GA,US,,34.1015,-84.5194,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQYU407,467.575,462.575,5,CSQ,Zebulon,Upson,GA,US,Thomaston,32.9687,-84.4278,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQYU407,467.6,462.6,5,CSQ,Buckhead,Fulton,GA,US,Buckhead,33.8505,-83.3634,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSKY330,467.6,462.6,5,CSQ,Fort Valley,Peach,GA,US,,32.5667,-83.8977,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSEM262,467.6,462.6,5,D365,Gainesville,Forsyth,GA,US,Lanierland park,34.313,-84.028,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D365,D365
+WSBR222,467.6,462.6,5,CSQ,Molena,Pike,GA,US,Near griffin reservoir,33.0323,-84.4946,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRYW942,467.6,462.6,5,123,Savannah,Chatham,GA,US,Savannah Bridge,32.088,-81.0995,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WQYU407,467.6,462.6,5,CSQ,Toccoa,Stephens,GA,US,,34.6012,-83.3623,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRFS362,467.6,462.6,5,141.3,Valdosta,Lowndes,GA,US,,30.8582,-83.2094,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYU407,467.625,462.625,5,CSQ,Chamblee,Dekalb,GA,US,,33.8733,-84.2682,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSNX237,467.625,462.625,5,141.3,Dawsonville,Dawson,GA,US,,34.4074,-84.1119,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXY699,467.625,462.625,5,141.3,Ellerslie,Harris,GA,US,Pine Ridge Elementary School,32.6321,-84.8013,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSEM262,467.625,462.625,5,103.5,Jasper,Pickens,GA,US,Mount Oglethorpe,34.5109,-84.3375,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WRFS362,467.625,462.625,5,141.3,Quitman,Brooks,GA,US,,30.7818,-83.5661,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQWX611,467.625,462.625,5,162.2,Stockbridge,Henry,GA,US,,33.5443,-84.2338,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WSLT378,467.65,462.65,5,94.8,Brinson,Decatur,GA,US,,30.8665,-84.724,,,,,,,,,,Yes,,,,,,,0,,0,,,,,94.8,CSQ
+WRQE466,0,462.65,-462.65,141.3,Centerville,Houston,GA,US,,32.6301,-83.6896,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQE466,467.65,462.65,5,141.3,Centerville,Houston,GA,US,,32.6301,-83.6896,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSMD502,467.65,462.65,5,88.5,Eatonton,Putnam,GA,US,,33.3139,-83.3931,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,88.5,88.5
+WRFS362,467.65,462.65,5,141.3,Hahira,Lowndes,GA,US,,30.9913,-83.3727,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQYU407,467.65,462.65,5,CSQ,Newnan,Coweta,GA,US,,33.4356,-84.7504,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRQE466,0,462.65,-462.65,141.3,Warner Robins,Houston,GA,US,,32.613,-83.6242,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYU407,467.675,462.675,5,CSQ,Columbus,Muscogee,GA,US,Columbus,32.4689,-84.9821,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRKM219,467.675,462.675,5,123,Columbus,Muscogee,GA,US,,32.461,-84.9877,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRCM337,467.675,462.675,5,88.5,Dry Branch,Twiggs,GA,US,,32.8234,-83.5194,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRUR889,467.675,462.675,5,141.3,Elberton,Elbert,GA,US,,34.1112,-82.8671,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQYU407,467.675,462.675,5,CSQ,Jasper,Pickens,GA,US,,34.5211,-84.3388,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSLM685,467.675,462.675,5,141.3,Valdosta,Lowndes,GA,US,,30.8492,-83.3219,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQYU407,467.7,462.7,5,CSQ,Rome,Floyd,GA,US,Rome,34.31,-85.3271,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRFS362,467.7,462.7,5,141.3,Valdosta,Lowndes,GA,US,,30.7432,-83.3949,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCA741,467.725,462.725,5,107.2,Canton,Cherokee,GA,US,Pine Log Mountain,34.3217,-84.6371,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WSKA713,467.725,462.725,5,D732,Chatsworth,Murray,GA,US,Grassy Mountain,34.7708,-84.7696,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D732,D732
+WRXY699,467.725,462.725,5,141.3,Columbus,Muscogee,GA,US,Aflac Tower,32.4532,-84.9878,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRFT652,467.725,462.725,5,CSQ,Lakeland,Lanier,GA,US,,31.0023,-83.0672,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQYU407,467.725,462.725,5,CSQ,Mcdonough,Henry,GA,US,,33.4413,-84.2077,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQZC882,467.725,462.725,5,D411,Waleska,Cherokee,GA,US,Pine Log Mountian,34.3218,-84.637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D411,D411
+WRPT387,467.575,462.575,5,179.9,Kapolei,Honolulu,HI,US,,21.3654,-158.075,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,D251
+WRFJ486,467.625,462.625,5,127.3,Kapolei,Honolulu,HI,US,Mauna Kapu,21.3603,-158.088,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,127.3,127.3
+WRDI534,467.675,462.675,5,141.3,Ocean View,Hawaii,HI,US,Ka'u,19.0945,-155.756,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRDI534,467.7,462.7,5,CSQ,Ocean View,Hawaii,HI,US,Ka'u,19.0945,-155.756,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSKG585,467.55,462.55,5,141.3,Underwood,Pottawattamie,IA,US,,41.4158,-95.7742,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,CSQ
+WROZ767,467.625,462.625,5,141.3,Le Mars,Iowa,IA,US,,42.7908,-96.151,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROZ767,467.625,462.625,5,141.3,Le Mars,Plymouth,IA,US,,42.7908,-96.151,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQYP473,467.55,462.55,5,141.3,Des Moines,Polk,IA,US,,41.5615,-93.5936,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRXZ779,467.55,462.55,5,254.1,Donnellson,Lee,IA,US,,40.6428,-91.5646,,,,,,,,,,Yes,,,,,,,0,,0,,,,,254.1,CSQ
+WRPL218,467.55,462.55,5,136.5,Sioux City,Woodbury,IA,US,,42.4966,-96.4065,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRQC416,467.575,462.575,5,67,Cedar Rapids,Linn,IA,US,,41.878,-93.0977,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WSDU790,467.575,462.575,5,151.4,Des Moines,Polk,IA,US,,41.5896,-93.6164,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+wrqt875,467.575,462.575,5,146.2,Keokuk,Lee,IA,US,,40.4045,-91.3964,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,CSQ
+WPRV616,467.575,462.575,5,114.8,West Burlington,Des Moines,IA,US,,40.825,-91.1565,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+,467.575,462.575,5,141.3,Woodward,Dallas,IA,US,,41.86,-93.92,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSIK376,467.6,462.6,5,123,Martinsburg,Keokuk,IA,US,,41.1789,-92.2518,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WRDU796,467.6,462.6,5,D172,Union,Marshall,IA,US,,42.1985,-93.125,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D172,D172
+WSFA659,467.625,462.625,5,100,Ankeny,Polk,IA,US,North Of Ankeny Sports Complex,41.7318,-93.6001,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WRLC777,467.625,462.625,5,114.8,Dubuque,Dubuque,IA,US,,42.5063,-90.6677,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRNP878,467.625,462.625,5,146.2,Russell,Lucas,IA,US,,41,-93.181,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,CSQ
+wrjg958,467.625,462.625,5,151.4,Urbandale,Polk,IA,US,,41.6276,-93.7366,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+wrjg958,467.625,462.625,5,D606,Urbandale,Polk,IA,US,,41.6294,-93.7607,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D606,D606
+WSDU790,467.625,462.625,5,151.4,Windsor Heights,Polk,IA,US,,41.6004,-93.7131,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WSBW335,467.65,462.65,5,CSQ,Cedar Falls,Black Hawk,IA,US,,40.3678,-83.7393,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+wrlc777,467.65,462.65,5,114.8,Dubuque,Dubuque,IA,US,,42.5064,-90.6677,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,CSQ
+WRDB346,467.65,462.65,5,141.3,Jefferson,Greene,IA,US,,42.0231,-94.3727,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYP473,467.65,462.65,5,141.3,Urbandale,Polk,IA,US,Near 70th &amp; Douglas -el Rodeo,41.6243,-93.7259,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQYP473,467.675,462.675,5,141.3,Madrid,Polk,IA,US,,41.8739,-93.8163,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRYW934,467.675,462.675,5,141.3,Mason city,Cerro Gordo,IA,US,,43.1449,-93.2268,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYP723,467.7,462.7,5,151.4,Burlington,Des Moines,IA,US,,40.8077,-91.1129,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WQYP473,467.7,462.7,5,151.4,Des Moines,Polk,IA,US,,41.5896,-93.6164,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRVU610,467.7,462.7,5,CSQ,Parkersburg,Butler,IA,US,,41.878,-93.0977,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSEQ772,467.7,462.7,5,110.9,Sheldon,OBrien,IA,US,,43.2032,-95.8615,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRAW998,467.725,462.725,5,141.3,Des Moines,Polk,IA,US,,41.5868,-93.625,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRVN714,467.725,462.725,5,103.5,Mediapolis,Des Moines,IA,US,,41.0081,-91.17,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WQYP723,467.725,462.725,5,156.7,Rock Island Il,Des Moines,IA,US,Camelot Campground,40.8077,-91.1129,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+wrzg312,467.725,462.725,5,203.5,St Marys,Warren,IA,US,,41.308,-93.7315,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRFK346,467.55,462.55,5,CSQ,Coeur D Alene,Kootenai,ID,US,Rockford Bay,47.5202,-116.904,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WROR578,467.55,462.55,5,136.5,Hansen,Twin Falls,ID,US,Hansen Butte,42.4932,-114.23,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSAP632,467.575,462.575,5,CSQ,Garden City,Ada,ID,US,,43.6424,-116.267,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDC656,467.575,462.575,5,141.3,Nampa,Canyon,ID,US,Pioneer FCU / D&amp;B Supply,44.0682,-114.742,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WQMA916,467.6,462.6,5,67,Caldwell,Canyon,ID,US,Hwy 20/26 &amp; Kcid,43.6604,-116.635,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRXQ579,467.6,462.6,5,141.3,Homedale,Owyhee,ID,US,Rattlesnake Ridge,43.5688,-116.969,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSBV341,467.6,462.6,5,167.9,Jerome,Jerome,ID,US,,42.7214,-114.517,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WRFW386,467.6,462.6,5,103.5,Preston,Franklin,ID,US,P-Hill,42.0963,-111.879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRTL669,467.625,462.625,5,141.3,Ammon,Bonneville,ID,US,,43.4696,-111.967,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRUR306,467.625,462.625,5,D073,Boise,Ada,ID,US,Bogus Basin,43.7399,-116.137,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D073,D073
+WRKU729,467.625,462.625,5,136.5,Hayden,Kootenai,ID,US,,47.754,-116.779,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRXQ579,467.625,462.625,5,141.3,Homedale,Owyhee,ID,US,Graveyard Point,43.5704,-116.972,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WROR969,467.625,462.625,5,97.4,Soda Springs,Caribou,ID,US,8-mile,42.5936,-111.54,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,97.4,97.4
+WRVI438,467.65,462.65,5,127.3,Hayden,Kootenai,ID,US,,47.766,-116.787,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,CSQ
+WRXQ579,467.65,462.65,5,71.9,Homedale,Owyhee,ID,US,Rattlesnake Bluff,43.5688,-116.969,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,71.9,71.9
+WRDC656,467.65,462.65,5,141.3,Nampa,Canyon,ID,US,Pioneer FCU / D&amp;B Supply,44.0682,-114.742,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,136.5
+WRJQ270,467.65,462.65,5,136.5,Rathdrum,Kootenai,ID,US,,44.0682,-114.742,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSMH873,467.675,462.675,5,141.3,Grangeville,Idaho,ID,US,Mountain Behind Grangeville,45.863,-116.123,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQL817,467.675,462.675,5,141.3,Mountain Home,Elmore,ID,US,,43.11,-115.737,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROS334,467.675,462.675,5,88.5,Soda Springs,Caribou,ID,US,Soda Point,42.6331,-111.693,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRDA216,467.7,462.7,5,136.5,Boise,Ada,ID,US,Rockhamptons 2,43.5488,-116.34,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRVI438,467.7,462.7,5,127.3,Dalton Gardens,Kootenai,ID,US,15th street,47.7057,-116.763,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,CSQ
+WRFI316,467.7,462.7,5,250.3,Emmett,Gem,ID,US,Squaw Butte,43.976,-116.407,,,,,,,,,,Yes,,,,,,,0,,0,,,,,250.3,250.3
+WRVI438,467.725,462.725,5,127.3,Caltado,Kootenai,ID,US,Roselake,47.5443,-116.47,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,CSQ
+WSGV690,467.725,462.725,5,CSQ,Emmett,Gem,ID,US,,43.8735,-116.499,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRXQ579,467.725,462.725,5,141.3,Homedale,Owyhee,ID,US,Baldwin Butte,43.5016,-116.985,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRHW998,467.725,462.725,5,141.3,Rexburg,Madison,ID,US,BYU-Idaho,43.487,-111.47,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRWL557,467.725,462.725,5,103.5,Star,Ada,ID,US,City Hall,43.6916,-116.488,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,CSQ
+WSAN428,467.725,462.725,5,136.5,Twin Falls,Twin Falls,ID,US,Curry Corner,42.5518,-114.549,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+Wrcs451,467.6,462.6,5,179.9,Belnap,Massac,IL,US,New Columbia Bluff,37.2906,-88.788,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,CSQ
+WROW973,467.625,462.625,5,141.3,Olmsted,Pulaski,IL,US,Water Tower,37.1806,-89.089,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROR746,467.65,462.65,5,D131,Mounds,Pulaski,IL,US,,37.16,-89.2035,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D131,D131
+WSGV743,467.65,462.65,5,82.5,Ava,Jackson,IL,US,,37.8884,-89.4948,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,82.5,82.5
+wsdr538,467.6,462.55,5.05,141.3,Salem,Marion,IL,US,,38.627,-88.9456,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROC706,467.675,462.675,5,127.3,Freeburg,Saint Clair,IL,US,,38.4428,-89.8793,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,127.3,127.3
+WROG922,467.55,462.55,5,141.3,Albion,Edwards,IL,US,,38.3775,-88.0561,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSFL951,467.55,462.55,5,CSQ,Chicago,Cook,IL,US,,41.8781,-87.6298,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFJ994,467.55,462.55,5,67,Cissna Park,Iroquois,IL,US,,40.5648,-87.8931,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,CSQ
+WRVH998,467.55,462.55,5,88.5,Danville,Vermilion,IL,US,,40.1496,-87.6359,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRWS550,467.55,462.55,5,CSQ,Keyesport,Bond,IL,US,,38.7506,-89.2713,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRWS550,467.55,462.55,5,CSQ,Millstadt,Saint Clair,IL,US,,38.4587,-90.0933,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+wshp782,467.55,462.55,5,103.5,Rantoul,Champaign,IL,US,,40.3084,-88.1559,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+wshp782,0,462.55,-462.55,CSQ,Rantoul,Champaign,IL,US,,40.3084,-88.1559,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSBX655,467.55,462.55,5,71.9,Robinson,Crawford,IL,US,,39.0053,-87.7392,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WRNQ278,467.55,462.55,5,CSQ,Rock Island,Rock Island,IL,US,,41.5095,-90.5788,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZY273,467.575,462.575,5,179.9,Collinsville,Madison,IL,US,,38.6859,-89.9875,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WRDU235,467.575,462.575,5,CSQ,Naperville,DuPage,IL,US,,41.8047,-88.2422,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKY475,467.575,462.575,5,CSQ,Rockford,Winnebago,IL,US,,40.6331,-89.3985,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKY475,467.575,462.575,5,CSQ,Rockford,Winnebago,IL,US,,42.2793,-89.1206,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTB528,467.575,462.575,5,74.4,Urbana,Champaign,IL,US,,40.1148,-88.1991,,,,,,,,,,Yes,,,,,,,0,,0,,,,,74.4,74.4
+WQYP964,467.6,462.6,5,192.8,Chicago,Cook,IL,US,,41.9504,-87.8038,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WRYS990,467.6,462.6,5,CSQ,Columbia,Monroe,IL,US,,38.4449,-90.1908,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRDU235,467.6,462.6,5,CSQ,Crete,Will,IL,US,,41.4214,-87.6441,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSFL951,467.6,462.6,5,CSQ,Naperville,DuPage,IL,US,,41.7508,-88.1535,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSKG303,467.6,462.6,5,CSQ,Oakwood Hills,McHenry,IL,US,,42.2491,-88.2424,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRUD441,467.6,462.6,5,CSQ,Peoria,Peoria,IL,US,,40.6331,-89.3985,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,127.3
+WRTB528,467.625,462.625,5,173.8,Danville,Vermilion,IL,US,,40.1241,-87.6714,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+KAB3210,467.65,462.65,5,D073,Aledo,Mercer,IL,US,,41.1998,-90.7493,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D073,D073
+WRTB528,467.65,462.65,5,88.5,Brocton,Edgar,IL,US,,39.7154,-87.9323,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRXZ467,467.65,462.65,5,141.3,Carthage,Hancock,IL,US,,40.412,-91.1266,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRJS281,467.65,462.65,5,79.7,Chicago,Cook,IL,US,,41.9345,-87.7956,,,,,,,,,,Yes,,,,,,,0,,0,,,,,79.7,79.7
+WRVP693,467.65,462.65,5,CSQ,Kankakee,Kankakee,IL,US,,41.1193,-87.86,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSFL951,467.65,462.65,5,D754,Naperville,DuPage,IL,US,,41.7508,-88.1535,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D754,D754
+WQZS759,467.65,462.65,5,141.3,Rockford,Winnebago,IL,US,,42.2677,-89.0878,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSFL951,467.675,462.675,5,CSQ,Aurora,DuPage,IL,US,,41.7508,-88.1535,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRVN707,467.575,462.675,4.9,77,Grand tower,Jackson,IL,US,,40.6331,-89.3985,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRUD441,467.675,462.675,5,CSQ,Pekin,Tazewell,IL,US,Downtown,40.6331,-89.3985,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,127.3
+WSDP455,467.675,462.675,5,74.4,Urbana,Champaign,IL,US,Imc/usps Downtown Station,40.1112,-88.2071,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,74.4,74.4
+WSFL951,467.7,462.7,5,CSQ,Elgin,Cook,IL,US,,42.0354,-88.2826,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRVZ988,467.7,462.7,5,103.5,Greenup,Cumberland,IL,US,Out By The High School,39.2571,-88.1869,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+KAG0256,467.7,462.7,5,D723,Marion,Williamson,IL,US,,37.7305,-88.9269,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D723,D723
+WRAP406,467.7,462.7,5,203.5,Mount Carmel,Wabash,IL,US,,38.4159,-87.7696,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,CSQ
+WQDY295,467.675,462.725,4.95,100,Evanston,Cook,IL,US,,42.0495,-87.6854,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRWL792,467.725,462.725,5,141.3,Nauvoo,Hancock,IL,US,,40.5495,-91.3827,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRUX244,467.725,462.725,5,67,Northlake,Cook,IL,US,Melrose Park,41.8967,-87.8641,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRJJ705,467.725,462.725,5,CSQ,Utica,LaSalle,IL,US,Starved Rock,41.3414,-89.0097,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZJ421,467.55,462.55,5,CSQ,Auburn,DeKalb,IN,US,,41.3,-85.0479,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRVQ645,467.55,462.55,5,136.5,Bloomington,Monroe,IN,US,Southern monroe county,39.099,-86.5028,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRDC557,467.55,462.55,5,CSQ,Columbia City,Whitley,IN,US,,41.1573,-85.4883,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFY597,467.55,462.55,5,CSQ,Elkhart,Elkhart,IN,US,,41.6812,-85.9656,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQPV948,467.55,462.55,5,77,Indianapolis,Marion,IN,US,,39.8001,-86.0771,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRNE507,467.55,462.55,5,CSQ,West Lafayette,Tippecanoe,IN,US,Hoadley Tower,40.4539,-86.9289,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,186.2
+WQSK928,467.575,462.575,5,131.8,Burlington,Carroll,IN,US,,40.5044,-86.3398,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WROI852,467.575,462.575,5,136.5,Elwood,Madison,IN,US,Harvest Market,40.2747,-85.8419,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRQS826,467.575,462.575,5,CSQ,Evansville,Vanderburgh,IN,US,Deaconess midtown hospital,37.983,-87.5712,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDC559,467.575,462.575,5,107.2,Hammond,Lake,IN,US,,41.6234,-87.4947,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WSBQ622,467.575,462.575,5,CSQ,Lafayette,Tippecanoe,IN,US,,40.4167,-86.8753,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDI358,467.6,462.6,5,D351,Floyd's Knobs,Floyd,IN,US,Floyd Knobs Overlook,38.3562,-85.8475,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D351,D351
+WRNR288,467.6,462.6,5,CSQ,Lafayette,Tippecanoe,IN,US,,40.4177,-86.8909,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQYX489,467.6,462.6,5,CSQ,New Castle,Henry,IN,US,,39.9289,-85.3702,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFD640,467.6,462.6,5,77,Ridgeville,Randolph,IN,US,,40.3067,-85.0968,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WROH728,467.6,462.6,5,91.5,Vincennes,Knox,IN,US,,38.656,-87.5046,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WRKY635,467.625,462.625,5,123,Alexandria,Madison,IN,US,,40.2778,-85.7049,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WROU622,467.625,462.625,5,131.8,Michigantown,Clinton,IN,US,Clinton Central,40.3264,-86.3928,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,131.8,131.8
+WRQC362,467.625,462.625,5,146.2,Ogden Dunes,Porter,IN,US,,41.6228,-87.1917,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WROA544,467.65,462.65,5,136.5,Fort Wayne,Allen,IN,US,Bloomingdale,41.0865,-85.1492,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSGB785,467.65,462.65,5,107.2,French Lick,Orange,IN,US,,38.5489,-86.62,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRAM564,467.65,462.65,5,118.8,Muncie,Delaware,IN,US,,40.1937,-85.3877,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRUP742,467.65,462.65,5,141.3,Terre Haute,Vigo,IN,US,North Terre Haute,39.5604,-87.3566,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRFZ435,467.65,462.65,5,173.8,Tippecanoe,Marshall,IN,US,,41.2591,-86.1597,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+WSFQ575,467.675,462.675,5,167.9,Anderson,Madison,IN,US,Mcema - Eoc,40.1164,-85.6814,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WSHP321,467.675,462.675,5,136.5,Avon,Hendricks,IN,US,West Indianapolis Raceway Road,39.7598,-86.3268,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSAI757,467.675,462.675,5,CSQ,Crawfordsville,Montgomery,IN,US,,40.0412,-86.8745,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDC557,467.675,462.675,5,CSQ,Fort Wayne,Allen,IN,US,,41.0793,-85.1394,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQQQ223,467.675,462.675,5,118.8,La Porte,La Porte,IN,US,Att Tower,41.657,-86.7663,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,118.8,118.8
+WSLT439,467.675,462.675,5,114.8,Wabash,Wabash,IN,US,,40.7361,-85.8429,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRUZ381,467.675,462.675,5,CSQ,West Lafayette,Tippecanoe,IN,US,,40.4259,-86.9081,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRQU355,467.7,462.7,5,77,Hudson,Steuben,IN,US,,41.5328,-85.0811,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,CSQ
+WQSK928,467.7,462.7,5,131.8,Russiaville,Howard,IN,US,,40.4175,-86.2714,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRVH756,467.7,462.7,5,141.3,Valparaiso,Porter,IN,US,,41.5303,-87.0365,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRJE654,467.7,462.7,5,110.9,Winchester,Randolph,IN,US,,40.172,-84.9814,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WSIY678,467.725,462.725,5,203.5,Bluffton,Wells,IN,US,Wells County Courthouse,40.7396,-85.1715,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRAX542,467.725,462.725,5,CSQ,Greencastle,Putnam,IN,US,,39.6115,-86.8373,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRFL246,467.725,462.725,5,107.2,Hammond,Lake,IN,US,,41.5834,-87.5,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WSBR753,467.725,462.725,5,CSQ,Indianapolis,Marion,IN,US,North East Indy,39.8795,-86.0478,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXQ667,467.725,462.725,5,88.5,Michigan City,La Porte,IN,US,Greenwood Cemetary,41.7026,-86.8868,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRPR355,467.7,462.7,5,131.8,Spring Hill,Miami,KS,US,,38.7431,-94.8255,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WRNW944,467.65,462.65,5,123,Mission,Johnson,KS,US,,39.0251,-94.666,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+KAF4575,467.7,462.7,5,110.9,Shawnee,Johnson,KS,US,,39.0229,-94.7152,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WSHC585,467.6,462.6,5,136.5,Lenexa,Johnson,KS,US,,38.9536,-94.82,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRPF735,467.65,462.65,5,88.5,Basehor,Leavenworth,KS,US,,39.1463,-94.9442,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRUB257,467.575,462.575,5,110.9,Lawrence,Douglas,KS,US,3 Miles N Of Lawrence Airport,39.0501,-95.2253,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,110.9,110.9
+WRUC305,467.55,462.55,5,CSQ,Circleville,Jackson,KS,US,,39.4337,-95.8494,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAS491,467.55,462.55,5,D023,Goddard,Sedgwick,KS,US,,37.6575,-97.5721,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WRMR569,467.55,462.55,5,156.7,Hays,Ellis,KS,US,,38.8929,-99.3219,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRAX210,467.55,462.55,5,131.8,Olathe,Johnson,KS,US,N Ridgeview Rd And 127th,38.8814,-94.8191,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,88.5
+WQVN320,467.55,462.55,5,141.3,Pomona,Franklin,KS,US,,38.638,-95.469,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRJR790,467.575,462.575,5,91.5,Clay Center,Clay,KS,US,,39.3785,-97.1181,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WRQD489,467.575,462.575,5,131.8,Russell,Russell,KS,US,,38.8944,-98.855,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WSGJ656,467.575,462.575,5,136.5,St. Marys,Pottawatomie,KS,US,4 Miles Nw Of St. Marys,39.2446,-96.1071,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRWV312,467.6,462.6,5,94.8,Leonardville,Riley,KS,US,,39.367,-96.8605,,,,,,,,,,Yes,,,,,,,0,,0,,,,,94.8,94.8
+WSHZ443,467.6,462.6,5,179.9,Wheaton,Pottawatomie,KS,US,City Of Wheaton,39.5019,-96.3274,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,179.9,179.9
+WROG343,467.625,462.625,5,141.3,Seneca,Nemaha,KS,US,,39.8391,-96.0576,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSNK300,467.625,462.625,5,141.3,Topeka,Shawnee,KS,US,Capital Viewing Hill,39.0352,-95.6687,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRAH695,467.65,462.65,5,123,Victoria,Ellis,KS,US,,38.857,-99.1513,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WQVB468,467.65,462.65,5,94.8,Wichita,Sedgwick,KS,US,,37.6759,-97.3017,,,,,,,,,,Yes,,,,,,,0,,0,,,,,94.8,94.8
+WREP200,467.675,462.675,5,136.5,Mcfarland,Wabaunsee,KS,US,Homestead/McFarland Rd,39.1161,-96.243,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRNY791,467.675,462.675,5,CSQ,Spring Hill,Johnson,KS,US,,38.7528,-94.8252,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMI855,467.7,462.7,5,141.3,Baxter Springs,Cherokee,KS,US,,37.0237,-94.7355,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQQE412,467.7,462.7,5,CSQ,Riley,Riley,KS,US,,39.2938,-96.8161,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSGZ670,467.725,462.725,5,141.3,Coffeyville,Montgomery,KS,US,Hillcrest Golf Course,37.0622,-95.6394,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WREP200,467.725,462.725,5,136.5,Eskridge,Wabaunsee,KS,US,,38.954,-96.1771,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRME642,467.725,462.725,5,CSQ,Topeka,Shawnee,KS,US,Highland Park,39.0119,-98.4842,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSHW622,467.725,462.725,5,156.7,Wichita,Sedgwick,KS,US,Downtown,37.6935,-97.3382,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WSHY583,467.625,462.625,5,67,Lafayette,Trigg,KY,US,,36.7227,-87.7075,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRQZ843,467.725,462.725,5,100,Fredonia,Crittenden,KY,US,Crayne Knob,37.2624,-88.0782,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WSJV431,467.625,462.625,5,123,Murray,Calloway,KY,US,Murray State University Campus,36.6132,-88.3224,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSAR295,467.55,462.55,5,CSQ,Bardstown,Nelson,KY,US,,37.8105,-85.4664,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSGM556,467.55,462.55,5,D503,Elk Creek,Spencer,KY,US,,38.09,-85.36,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D503,D503
+WSKZ528,467.55,462.55,5,82.5,Hopkinsville,Christian,KY,US,,36.9548,-87.5358,,,,,,,,,,Yes,,,,,,,0,,0,,,,,82.5,82.5
+WSHV886,467.55,462.55,5,186.2,Middlesboro,Bell,KY,US,White Oak Spur,36.6073,-83.7143,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,186.2,186.2
+WSGR404,467.55,462.55,5,114.8,Prestonsburg,Floyd,KY,US,,37.7252,-82.8378,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,CSQ
+WRKE995,467.55,462.55,5,82.5,Princeton,Caldwell,KY,US,,37.1092,-87.882,,,,,,,,,,Yes,,,,,,,0,,0,,,,,82.5,82.5
+WRCV729,467.55,462.55,5,136.5,Somerset,Pulaski,KY,US,,37.1007,-84.5887,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WQXZ786,467.55,462.55,5,141.3,Williamsburg,Whitley,KY,US,Canada Town,36.8111,-84.2311,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRMI417,467.575,462.575,5,D503,Crittenden,Kenton,KY,US,,38.8047,-84.5736,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D503,D503
+WQYD228,467.575,462.575,5,D654,Fairdale,Jefferson,KY,US,,38.1051,-85.7589,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D654,D654
+WRVV430,467.575,462.575,5,D125,Frankfort,Franklin,KY,US,,37.8393,-84.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D125,D125
+WSAL467,467.575,462.575,5,D132,Lexington,Fayette,KY,US,,37.8393,-84.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D132,D125
+WSDR992,467.6,462.6,5,141.3,Harrodsburg,Mercer,KY,US,,37.7623,-84.8433,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSMS617,467.6,462.6,5,107.2,Maysville,Mason,KY,US,Edgemont Road,38.643,-83.7655,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRVF333,467.6,462.6,5,131.8,Mckee,Jackson,KY,US,,37.4304,-83.998,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+KAE7589,467.6,462.6,5,CSQ,Russellville,Logan,KY,US,,36.8453,-86.8872,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKL806,467.6,462.6,5,141.3,Viper,Perry,KY,US,Tower with cross,37.1744,-83.14,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKZ517,467.625,462.625,5,D243,Lebanon,Marion,KY,US,Gravel Switch,37.8393,-84.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D243,D243
+WROE979,467.625,462.625,5,100,Bee Lick,Pulaski,KY,US,,37.3282,-84.5233,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRAW353,467.625,462.625,5,141.3,Frankfort,Franklin,KY,US,,38.1773,-84.9047,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSGB958,467.625,462.625,5,CSQ,Louisville South End System,Jefferson,KY,US,,38.1621,-85.7592,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WROP886,467.65,462.65,5,141.3,Dorton,Pike,KY,US,Flatswoods,37.2868,-82.5488,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRBM701,467.65,462.65,5,100,Frankfort,Franklin,KY,US,Elkhorn Campground,38.2125,-84.799,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSAI691,467.65,462.65,5,192.8,Hopkinsville,Christian,KY,US,,37.8393,-84.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WSGB249,467.65,462.65,5,151.4,La Grange,Oldham,KY,US,,38.3959,-85.3545,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRBM701,467.65,462.65,5,100,Lawrenceburg,Anderson,KY,US,North of BG Pkwy Exit 48/KY53,37.8393,-84.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRXJ900,467.65,462.65,5,D143,Richmond,Madison,KY,US,,37.7358,-84.4656,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D143,D143
+WRYM274,467.675,462.675,5,127.3,Garrett,Floyd,KY,US,,37.4923,-82.841,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRXU936,467.675,462.675,5,100,Lawrenceburg,Anderson,KY,US,Lovers Leap Winery,38.0911,-84.8753,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRKZ517,467.675,462.675,5,156.7,Lebanon,Marion,KY,US,,37.5699,-85.2526,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,156.7,156.7
+WRCS979,467.675,462.675,5,CSQ,London,Laurel,KY,US,,37.129,-84.08,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WREB719,467.675,462.675,5,CSQ,Russell Springs,Russell,KY,US,Hubbards building supply,37.0562,-85.0886,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WREI904,467.675,462.675,5,D365,Smithfield,Henry,KY,US,Busted Knuckle Garage,38.3917,-85.3101,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D365,D365
+WRAY217,467.7,462.7,5,118.8,Nancy,Pulaski,KY,US,,37.1684,-84.8247,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WROP886,467.7,462.7,5,141.3,Paintsville,Johnson,KY,US,Starfire Hill,37.7961,-82.8015,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRVA641,467.725,462.725,5,127.3,Carlisle,Nicholas,KY,US,Mt Moriah,38.3687,-84.0563,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRMR358,467.725,462.725,5,225.7,Crittenden,Grant,KY,US,,38.7846,-84.6032,,,,,,,,,,Yes,,,,,,,0,,0,,,,,225.7,225.7
+WRZB425,467.725,462.725,5,CSQ,Frankfort,Franklin,KY,US,,37.8393,-84.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJN609,467.725,462.725,5,123,Graefenburg,Shelby,KY,US,,38.1783,-85.0313,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRUX289,467.725,462.725,5,141.3,Hazard,Perry,KY,US,Gorman Ridge,37.2562,-83.1737,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROP886,467.725,462.725,5,141.3,Martin,Floyd,KY,US,,37.8393,-84.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WQXZ786,467.725,462.725,5,141.3,Williamsburg,Whitley,KY,US,Canada town,36.8111,-84.2311,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRTP596,467.55,462.55,5,CSQ,Crowley,Acadia,LA,US,,30.2053,-92.3778,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRVU907,467.55,462.55,5,CSQ,Lake Charles,Calcasieu,LA,US,,30.3364,-93.2391,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRWI497,467.55,462.55,5,199.5,Pearl River,Saint Tammany,LA,US,Hickory Cemetery,30.4163,-89.7851,,,,,,,,,,Yes,,,,,,,0,,0,,,,,199.5,199.5
+WSAD744,467.55,462.55,5,CSQ,Sarepta,Webster,LA,US,"Hwy 2 Bridge, Boss/web Line.",32.9093,-93.4902,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WREB600,467.55,462.55,5,210.7,Union,Ascension,LA,US,Sunshine Bridge,30.0915,-90.9001,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,210.7
+WRCF487,467.575,462.575,5,167.9,Baton Rouge,East Baton Rouge,LA,US,BRPD,30.4515,-91.1871,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WRJL785,467.6,462.6,5,107.2,Baton Rouge,East Baton Rouge,LA,US,S Baton Rouge,30.446,-91.1876,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WSJZ909,467.6,462.6,5,D225,Baton Rouge,East Baton Rouge,LA,US,Southern Lsu Area,30.3871,-91.1963,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D225,D225
+WRTP596,467.6,462.6,5,156.7,Crowley,Acadia,LA,US,,30.2053,-92.377,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRQD967,467.6,462.6,5,CSQ,Raceland,Lafourche,LA,US,,29.7052,-90.568,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRWN358,467.6,462.6,5,CSQ,Thibodaux,Lafourche,LA,US,,29.8035,-90.825,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFT828,467.625,462.625,5,CSQ,Baton Rouge,East Baton Rouge,LA,US,,30.4066,-91.0692,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMR399,467.625,462.625,5,D311,Baton Rouge,East Baton Rouge,LA,US,,30.4282,-91.1278,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D311,D311
+WRTP596,467.625,462.625,5,156.7,Crowley,Acadia,LA,US,,32.313,-92.373,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRVM211,467.65,462.65,5,141.3,Lafayette,Lafayette,LA,US,1 Mile South Of Acadiana High School,30.186,-92.102,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRTX966,467.65,462.65,5,114.8,Slidell,Saint Tammany,LA,US,,30.3135,-89.9431,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WSHR703,467.675,462.675,5,D223,Bossier City,Bossier,LA,US,,32.5376,-93.7049,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D223,D223
+WRCF487,467.675,462.675,5,167.9,Prairieville,Ascension,LA,US,Fair Grounds,30.3059,-90.9724,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WRVM211,467.7,462.7,5,141.3,Lafayette,Lafayette,LA,US,Downtown,30.2274,-92.0155,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRDJ918,467.7,462.7,5,CSQ,Livingston,Livingston,LA,US,,30.5021,-90.7479,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDR343,467.725,462.725,5,110.9,Baton Rouge,East Baton Rouge,LA,US,,30.3555,-90.9925,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WSCY828,467.725,462.725,5,141.3,New Orleans,Orleans,LA,US,Westbank,40.76,-73.98,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRTX966,467.725,462.725,5,114.8,Slidell,Saint Tammany,LA,US,Water Tower,30.26,-89.7927,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,CSQ
+WRJI935,467.725,462.725,5,173.8,Springfield,Livingston,LA,US,,30.4291,-90.5487,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+WRFD401,467.55,462.55,5,67,North Attleboro,Bristol,MA,US,,41.9564,-71.343,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WSCX647,467.575,462.55,5.025,69.3,Norton,Nantucket,MA,US,,41.9695,-71.1821,,,,,,,,,,Yes,,,,,,,0,,0,,,,,69.3,69.3
+WSCX647,467.55,462.55,5,CSQ,Plymouth,Plymouth,MA,US,,41.9584,-70.6673,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSCX647,467.55,462.55,5,203.5,Plymouth,Plymouth,MA,US,,41.9584,-70.6673,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,CSQ
+WQQQ874,467.575,462.575,5,CSQ,Johnston,Bristol,MA,US,RI Resource Recovery,41.7991,-71.5493,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSCX647,467.55,462.6,4.95,110.9,Norton,Bristol,MA,US,,41.9695,-71.1821,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,CSQ
+WSBA948,467.65,462.65,5,74.4,Leominster,Worcester,MA,US,Lake Whalom,42.573,-71.7464,,,,,,,,,,Yes,,,,,,,0,,0,,,,,74.4,74.4
+WQQQ874,467.7,462.7,5,CSQ,Plymouth,Plymouth,MA,US,Pine Hills,41.8523,-70.5501,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRQJ805,467.55,462.55,5,77,Dedham,Hancock,ME,US,Bald Mountain,44.6583,-68.6049,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WRQU806,467.55,462.55,5,77,Presque Isle,Aroostook,ME,US,,45.2538,-69.4455,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WQQG481,467.575,462.575,5,77,Brownville,Piscataquis,ME,US,Stickney Hill,45.3071,-69.0334,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WQPY804,467.575,462.575,5,77,Cooper,Washington,ME,US,Cooper Hill,44.9874,-67.4667,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRQU806,467.575,462.575,5,179.9,Dresden,Lincoln,ME,US,Blinn Hill,45.2538,-69.4455,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WRQU806,467.575,462.575,5,179.9,Gray,Cumberland,ME,US,,45.2538,-69.4455,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,179.9,179.9
+WQPY804,467.6,462.6,5,77,Charleston,Penobscot,ME,US,Bull Hill,45.0943,-69.0822,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WRQW297,467.6,462.6,5,100,Orland,Hancock,ME,US,Front Ridge,44.5401,-68.6864,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WQZI552,467.6,462.6,5,123,Saint George,Knox,ME,US,,43.9656,-69.2131,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRQJ805,467.625,462.625,5,77,Dixmont,Penobscot,ME,US,Peaked Mountain,44.6803,-69.1628,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WRQJ805,467.625,462.625,5,88.5,Lincoln,Penobscot,ME,US,Bagley Mtn,45.4207,-68.4208,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRQU806,467.65,462.65,5,156.7,Falmouth,Cumberland,ME,US,Blackstrap Mtn,43.7627,-70.3255,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WSMD582,0,462.65,-462.65,100,Oakland,Kennebec,ME,US,,44.5763,-69.7299,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRQK331,467.675,462.675,5,77,Frankfort,Waldo,ME,US,Mt Waldo,44.5807,-68.8964,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WRKU839,467.675,462.675,5,141.3,Verona Island,Hancock,ME,US,,44.5587,-68.7939,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQU806,467.675,462.675,5,156.7,Woodstock,Oxford,ME,US,Spruce Mtn,45.2538,-69.4455,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRQU806,467.7,462.7,5,114.8,Brunswick,Cumberland,ME,US,Oak Hill,45.2538,-69.4455,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRQJ805,467.7,462.7,5,77,Camden,Knox,ME,US,Ragged Mtn,44.2114,-69.151,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRQJ805,467.725,462.725,5,77,Eddington,Penobscot,ME,US,Blackcap Mountain,44.7574,-68.5656,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WSED734,467.725,462.725,5,CSQ,Machias,Washington,ME,US,,44.704,-67.4755,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRQU806,467.725,462.725,5,156.7,Portland,Cumberland,ME,US,,45.2538,-69.4455,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRJY836,467.55,462.55,5,D023,Bitely,Newaygo,MI,US,,43.7957,-85.7892,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WSCK466,467.55,462.55,5,107.2,Grand Haven,Ottawa,MI,US,,43.075,-86.2173,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRKB865,467.55,462.55,5,141.3,Grand Rapids,Kent,MI,US,,42.7967,-85.65,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXZ766,467.55,462.55,5,151.4,Grayling,Crawford,MI,US,,44.6669,-84.7107,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WSNH291,467.55,462.55,5,94.8,Lake Odessa,Ionia,MI,US,,42.7992,-85.0368,,,,,,,,,,Yes,,,,,,,0,,0,,,,,94.8,94.8
+WSEU202,467.55,462.55,5,136.5,Roseville,Macomb,MI,US,Big Red/black Slipknot Sign,42.4949,-82.9387,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRMB632,467.575,462.575,5,141.3,Brownstown,Wayne,MI,US,,42.1275,-83.2597,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXX540,467.575,462.575,5,136.5,Lincoln,Alcona,MI,US,,44.6515,-83.4237,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRAB719,467.575,462.575,5,CSQ,Troy,Oakland,MI,US,,42.5624,-83.1477,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSDE796,467.575,462.575,5,107.2,Whitehall,Muskegon,MI,US,,43.41,-86.3487,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRYV897,467.6,462.6,5,141.3,Mayville,Tuscola,MI,US,,43.337,-83.3524,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSAQ296,467.6,462.6,5,123,Rives Junction,Jackson,MI,US,Tompkins,42.3892,-84.5486,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRJY836,467.625,462.625,5,141.3,Baldwin,Lake,MI,US,L Lakes,43.8287,-85.8492,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRZA698,467.625,462.625,5,CSQ,Cement City,Jackson,MI,US,,42.0699,-84.3281,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRVT634,467.625,462.625,5,141.3,Detroit,Wayne,MI,US,,42.4244,-83.1179,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRNR526,467.625,462.625,5,162.2,Eaton Rapids,Eaton,MI,US,,42.5002,-84.6556,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRVB375,467.625,462.625,5,100,Grand Ledge,Eaton,MI,US,,42.7533,-84.746,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSKS713,467.625,462.625,5,156.7,Lowell,Kent,MI,US,East Side,42.9545,-85.3457,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,156.7,156.7
+WRCU779,467.625,462.625,5,141.3,Newberry,Luce,MI,US,,46.3474,-85.5137,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRKI548,467.625,462.625,5,141.3,Saint Helen,Roscommon,MI,US,,44.3636,-84.4103,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRFP357,467.625,462.625,5,CSQ,Warren,Macomb,MI,US,,42.5145,-83.0147,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTD473,467.625,462.625,5,88.5,West Olive,Ottawa,MI,US,,42.9402,-86.0863,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+KAE6453,467.65,462.65,5,141.3,Benton Harbor,Berrien,MI,US,,41.9207,-86.333,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+KAB9585,467.65,462.65,5,79.7,Grand Rapids,Kent,MI,US,,43.0137,-85.4768,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,79.7,79.7
+WSLE314,467.65,462.65,5,141.3,Oakland Township,Oakland,MI,US,,42.7857,-83.1109,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+KAE6453,467.675,462.675,5,141.3,Benton Harbor,Berrien,MI,US,,42.0726,-86.3714,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRAB719,467.675,462.675,5,CSQ,Fairview,Oscoda,MI,US,,44.7394,-84.0964,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRWN809,467.675,462.675,5,141.3,Kentwood,Kent,MI,US,,42.8695,-85.6448,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRUU850,467.675,462.675,5,141.3,Mount Clemens,Macomb,MI,US,,42.597,-82.8778,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSDE796,467.675,462.675,5,131.8,Muskegon,Muskegon,MI,US,,43.2342,-86.2484,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRQU380,467.675,462.675,5,141.3,Roscommon,Roscommon,MI,US,I-75 Exit 239,44.4615,-84.5776,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQXG567,467.675,462.675,5,141.3,Sault Ste Marie,Chippewa,MI,US,,46.4693,-84.3689,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSGQ896,467.7,462.7,5,203.5,Ann Arbor,Washtenaw,MI,US,,42.2813,-83.7455,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WQXN756,467.7,462.7,5,94.8,Fremont,Newaygo,MI,US,Luce And 48th St,43.4683,-85.918,,,,,,,,,,Yes,,,,,,,0,,0,,,,,94.8,94.8
+KAB9578,467.7,462.7,5,CSQ,Grand Rapids,Kent,MI,US,,43.0168,-85.7415,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTR925,467.7,462.7,5,79.7,Greenville,Montcalm,MI,US,,43.1745,-85.2973,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,79.7,79.7
+WRYH411,467.7,462.7,5,141.3,Melvindale,Wayne,MI,US,,42.2825,-83.1752,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSEL583,467.725,462.725,5,100,Charlotte,Eaton,MI,US,,42.569,-84.8378,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WQPX541,467.725,462.725,5,141.3,Houghton Lake,Roscommon,MI,US,,44.305,-84.754,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQE265,467.725,462.725,5,136.5,Lewiston,Oscoda,MI,US,,44.7989,-84.2717,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSMZ898,467.575,462.725,4.85,203.5,Mi,Genesee,MI,US,Mi,44.3148,-85.6024,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRPI377,467.55,462.55,5,D115,Askov,Pine,MN,US,,46.1845,-92.6709,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D115,D115
+WQWA413,467.55,462.55,5,CSQ,Cold Spring,Stearns,MN,US,,45.4536,-94.4278,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WPUF883,467.55,462.55,5,141.3,Farmington,Dakota,MN,US,,44.6402,-93.1435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRJF954,467.55,462.55,5,CSQ,Medina,Hennepin,MN,US,,46.7296,-94.6859,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRPP406,467.55,462.55,5,103.5,Silica,St Louis,MN,US,Beauty Mountain,42.2137,-93.0551,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRMX260,467.55,462.55,5,CSQ,White Earth,Becker,MN,US,,47.2333,-95.767,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRPU609,467.575,462.575,5,141.3,Rosemount,Dakota,MN,US,,44.7623,-93.1059,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQC259,467.575,462.575,5,D172,Sauk Rapids,Stearns,MN,US,Water Tower,45.6009,-94.1584,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D172,D172
+WRAM853,467.575,462.575,5,114.8,Woodbury,Washington,MN,US,,44.867,-92.9431,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRDZ716,467.575,462.575,5,CSQ,Wykoff,Fillmore,MN,US,,43.8556,-92.4876,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCZ321,467.6,462.6,5,141.3,Falcon Heights,Ramsey,MN,US,Larpenteur Manor Apartments,44.9903,-93.1728,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSFE426,467.6,462.6,5,67,Grand Marais,Cook,MN,US,Sisters Place.,47.7543,-90.3286,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRQC259,467.6,462.6,5,D172,Milaca Mn,Mille Lacs,MN,US,Commercial Tower,45.7935,-93.6553,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D172,D172
+WRJF954,467.6,462.6,5,CSQ,Orono,Hennepin,MN,US,Lake Minnetonka,46.7296,-94.6859,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSAB427,467.6,462.6,5,D023,Plainview,Wabasha,MN,US,,44.1611,-92.1674,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WPUF883,467.625,462.625,5,141.3,Farmington,Dakota,MN,US,,44.6402,-93.1435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVM929,467.625,462.625,5,100,Lakeville,Dakota,MN,US,,44.6914,-93.1978,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WQCQ790,467.65,462.65,5,141.3,Falcon Heights,Ramsey,MN,US,U of M St. Paul Campus,44.9853,-93.1818,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRZJ527,467.65,462.65,5,D754,Rochester,Olmsted,MN,US,,44.0121,-92.4802,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D754,D754
+WRNQ682,467.675,462.675,5,CSQ,Annandale,Wright,MN,US,Granit Lake,45.1134,-94.6371,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTM295,467.675,462.675,5,141.3,Kasson,Dodge,MN,US,,44.0296,-92.7509,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+KAF6430,467.675,462.675,5,141.3,Minneapolis,Hennepin,MN,US,University of Minnesota,44.9759,-93.2344,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRWE715,467.675,462.675,5,CSQ,Saint Cloud,Stearns,MN,US,,45.5,-94.119,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXV477,467.7,462.7,5,77,Manchester,Freeborn,MN,US,I90 / Hwy 13,43.7255,-93.4519,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,CSQ
+WRCU801,467.7,462.7,5,141.3,North Lakeville,Dakota,MN,US,,44.6402,-93.1435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRDE848,467.7,462.7,5,CSQ,Rochester,Olmsted,MN,US,,44.0253,-92.5242,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRWN697,467.7,462.7,5,123,Wolf Lake,Becker,MN,US,Smokey Hills,46.8339,-95.2931,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRHY331,467.725,462.725,5,114.8,Fridley,Anoka,MN,US,,45.0659,-93.237,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,141.3
+WRJP808,467.625,462.625,5,127.3,Barnhart,Jefferson,MO,US,,38.4462,-90.4129,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRJP808,467.65,462.65,5,127.3,Arnold,Jefferson,MO,US,Creekwood Subdivision,38.446,-90.414,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRWH238,467.55,462.55,5,141.3,High Ridge,Jefferson,MO,US,,38.4838,-90.5171,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKA462,467.6,462.6,5,141.3,Pacific,Franklin,MO,US,Signal Hill,38.4068,-90.7334,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRMA779,467.575,462.575,5,136.5,Weldon Spring,St Charles,MO,US,,38.7134,-90.6893,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WROP500,467.625,462.625,5,141.3,Cooper Hill,Osage,MO,US,,38.4273,-91.7139,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRYZ926,467.6,462.6,5,179.9,Mexico,Audrain,MO,US,Kwwr Backup Tower,39.1946,-91.9409,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WROP500,467.725,462.725,5,141.3,Holts summit,Callaway,MO,US,,38.6577,-92.1283,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROP500,467.55,462.55,5,141.3,Ashland,Boone,MO,US,,38.7639,-92.3148,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSEB569,467.6,462.6,5,131.8,Sedalia,Pettis,MO,US,,38.7135,-93.25,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WQUQ715,467.725,462.725,5,141.3,Grain Valley,Jackson,MO,US,,38.959,-94.15,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQUQ715,467.6,462.6,5,141.3,Grain Valley,Jackson,MO,US,Private Tower,38.9594,-94.1505,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRMD741,467.575,462.575,5,110.9,Buckner,Jackson,MO,US,,39.1325,-94.1986,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRVL804,467.55,462.55,5,107.2,Independence,Jackson,MO,US,,39.0721,-94.3103,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRNW944,467.625,462.625,5,107.2,Peculiar,Cass,MO,US,,38.7573,-94.4345,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WROZ370,467.625,462.625,5,D311,Raytown,Jackson,MO,US,,38.9717,-94.4648,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D311,D311
+WRNW944,467.6,462.6,5,131.8,Saint Joseph,Buchanan,MO,US,,39.7675,-94.8467,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRQE761,467.55,462.55,5,141.3,O'Fallon,St Charles,MO,US,South O'Fallon,38.7591,-90.7366,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPI587,467.55,462.55,5,CSQ,Washburn,Barry,MO,US,,36.3935,-94,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WROQ478,467.575,462.575,5,162.2,Branson,Taney,MO,US,Inspiration Tower,36.6684,-93.3102,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,162.2,162.2
+WQXG949,467.575,462.575,5,141.3,Washburn,Barry,MO,US,,36.5786,-94.02,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSAC934,467.6,462.6,5,162.2,Aurora,Lawrence,MO,US,,37.9643,-91.8318,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,CSQ
+WRKG680,467.6,462.6,5,162.2,Forsyth,Taney,MO,US,Skyline Hills,36.696,-93.0894,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRQK747,467.6,462.6,5,141.3,Lebanon,Laclede,MO,US,Water Tower,37.6597,-92.6558,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSAE349,467.6,462.6,5,71.9,Wentzvillle,St Charles,MO,US,,38.8393,-90.9232,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WRWR975,467.625,462.625,5,CSQ,Seymour,Webster,MO,US,Smorr,37.0838,-92.7317,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXU626,467.625,462.625,5,162.2,Springfield,Greene,MO,US,Cox North Hospital,37.2246,-93.2902,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRKQ979,467.65,462.65,5,67,Carthage,Jasper,MO,US,,37.1764,-94.3102,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRJB323,467.65,462.65,5,167.9,Dexter,Stoddard,MO,US,3 Miles North Of,37.9643,-91.8318,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,167.9,CSQ
+WRXB941,467.65,462.65,5,CSQ,Elston,Cole,MO,US,,38.6299,-92.3445,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WROG291,467.65,462.65,5,141.3,Macon,Macon,MO,US,,39.7508,-92.4564,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVF277,467.65,462.65,5,210.7,Wildwood,St Louis,MO,US,,38.6272,-90.6473,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,210.7
+WROP500,467.675,462.675,5,141.3,Jefferson city,Cole,MO,US,,38.5516,-92.2131,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQE761,467.675,462.675,5,D732,O'Fallon,St Charles,MO,US,Metro_skywarn/South O'Fallon,38.7585,-90.7365,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D732,D732
+WROQ478,467.675,462.675,5,162.2,Ozark,Christian,MO,US,Verizon Link Tower,37.0883,-93.1764,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,162.2,162.2
+WSNS675,467.7,462.7,5,254.1,Auxvasse,Callaway,MO,US,,39.018,-91.8973,,,,,,,,,,Yes,,,,,,,0,,0,,,,,254.1,254.1
+WRDX628,467.7,462.7,5,141.3,Saint Charles,St Charles,MO,US,Lindenwood College,38.782,-90.481,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROQ478,467.7,462.7,5,162.2,Springfield,Greene,MO,US,Cox South Hospital,37.1456,-93.2797,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRTT600,467.7,462.7,5,CSQ,Vanduser,Scott,MO,US,,37.9643,-91.8318,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRUK720,467.7,462.7,5,110.9,West Plains,Howell,MO,US,,36.7163,-91.8772,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRFR478,467.725,462.725,5,250.3,Joplin,Jasper,MO,US,,37.0842,-94.5133,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,250.3,250.3
+WROW895,467.725,462.725,5,203.5,Raymore,Cass,MO,US,,37.9643,-91.8318,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WROQ478,467.725,462.725,5,162.2,Springfield,Greene,MO,US,Central Springfield,37.2086,-93.2937,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRFK696,467.55,462.55,5,141.3,Brookhaven,Lincoln,MS,US,,31.6182,-90.1837,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WREX927,467.55,462.55,5,100,Ellisville,Jones,MS,US,,32.3547,-89.3985,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRJV902,467.55,462.55,5,114.8,Flowood,Rankin,MS,US,,32.351,-90.0654,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,CSQ
+WSCF376,467.575,462.575,5,CSQ,Chunky,Newton,MS,US,,32.3413,-88.933,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXC437,467.6,462.6,5,123,Carthage,Leake,MS,US,Baptist Leake,32.7422,-89.5161,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRPU496,467.6,462.6,5,CSQ,Pearl,Rankin,MS,US,,32.2663,-90.1343,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRPQ466,467.625,462.625,5,D023,Collins,Covington,MS,US,,31.6737,-89.6367,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WRKR557,467.625,462.625,5,D023,Ellisville,Jones,MS,US,,31.5543,-89.1448,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WRFB430,467.65,462.65,5,141.3,Ellisville,Jones,MS,US,,31.63,-89.22,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSBQ741,467.65,462.65,5,D023,Vancleave,Jackson,MS,US,,30.6036,-88.722,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WRXC437,467.675,462.675,5,127.3,Reformation,Leake,MS,US,,32.7735,-89.4715,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRFI958,467.7,462.7,5,D023,Baysprings,Jasper,MS,US,,31.5817,-89.1729,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WSFE961,467.7,462.7,5,D174,Ocean Springs,Jackson,MS,US,,30.414,-88.8278,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D174,D174
+WSJU530,467.7,462.7,5,151.4,Pearl,Rankin,MS,US,Downtown,32.2912,-90.1298,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,151.4,151.4
+WRXU869,467.725,462.725,5,123,Midway,Leake,MS,US,,32.8005,-89.4439,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRUZ927,467.725,462.725,5,136.5,Waynesboro,Wayne,MS,US,North West Tower,31.7069,-88.9109,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WQOF876,467.55,462.55,5,141.3,Billings,Yellowstone,MT,US,,45.7828,-108.505,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPR982,467.575,462.575,5,100,Billings,Yellowstone,MT,US,,45.7572,-108.517,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRJZ443,467.6,462.6,5,192.8,Corvallis,Ravalli,MT,US,,46.1936,-114.046,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WSCB218,467.6,462.6,5,100,Cut Bank,Glacier,MT,US,,48.633,-112.326,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WQZH452,467.625,462.625,5,146.2,Eureka,Lincoln,MT,US,Pinkham Mtn,48.6434,-115.092,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,146.2,146.2
+WRZH478,467.65,462.65,5,141.3,Livingston,Park,MT,US,Meyers Flats,45.5975,-110.547,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRQJ422,467.675,462.675,5,141.3,Hamilton,Ravalli,MT,US,,46.2471,-114.155,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQZH452,467.725,462.725,5,146.2,Eureka,Lincoln,MT,US,Black Butte Mtn,48.8645,-115.125,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WRED350,467.725,462.725,5,100,Kalispell,Flathead,MT,US,Lone Pine,48.176,-114.35,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WRZJ725,467.55,462.55,5,131.8,Ahoskie,Hertford,NC,US,,36.3111,-77.0096,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,131.8,131.8
+WRAI304,467.55,462.55,5,141.3,Apex,Wake,NC,US,,35.7547,-78.8846,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+wraw236,467.625,462.55,5.075,151.4,Asheville,Buncombe,NC,US,Biltmore,35.5667,-82.5423,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRAW236,467.55,462.55,5,151.4,Asheville,Buncombe,NC,US,Biltmore,35.5667,-82.5423,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WSHE407,467.725,462.55,5.175,67,Cedar Mountain,Transylvania,NC,US,Dupont,35.1817,-82.6104,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRQK380,467.55,462.55,5,136.5,Chapel Hills,Chatham,NC,US,Fearrington Village,35.7993,-79.0844,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRUP989,467.55,462.55,5,136.5,Durham,Durham,NC,US,,35.7596,-79.0193,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRMB218,467.55,462.55,5,186.2,Emerald Isle,Carteret,NC,US,Bogue Inlet Pier,34.6779,-76.9508,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WQSY492,467.55,462.55,5,CSQ,Franklin,Macon,NC,US,Cowee Bald,35.1823,-83.3815,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSEI906,467.55,462.55,5,210.7,Grandy,Currituck,NC,US,Flippers,36.2326,-75.8732,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,210.7
+WRZY308,467.55,462.55,5,136.5,Hendersonville,Henderson,NC,US,Davis Mtn,35.3144,-82.5284,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRPP340,467.55,462.55,5,D265,Luart,Harnett,NC,US,,35.4152,-78.8872,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D265,D265
+WRUT844,0,462.55,-462.55,CSQ,Reelsboro,Craven,NC,US,,35.1983,-76.9754,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJE502,467.55,462.55,5,141.3,Rosman,Transylvania,NC,US,"Gorges State Park, NC",35.0703,-82.8722,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+KAF8172,467.55,462.55,5,162.2,Sanford,Chatham,NC,US,Pittsboro Fire Station #3,35.6217,-79.1939,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WQLP990,467.55,462.55,5,114.8,Snow Camp,Alamance,NC,US,,35.945,-79.395,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRDR657,467.55,462.55,5,107.2,Sophia,Randolph,NC,US,,35.8232,-79.8609,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WSDN287,467.55,462.55,5,100,Wake Forest,Wake,NC,US,,35.9799,-78.5097,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSJY885,467.55,462.55,5,CSQ,Whiteville,Columbus,NC,US,,34.3388,-78.7031,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSCC605,467.55,462.55,5,100,Wilson,Wilson,NC,US,,35.7663,-77.8785,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRCY304,467.575,462.575,5,123,Fairview,Buncombe,NC,US,,35.5,-82.333,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WQQF940,467.575,462.575,5,D311,Gastonia,Gaston,NC,US,,35.2622,-81.1871,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D311,D311
+WRZJ725,467.575,462.575,5,131.8,Lewiston,Bertie,NC,US,,36.1229,-77.1766,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WQEN357,467.575,462.575,5,D315,Newport,Carteret,NC,US,,34.7865,-76.8591,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D315,D315
+WSED560,467.575,462.575,5,131.8,Newport,Carteret,NC,US,Hibbs Rd,34.7523,-76.8822,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WRQK380,467.575,462.575,5,136.5,Pittsboro,Chatham,NC,US,Chatham County Eoc,35.7358,-79.272,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WROK349,467.575,462.575,5,107.2,Randleman,Randolph,NC,US,North side,35.83,-79.79,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WSIX503,467.6,462.6,5,156.7,Durham,Durham,NC,US,Northgate Park,36.021,-78.8951,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,CSQ
+WROV823,467.6,462.6,5,100,Franklin,Macon,NC,US,,35.1348,-83.3885,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRMF881,467.6,462.6,5,141.3,Goldsboro,Wayne,NC,US,,35.425,-78.0569,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRQW960,467.6,462.6,5,141.3,Greensboro,Guilford,NC,US,Battleground 600,36.0683,-79.7925,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKH438,467.6,462.6,5,146.2,Hickory,Alexander,NC,US,Barretts Mountain,35.869,-81.241,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WQXC776,467.6,462.6,5,141.3,Maggie Valley,Haywood,NC,US,,35.4825,-83.0089,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRTA613,467.6,462.6,5,D411,Mt Airy,Surry,NC,US,,36.3856,-80.4683,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D411,D411
+WROZ828,467.6,462.6,5,D311,Rockwell,Rowan,NC,US,,35.5386,-80.4793,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D311,D311
+WSMI291,467.6,462.6,5,110.9,Sanford,Lee,NC,US,,35.4338,-79.2102,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,110.9,CSQ
+WQYS795,467.6,462.6,5,67,Tarboro,Edgecombe,NC,US,DSS 6 story building,35.8982,-77.5335,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WSLU981,467.625,462.625,5,67,Barnardsville,Buncombe,NC,US,,35.7557,-82.4306,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRQB300,467.625,462.625,5,203.5,Black Mountain,Buncombe,NC,US,Ridgecrest (cert East),35.6225,-82.2755,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRKH438,467.625,462.625,5,156.7,Burlington,Alamance,NC,US,,36.0959,-79.4372,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRVP232,467.625,462.625,5,100,Chapel Hill,Orange,NC,US,Old Bcbs Building/wegmans,35.9453,-79.0096,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WSLE322,467.625,462.625,5,141.3,Fair Bluff,Columbus,NC,US,Orange,34.3096,-79.0389,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSLE322,467.625,462.625,5,141.3,Fair Bluff,Columbus,NC,US,,34.3112,-79.0397,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+,467.625,462.625,5,103.5,Faith,Rowan,NC,US,,35.5911,-80.4538,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WQLP990,467.625,462.625,5,114.8,Hamlet,Richmond,NC,US,,34.9264,-79.6477,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,CSQ
+WPTP281,467.625,462.625,5,D073,Henderson,Vance,NC,US,Tower,36.304,-78.5015,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D073,D073
+WQEN357,467.625,462.625,5,114.8,Hubert,Onslow,NC,US,,34.7138,-77.2452,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,114.8,114.8
+WRPN591,467.625,462.625,5,114.8,Rockingham,Richmond,NC,US,,34.9268,-79.7544,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRWW487,467.65,462.65,5,118.8,Asheville,Buncombe,NC,US,Bearwallow Mnt,35.4613,-82.3567,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WQSY492,467.65,462.65,5,CSQ,Cashiers,Jackson,NC,US,,35.1131,-83.1009,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZJ725,467.65,462.65,5,131.8,Engelhard,Hyde,NC,US,,35.4636,-76.035,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,131.8,131.8
+WQLP990,467.65,462.65,5,100,High Point,Guilford,NC,US,,35.96,-80.01,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+KAF8172,467.65,462.65,5,162.2,Sanford,Chatham,NC,US,Pittsboro Fire Station #3,35.6217,-79.1939,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRJM341,467.65,462.65,5,141.3,Taylorsville,Alexander,NC,US,Linney's Mountain 650,35.929,-81.1632,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRUP590,467.65,462.65,5,91.5,Tryon,Polk,NC,US,"Landrum, Sc",35.2087,-82.2396,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WRWV913,467.675,462.675,5,71.9,Alexander,Buncombe,NC,US,,35.6988,-82.6366,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WRHS260,467.675,462.675,5,141.3,Apex,Wake,NC,US,,35.6618,-78.7451,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQB300,467.675,462.675,5,203.5,Black Mountain,Buncombe,NC,US,Allen Mountain (cert West),35.6288,-82.3463,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRKZ485,467.675,462.675,5,D205,Forest City,Rutherford,NC,US,Cherry Mountain,35.4143,-81.7754,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D205,D205
+WRKH438,467.675,462.675,5,141.3,Greensboro,Guilford,NC,US,,36.07,-79.8,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRZJ725,467.675,462.675,5,131.8,Hertford,Perquimans,NC,US,,36.1902,-76.466,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,131.8,131.8
+WRZZ589,467.675,462.675,5,210.7,Marion,McDowell,NC,US,Grant's Mountain,35.6594,-81.9931,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,210.7
+WRPE796,467.675,462.675,5,85.4,Mccain,Hoke,NC,US,,35.0589,-79.3456,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,85.4,85.4
+WRML536,467.675,462.675,5,141.3,Raleigh,Wake,NC,US,Wake County Courthouse,35.7739,-78.6389,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYM850,467.675,462.675,5,210.7,Stanfield,Stanly,NC,US,,35.2335,-80.427,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,CSQ
+WRAX810,467.675,462.675,5,254.1,Statesville,Iredell,NC,US,Statesville Airport,35.7668,-80.9502,,,,,,,,,,Yes,,,,,,,0,,0,,,,,254.1,254.1
+WRPN236,467.675,462.675,5,123,Wilkesboro,Wilkes,NC,US,Little Bushy Mountain,36.1299,-81.0395,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WRWE772,467.7,462.7,5,141.3,Chocowinty,Beaufort,NC,US,Twinlakes,35.5161,-77.0515,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WQXC776,467.7,462.7,5,141.3,Fletcher,Henderson,NC,US,,35.461,-82.3568,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROU784,467.7,462.7,5,103.5,Goldsboro,Wayne,NC,US,,35.4517,-77.8568,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WQLP990,467.7,462.7,5,118.8,Graham,Alamance,NC,US,,36.06,-79.4,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRWE772,467.7,462.7,5,141.3,Greenville,Pitt,NC,US,Pactolus,35.6211,-77.2759,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSFL439,467.7,462.7,5,131.8,Oriental,Pamlico,NC,US,Kershaw Tower,35.0504,-76.7327,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WRWE772,467.7,462.7,5,141.3,Pactolus,Pitt,NC,US,,35.6223,-77.2706,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQLP990,467.7,462.7,5,114.8,Randleman,Randolph,NC,US,,35.7596,-79.0193,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRVF334,467.7,462.7,5,CSQ,Rockingham,Richmond,NC,US,,35.0066,-79.855,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKA793,467.7,462.7,5,186.2,Rocky Mount,Nash,NC,US,,35.935,-77.7902,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WSKK901,467.7,462.7,5,77,Sanford,Lee,NC,US,Bullock Elementry,35.5064,-79.1864,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WQSY492,467.7,462.7,5,CSQ,Sylva,Jackson,NC,US,,35.3746,-83.2133,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDR657,467.7,462.7,5,141.3,Trinity,Randolph,NC,US,,35.8946,-79.9909,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSJY885,467.7,462.7,5,136.5,Whiteville,Columbus,NC,US,,34.3396,-78.6855,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WQLP990,467.725,462.725,5,D116,Asheboro,Randolph,NC,US,Mystery Mountain,35.42,-79.8,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D116,D116
+WRYI872,467.725,462.725,5,141.3,Asheville,Buncombe,NC,US,Spivey Mtn,35.601,-82.65,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRDA838,467.725,462.725,5,131.8,Aurora,Beaufort,NC,US,Nutrien Radio Tower,35.2636,-76.849,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRZY287,467.725,462.725,5,131.8,Buxton,Dare,NC,US,,35.2629,-75.5288,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRCU713,467.725,462.725,5,141.3,Maiden,Lincoln,NC,US,Ironton,35.5293,-81.0888,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRNU734,467.725,462.725,5,141.3,Newland,Avery,NC,US,Grandfather Mtn,36.1111,-81.8114,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRFQ833,467.725,462.725,5,127.3,Oakboro,Stanly,NC,US,,35.2257,-80.3289,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WROK567,467.725,462.725,5,CSQ,Pollocksville,Jones,NC,US,,35.0027,-77.2183,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WPTP281,467.725,462.725,5,100,Raleigh,Wake,NC,US,Fairgrounds,35.7888,-78.7205,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRAX514,467.725,462.725,5,141.3,Wilkesboro,Wilkes,NC,US,,36.15,-81.152,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WQXJ960,467.675,462.675,5,CSQ,Valley City,Barnes,ND,US,,46.9233,-98.0032,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,141.3
+WQCS806,467.6,462.6,5,141.3,Bellevue,Sarpy,NE,US,,41.1401,-95.9372,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPA756,467.625,462.625,5,141.3,Omaha,Douglas,NE,US,,41.3324,-95.973,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSFC254,467.725,462.725,5,136.5,Omaha,Douglas,NE,US,Irvington Road,41.3177,-96.0529,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WSFY798,467.7,462.7,5,100,Fremont,Dodge,NE,US,,41.44,-96.5,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WRKT997,467.7,462.7,5,88.5,Omaha,Douglas,NE,US,Millard,41.2071,-96.1047,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRKC516,467.55,462.55,5,131.8,Lincoln,Lancaster,NE,US,,40.8138,-96.6437,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WSIZ621,467.55,462.55,5,141.3,Hastings,Adams,NE,US,Hastings Campground,40.6112,-98.37,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRWX451,467.725,462.725,5,CSQ,Lincoln,Lancaster,NE,US,,41.4925,-99.9018,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQTQ588,467.725,462.725,5,88.5,North Platte,Lincoln,NE,US,,41.1903,-100.749,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,CSQ
+WRCM325,467.55,462.55,5,141.3,Scottsbluff,Scotts Bluff,NE,US,Regional west medical center,41.8864,-103.665,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSAW321,467.6,462.6,5,136.5,Stratton,Hitchcock,NE,US,,40.1481,-101.227,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRTP700,467.7,462.7,5,136.5,Henderson,York,NE,US,,40.7715,-97.784,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+WRPE999,467.7,462.7,5,141.3,Scottsbluff,Scotts Bluff,NE,US,Victory Hill,41.9203,-103.689,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,CSQ
+WPXA902,467.575,462.575,5,D156,Pembroke,Merrimack,NH,US,,43.1814,-71.4418,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D156,D156
+WPXA902,467.6,462.6,5,D156,Pittsfield,Merrimack,NH,US,,43.3059,-71.3242,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D156,D156
+WQKQ332,467.725,462.725,5,CSQ,Keene,Cheshire,NH,US,WEKW Tower,43.02,-72.23,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXS688,467.55,462.55,5,CSQ,Alamogordo,Otero,NM,US,,32.9008,-105.96,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQRS220,467.55,462.55,5,103.5,Ramah,Cibola,NM,US,,35.1331,-108.492,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,CSQ
+WRPX778,467.6,462.6,5,151.4,Breadsprings,McKinley,NM,US,,35.4268,-108.692,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRKF200,467.6,462.6,5,210.7,Las Cruces,Dona Ana,NM,US,,32.2954,-106.785,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,210.7
+WSAN607,467.6,462.6,5,146.2,Ruidoso,Lincoln,NM,US,,34.9727,-105.032,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+KAE7472,467.625,462.625,5,114.8,Farmington,San Juan,NM,US,College Hill,34.5199,-105.87,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRWD838,467.7,462.7,5,162.2,Hobbs,Lea,NM,US,,32.7012,-103.134,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,162.2,162.2
+WRAV862,467.55,462.55,5,141.3,Carson City,Carson City,NV,US,Snow Valley Peak,39.1542,-119.883,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,CSQ
+WRXL269,467.55,462.55,5,107.2,Fernley,Washoe,NV,US,Olinghouse Mine,39.39,-119.27,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WREI383,467.55,462.55,5,107.2,Henderson,Clark,NV,US,Downtown,36.0268,-114.974,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+KAG0100,467.55,462.55,5,107.2,Las Vegas,Clark,NV,US,Angel Peak,36.2044,-115.319,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRTP489,467.55,462.55,5,156.7,Smith,Lyon,NV,US,Lobdell Peak,38.92,-119.534,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRCZ311,467.575,462.575,5,179.9,Gardnerville,Douglas,NV,US,Gardnerville Ranchos,38.8026,-116.419,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,179.9,179.9
+WRCW714,467.575,462.575,5,123,Las Vegas,Clark,NV,US,Lake Sahara,36.1364,-115.286,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSAC203,467.575,462.575,5,100,Pahrump,Nye,NV,US,Lakeside Casino,36.1318,-115.958,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRXU947,467.625,462.625,5,254.1,Sparks,Washoe,NV,US,Vista Heights,39.5912,-119.703,,,,,,,,,,Yes,,,,,,,0,,0,,,,,254.1,254.1
+WRJE748,467.625,462.625,5,141.3,Winnemucca,Humboldt,NV,US,,38.8026,-116.419,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSGJ294,467.65,462.65,5,CSQ,Dayton,Lyon,NV,US,Six Mile Canyon,39.3024,-119.54,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJE748,467.65,462.65,5,141.3,Winnemucca,Humboldt,NV,US,,40.9728,-117.736,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVA972,467.675,462.675,5,CSQ,Dayton,Lyon,NV,US,,39.3052,-119.56,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFZ275,467.675,462.675,5,141.3,Minden,Douglas,NV,US,,38.9541,-119.766,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXU947,467.675,462.675,5,254.1,Sparks,Washoe,NV,US,Shadow Ridge,38.8026,-116.419,,,,,,,,,,Yes,,,,,,,0,,0,,,,,254.1,254.1
+WRXU947,467.7,462.7,5,107.2,Carson City,Storey,NV,US,McClellan Peak,39.2327,-119.687,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WRZQ984,467.7,462.7,5,CSQ,Fallon,Churchill,NV,US,,39.4749,-118.777,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+KAG0100,467.7,462.7,5,100,Goodsprings,Clark,NV,US,Low Mt Potosi,35.8325,-115.434,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRVD955,467.7,462.7,5,136.5,Reno,Washoe,NV,US,,39.548,-119.893,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSGJ294,467.725,462.725,5,CSQ,Moundhouse,Lyon,NV,US,,39.2136,-119.676,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRVQ228,467.55,462.55,5,136.5,Auburn,Cayuga,NY,US,,42.9351,-76.3338,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+WSCL731,467.55,462.55,5,D145,Bronx,Bronx,NY,US,High Bridge,40.8369,-73.9271,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D145,D145
+WSLQ568,467.55,462.55,5,183.5,Bronx,Bronx,NY,US,,40.8448,-73.8648,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,183.5,183.5
+WQTK732,467.55,462.55,5,141.3,Endwell,Broome,NY,US,,42.1129,-76.021,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCT420,467.55,462.55,5,229.1,Jamaica,New York,NY,US,N Flushing,40.7037,-73.7992,,,,,,,,,,Yes,,,,,,,0,,0,,,,,229.1,173.8
+WSHH884,467.55,462.55,5,123,Livonia,Livingston,NY,US,Farm,42.8027,-77.651,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WROV849,467.675,462.55,5.125,141.3,North Java,Wyoming,NY,US,,42.6837,-78.3378,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSGP387,467.55,462.55,5,88.5,Oswego,Oswego,NY,US,Home,43.4553,-76.5105,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRQK754,467.55,462.55,5,156.7,Savannah,Wayne,NY,US,,43.0493,-76.7552,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRDR438,467.625,462.55,5.075,71.9,Sempronius,Cayuga,NY,US,,42.7295,-76.3152,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WRUC799,467.55,462.55,5,136.5,Syracuse,Onondaga,NY,US,,43.0459,-76.1619,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WSLQ568,0,462.55,-462.55,183.5,The Bronx,Bronx,NY,US,,40.8448,-73.8648,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,183.5,183.5
+WSLQ568,467.55,462.55,5,183.5,The Bronx,Bronx,NY,US,,40.8448,-73.8648,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,183.5,183.5
+WSAH682,467.55,462.55,5,151.4,Watertown,Jefferson,NY,US,,43.9726,-75.9097,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRQF505,467.55,462.55,5,156.7,Westville,Franklin,NY,US,,44.912,-74.3619,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,CSQ
+WRCU416,467.575,462.575,5,CSQ,Attica,Wyoming,NY,US,,42.8375,-78.2103,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCT420,467.575,462.575,5,162.2,Jamaica,New York,NY,US,,40.7052,-73.7955,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,250.3
+WRXP278,467.575,462.575,5,100,Mayville,Chautauqua,NY,US,,40.7128,-74.006,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,162.2
+WRCT420,467.575,462.575,5,189.9,New York,New York,NY,US,Flushing Meadows,40.7401,-73.8407,,,,,,,,,,Yes,,,,,,,0,,0,,,,,189.9,210.7
+WRAT230,467.575,462.575,5,67,Oceanside,Nassau,NY,US,,40.7128,-74.006,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRXK376,467.575,462.575,5,88.5,Orwell,Oswego,NY,US,,43.5522,-75.9407,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRCT420,467.575,462.575,5,254.1,Queens,New York,NY,US,,40.7282,-73.7949,,,,,,,,,,Yes,,,,,,,0,,0,,,,,254.1,186.2
+WRMH968,467.6,462.6,5,141.3,Brooklyn,Kings,NY,US,Coney Island,40.5781,-73.972,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQJK414,467.6,462.6,5,103.5,Little Falls,Herkimer,NY,US,,43.0547,-74.7677,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,CSQ
+WRHX800,467.6,462.6,5,141.3,Lockport,Niagara,NY,US,,43.1456,-78.7019,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQLG981,467.6,462.6,5,192.8,Pine Bush,Orange,NY,US,,41.6082,-74.299,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WRVB530,467.6,462.6,5,123,Richford,Tioga,NY,US,,40.7128,-74.006,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRCU416,467.6,462.6,5,CSQ,Rochester,Monroe,NY,US,Xerox Tower,43.1548,-77.6047,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRHT835,467.6,462.6,5,151.4,Syracuse,Onondaga,NY,US,Onondaga Hill,43.0066,-76.1838,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,151.4,151.4
+WROS714,467.625,462.625,5,151.4,Dexter,Jefferson,NY,US,,44,-76.04,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRDR438,467.625,462.625,5,71.9,Locke,Cayuga,NY,US,,42.66,-76.43,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WRDR438,467.625,462.625,5,71.9,Locke,Cayuga,NY,US,,42.6606,-76.4308,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WRWQ488,467.625,462.625,5,77,Massena,St Lawrence,NY,US,Fourth Coast,44.9339,-74.9054,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WRWT711,467.625,462.625,5,103.5,Montour Falls,Schuyler,NY,US,,42.3721,-76.8123,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WQVI798,467.625,462.625,5,110.9,York,Livingston,NY,US,,42.8323,-77.9002,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRNB965,467.65,462.65,5,141.3,Grafton,Rensselaer,NY,US,Grafton Lake State Park,42.7323,-73.5077,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSAE814,467.65,462.65,5,136.5,Newfield,Tompkins,NY,US,Connecticut Hill,42.38,-76.66,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRMR871,467.65,462.65,5,CSQ,Staten Island,Richmond,NY,US,,40.5152,-74.2383,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMS639,467.65,462.65,5,CSQ,Vestal,Broome,NY,US,Binghamton University,42.0799,-75.952,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKS673,467.675,462.675,5,203.5,Andes,Delaware,NY,US,Bobcat,42.1889,-74.7858,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,203.5,203.5
+WRKC406,467.675,462.675,5,186.2,Bemus Point,Chautauqua,NY,US,Chautauqua Lake,42.1617,-79.3917,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WRXE693,467.675,462.675,5,97.4,Malone,Franklin,NY,US,Cargin Repeater,44.8961,-74.3288,,,,,,,,,,Yes,,,,,,,0,,0,,,,,97.4,97.4
+WQRH355,467.675,462.675,5,CSQ,Plainview,Nassau,NY,US,,40.7765,-73.4673,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+KAF9073,467.7,462.7,5,CSQ,East Meadow,Nassau,NY,US,,40.726,-73.5533,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRZQ382,467.7,462.7,5,D023,Elmira,Chemung,NY,US,,42.0912,-76.8046,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,CSQ
+WSMS629,467.7,462.7,5,203.5,Maryland,Otsego,NY,US,,42.5095,-74.9108,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WSMG959,467.7,462.7,5,CSQ,Tupper Lake,Franklin,NY,US,,44.2239,-74.4582,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRVC482,467.725,462.725,5,CSQ,Adams,New York,NY,US,17923 Comstock Rd,43.7557,-76.0145,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCV851,467.725,462.725,5,88.5,Bronx,Bronx,NY,US,Throgs Neck Bridge,40.8194,-73.8152,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WSAE814,467.725,462.725,5,156.7,Ithaca,Tompkins,NY,US,Mt Pleasant,42.45,-76.37,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,156.7,156.7
+WRQF505,467.725,462.725,5,77,Malone,Franklin,NY,US,Goodman,44.8127,-74.2457,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WRWV204,467.55,462.55,5,141.3,Ashtabula,Ashtabula,OH,US,,41.856,-80.812,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRVU874,467.55,462.55,5,131.8,Chesterland,Geauga,OH,US,,41.5223,-81.3379,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WSCS302,467.55,462.55,5,CSQ,Circleville,Pickaway,OH,US,By pickaway co. fairgrounds,39.6027,-82.91,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKE569,467.55,462.55,5,103.5,Heath,Licking,OH,US,,40.0228,-82.4446,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WSDW452,467.55,462.55,5,67,Mansfield,Richland,OH,US,,40.6959,-82.5375,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,CSQ
+WRQD990,467.55,462.55,5,141.3,Marysville,Union,OH,US,,40.2348,-83.3177,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSME458,467.55,462.55,5,82.5,South Charleston,Clark,OH,US,,39.9082,-83.6684,,,,,,,,,,Yes,,,,,,,0,,0,,,,,82.5,82.5
+WRKX865,467.575,462.575,5,71.9,Ashland,Ashland,OH,US,Ashland University,40.8601,-82.321,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,CSQ
+WSID280,467.575,462.575,5,100,Bellefontaine,Logan,OH,US,1.3 Miles From Campbell Hill,40.3678,-83.7393,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WRWM725,467.575,462.575,5,CSQ,Columbus,Franklin,OH,US,,39.9226,-83.0559,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRKJ298,467.575,462.575,5,131.8,Concord twp,Lake,OH,US,RT84 AND RT44,41.2156,-81.2417,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WROR606,467.575,462.575,5,141.3,Kenton,Hardin,OH,US,,40.6492,-83.6186,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVL762,467.575,462.575,5,141.3,Medina,Medina,OH,US,SR57 &amp; I-71,41.0934,-81.8247,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXN463,467.575,462.575,5,141.3,Middle Point,Van Wert,OH,US,,40.8556,-84.4472,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WREY273,467.575,462.575,5,100,Mount Gilead,Morrow,OH,US,,40.5427,-82.8908,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+KAF2582,467.575,462.575,5,192.8,Oregon,Lucas,OH,US,,41.6437,-83.4869,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WRZV602,467.575,462.575,5,79.7,Parma,Cuyahoga,OH,US,Bigfoot Wjw Fox 8 Tv Tower,41.3632,-81.7162,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,79.7,79.7
+WRHX862,467.575,462.575,5,186.2,Toledo,Lucas,OH,US,Central Toledo,41.6528,-83.5379,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WRAR689,467.6,462.6,5,71.9,Cincinnati,Hamilton,OH,US,Eastside,39.0879,-84.322,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WRJV667,467.6,462.6,5,100,Findlay,Hancock,OH,US,,41.0219,-83.6436,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRKT687,467.6,462.6,5,131.8,Lakewood,Cuyahoga,OH,US,,41.4806,-81.7904,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRUK872,467.6,462.6,5,CSQ,Lancaster,Fairfield,OH,US,,39.7136,-82.6016,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRUX822,467.6,462.6,5,107.2,New Carlisle,Clark,OH,US,New Carlisle Cemetary,39.9334,-84.0266,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRYI885,467.6,462.6,5,141.3,Newport,Washington,OH,US,,39.3972,-81.2222,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRDL723,467.6,462.6,5,131.8,Sharon Center,Medina,OH,US,,41.1177,-81.7352,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WQXE568,467.6,462.6,5,141.3,Wapakoneta,Auglaize,OH,US,,40.6342,-84.208,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRUK872,467.625,462.625,5,100,Amanda,Fairfield,OH,US,,40.4173,-82.9071,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WQQP429,467.625,462.625,5,D465,Bellefontaine,Logan,OH,US,South End Of Bellefontiane,40.3323,-83.7443,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D465,D465
+WRKT687,467.625,462.625,5,131.8,Brunswick,Medina,OH,US,,41.2381,-81.8418,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WSIU601,467.625,462.625,5,D265,Cleveland,Cuyahoga,OH,US,,41.4721,-81.7342,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D265,D265
+WSBC487,467.625,462.625,5,118.8,Lexington,Richland,OH,US,,40.6788,-82.617,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,CSQ
+WSHB399,467.625,462.625,5,141.3,Marion,Marion,OH,US,Top Of The Coacb Tv-39 Tower,40.6131,-83.1304,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRYP237,467.625,462.625,5,141.3,Parma,Cuyahoga,OH,US,Top Of Parma,41.3511,-81.6924,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSEJ754,467.625,462.625,5,CSQ,Toledo,Lucas,OH,US,,41.6528,-83.5379,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSCM554,467.65,462.65,5,141.3,Albany,Meigs,OH,US,,39.1964,-82.1563,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSMA302,467.65,462.65,5,118.8,Beavercreek,Greene,OH,US,,39.6631,-84.0665,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRNM906,467.65,462.65,5,203.5,Galloway,Franklin,OH,US,,39.9261,-83.1547,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WQXW909,467.65,462.65,5,141.3,Greenville,Darke,OH,US,,40.05,-84.37,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WQYT801,467.65,462.65,5,110.9,Mansfield,Richland,OH,US,SR30 / SR39,40.7686,-82.5243,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WREM315,467.65,462.65,5,D032,Mansfield,Richland,OH,US,SR71 / SR13,40.7449,-82.5195,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D032,D032
+WSAA690,467.65,462.65,5,203.5,Pataskala,Licking,OH,US,,40.0118,-82.6435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WROH790,467.65,462.65,5,CSQ,Port Jefferson,Shelby,OH,US,,40.3374,-84.0953,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXN463,467.65,462.65,5,141.3,Van Wert,Van Wert,OH,US,,40.8695,-84.5841,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRUA456,467.675,462.675,5,141.3,Akron,Summit,OH,US,Springfield Lake,40.4173,-82.9071,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSGU671,467.675,462.675,5,91.5,Athens,Athens,OH,US,Roosevelt Tower Site,39.3377,-82.0982,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,91.5,91.5
+WPTU754,467.675,462.675,5,123,Cincinnati,Hamilton,OH,US,,39.1031,-84.512,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WROT272,467.675,462.675,5,CSQ,Greenville,Darke,OH,US,,40.4173,-82.9071,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSGJ216,467.725,462.675,5.05,74.4,Niles,Trumbull,OH,US,,41.19,-80.74,,,,,,,,,,Yes,,,,,,,0,,0,,,,,74.4,CSQ
+WRFS369,467.675,462.675,5,CSQ,Painesville,Lake,OH,US,,41.6923,-81.2685,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQZF437,467.675,462.675,5,141.3,Sandusky,Erie,OH,US,Garden District,41.4562,-82.7117,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRDF982,467.675,462.675,5,123,Wakeman,Huron,OH,US,,41.2545,-82.3996,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WROR606,467.7,462.7,5,141.3,Kenton,Hardin,OH,US,,40.6501,-83.6216,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRHT824,467.7,462.7,5,141.3,Medina,Medina,OH,US,,41.1423,-81.8628,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVS202,467.7,462.7,5,91.5,Pomeroy,Meigs,OH,US,,40.4173,-82.9071,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,91.5,CSQ
+WRVD452,467.7,462.7,5,94.8,Worthington,Franklin,OH,US,,40.123,-82.98,,,,,,,,,,Yes,,,,,,,0,,0,,,,,94.8,94.8
+WSFF627,467.725,462.725,5,141.3,Chardon,Geauga,OH,US,,41.5787,-81.2133,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSLJ556,467.725,462.725,5,CSQ,Columbus,Franklin,OH,US,Hilltop Library,39.9445,-83.0736,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAL614,467.725,462.725,5,107.2,Fort Recovery,Mercer,OH,US,,40.4128,-84.7764,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRKG592,467.725,462.725,5,141.3,Huron,Erie,OH,US,,41.3913,-82.5681,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSAH210,467.725,462.725,5,131.8,Lorain,Lorain,OH,US,,41.4681,-82.1791,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WSAH210,467.725,462.725,5,131.8,Lorain,Lorain,OH,US,,41.4528,-82.1824,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRDU541,467.725,462.725,5,D265,Marietta,Washington,OH,US,Greenhill Rd,40.4173,-82.9071,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D265,CSQ
+WSHR648,467.725,462.725,5,123,Obetz,Franklin,OH,US,,39.8788,-82.9506,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRQB991,467.55,462.55,5,136.5,Ada,Pontotoc,OK,US,,34.7643,-96.6927,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WSBM285,467.55,462.55,5,141.3,Agra,Lincoln,OK,US,,35.8947,-96.8729,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCW870,467.55,462.55,5,CSQ,Elk City,Beckham,OK,US,,35.412,-99.4043,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTC928,467.55,462.55,5,233.6,Purcell,McClain,OK,US,Canadian River,35.0137,-97.3611,,,,,,,,,,Yes,,,,,,,0,,0,,,,,233.6,233.6
+WRWE556,467.55,462.55,5,88.5,Sapulpa,Creek,OK,US,,35.0078,-97.0929,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WSKT713,467.55,462.55,5,162.2,Wellston,Lincoln,OK,US,,35.7294,-97.0714,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,CSQ
+WRYA658,467.575,462.575,5,67,Idabel,McCurtain,OK,US,Idabel Water Tower(nearby),33.896,-94.8258,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,67,CSQ
+WRFL679,467.575,462.575,5,141.3,Jennings,Creek,OK,US,,36.1812,-96.5697,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSAZ974,467.575,462.575,5,CSQ,Sallisaw,Sequoyah,OK,US,,35.4501,-94.8001,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRBM679,467.575,462.575,5,141.3,Stilwell,Adair,OK,US,,35.8145,-94.6286,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRWL783,467.575,462.575,5,100,Tulsa,Tulsa,OK,US,Pine And 169,36.1352,-95.86,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRAU989,467.575,462.575,5,88.5,Tulsa,Tulsa,OK,US,Midtown,36.1255,-95.8943,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRFG619,467.6,462.6,5,225.7,Ada,Pontotoc,OK,US,Gaar Corner,35.0078,-97.0929,,,,,,,,,,Yes,,,,,,,0,,0,,,,,225.7,225.7
+WRJZ990,467.6,462.6,5,141.3,Bartlesville,Washington,OK,US,,36.7473,-95.9808,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXP810,467.6,462.6,5,D306,Chickasha,Grady,OK,US,,35.0106,-97.9583,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D306,D306
+WSHA786,467.6,462.6,5,203.5,Oklahoma City,Cleveland,OK,US,East,35.3189,-97.2123,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,203.5,203.5
+KAE8430,467.6,462.6,5,CSQ,Oklahoma City,Oklahoma,OK,US,Downtown,35.4819,-97.5085,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRUP233,467.6,462.6,5,162.2,Talihina,Le Flore,OK,US,,34.7521,-95.0072,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRUP233,467.6,462.6,5,162.2,Talihina,Le Flore,OK,US,,40.7648,-73.9808,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRZU296,467.625,462.625,5,D023,Ft Gibson,Cherokee,OK,US,,35.8499,-95.1743,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D023,D023
+WSCC509,467.625,462.625,5,85.4,Guthrie,Logan,OK,US,,35.8789,-97.4253,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,CSQ
+WRUT923,467.625,462.625,5,100,Henryetta,Okmulgee,OK,US,Henryetta Main Water Tower,35.4521,-95.9811,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRUG877,467.65,462.65,5,82.5,Eufaula,Haskell,OK,US,,35.2839,-95.4409,,,,,,,,,,Yes,,,,,,,0,,0,,,,,82.5,82.5
+WSHM354,467.65,462.65,5,82.5,Hunter,Garfield,OK,US,,36.5624,-97.6551,,,,,,,,,,Yes,,,,,,,0,,0,,,,,82.5,82.5
+WQYS768,467.65,462.65,5,88.5,Mounds,Okmulgee,OK,US,,35.8495,-96.09,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRJZ673,467.65,462.65,5,141.3,Oklahoma City,Oklahoma,OK,US,Capital area,35.4676,-97.5164,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRTN983,467.65,462.65,5,CSQ,Ponca City,Kay,OK,US,,36.707,-97.0856,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDU425,467.675,462.675,5,141.3,Ada,Pontotoc,OK,US,Pickett,34.7788,-96.7746,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSIH848,467.675,462.675,5,67,Broken Bow,McCurtain,OK,US,,34.2502,-94.7758,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,67,67
+WRTH863,467.675,462.675,5,136.5,Davis,Murray,OK,US,,34.4415,-97.2017,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WSHJ627,467.575,462.675,4.9,141.3,Owasso,Tulsa,OK,US,,36.2695,-95.8547,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,88.5
+WRJJ432,467.675,462.675,5,141.3,Tryon,Lincoln,OK,US,,35.8698,-96.9639,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WQQI845,467.675,462.675,5,141.3,Tulsa,Tulsa,OK,US,71st &amp; Yale,36.154,-95.9928,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRJZ990,467.7,462.7,5,173.8,Bartlesville,Washington,OK,US,,36.7473,-95.9808,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+WRUT923,467.7,462.7,5,100,Okmulgee,Okmulgee,OK,US,Okmulgee County Courthouse,35.6222,-95.9745,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRCW870,467.7,462.7,5,CSQ,Weatherford,Custer,OK,US,,35.4988,-98.7297,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRWJ450,467.7,462.7,5,D074,Wetumka,Hughes,OK,US,,35.2376,-96.2417,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D074,D074
+WSGC514,467.7,462.7,5,203.5,Woodward,Woodward,OK,US,,36.4336,-99.3904,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,CSQ
+WRKA818,467.55,462.55,5,110.9,Bend,Deschutes,OR,US,Long Butte,44.1761,-121.261,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRAJ748,467.55,462.55,5,CSQ,Brightwood,Clackamas,OR,US,Fire Station,45.3754,-122.033,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZM243,467.55,462.55,5,250.3,Gervais,Marion,OR,US,,45.1059,-122.89,,,,,,,,,,Yes,,,,,,,0,,0,,,,,250.3,250.3
+WSJT743,467.55,462.55,5,136.5,Hermiston,Umatilla,OR,US,Bridge Road,45.8,-119.3,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRCD602,467.55,462.55,5,141.3,Selma,Josephine,OR,US,Eight Dollar Mtn,42.258,-123.662,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRTX950,467.55,462.55,5,127.3,Sutherlin,Douglas,OR,US,Swale Creek,43.3926,-123.299,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRZJ298,467.575,462.575,5,88.5,Bend,Deschutes,OR,US,,43.8041,-120.554,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRZJ298,467.575,462.575,5,88.5,Bend,Deschutes,OR,US,Airport,44.0511,-121.191,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRTX950,467.575,462.575,5,D606,Roseburg,Douglas,OR,US,Mount Nebo,43.1965,-123.386,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D606,D606
+WRAJ748,467.575,462.575,5,CSQ,Welches,Clackamas,OR,US,Fire Station,45.3444,-121.948,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZD517,467.6,462.6,5,123,Eagle Point,Jackson,OR,US,,42.4726,-122.803,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRTX950,467.6,462.6,5,127.3,Klamath Falls,Klamath,OR,US,Hogback Mtn,42.2427,-121.707,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,127.3,127.3
+WRKT697,467.6,462.6,5,123,Lake Oswego,Clackamas,OR,US,,45.4193,-122.663,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WQTQ562,467.6,462.6,5,141.3,Medford,Jackson,OR,US,,42.3265,-122.876,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSIE552,467.6,462.6,5,136.5,Willamina,Yamhill,OR,US,,45.0791,-123.485,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WROJ693,467.625,462.625,5,141.3,Albany,Linn,OR,US,,44.6295,-123.046,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRMS439,467.625,462.625,5,103.5,Cave Junction,Josephine,OR,US,,42.1629,-123.648,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRTQ274,467.625,462.625,5,CSQ,Cave Junction,Josephine,OR,US,Takilma,42.0517,-123.618,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRTX950,467.625,462.625,5,D606,Lakeview,Lake,OR,US,Grizzley Peak,42.2514,-120.64,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D606,D606
+WRYF803,467.625,462.625,5,CSQ,Pendleton,Umatilla,OR,US,Cabbage Hill,45.5691,-118.59,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRWZ813,467.65,462.65,5,107.2,Beaverton,Washington,OR,US,Cooper Mtn,45.4941,-122.867,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WRAJ748,467.65,462.65,5,CSQ,Government Camp,Clackamas,OR,US,Near Summit Ski Area,45.3042,-121.749,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQWG583,467.65,462.65,5,100,Molalla,Clackamas,OR,US,,45.1475,-122.577,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WRTX950,467.65,462.65,5,D606,Summer Lake,Lake,OR,US,Indian Mtn Summer Lake,42.9839,-120.83,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D606,D606
+WRCY420,467.65,462.65,5,D073,Weston,Umatilla,OR,US,,45.8118,-118.491,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D073,D073
+WRXQ579,467.675,462.675,5,131.8,Adrian,Malheur,OR,US,Board Corral Mtn,43.5146,-117.213,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRTX950,467.675,462.675,5,127.3,Beatty,Klamath,OR,US,Ferguson Mtn,42.4778,-121.206,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,127.3,127.3
+WRKU891,467.675,462.675,5,141.3,Blue River,Lane,OR,US,,44.1734,-122.197,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+Wrtk335,467.675,462.675,5,136.5,Burns,Harney,OR,US,Lonepine,43.7704,-119.112,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRFW657,467.675,462.675,5,218.1,Oregon City,Clackamas,OR,US,,45.3364,-122.605,,,,,,,,,,Yes,,,,,,,0,,0,,,,,218.1,218.1
+WROM630,467.675,462.675,5,CSQ,Veneta,Lane,OR,US,Fern Ridge,44.0558,-123.321,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCD602,467.675,462.675,5,141.3,Wimer,Josephine,OR,US,Elk Mtn,42.5412,-123.247,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRWZ813,467.7,462.7,5,107.2,Colton,Clackamas,OR,US,Goat Mountain,45.163,-122.461,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WRFK333,467.7,462.7,5,141.3,Lakeside,Coos,OR,US,,43.5335,-124.175,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCH829,467.7,462.7,5,151.4,Rockaway Beach,Tillamook,OR,US,,45.6134,-123.943,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,CSQ
+WQXI589,467.7,462.7,5,141.3,Sherwood,Washington,OR,US,Cedar Creek &amp; Sw Edy Rd,45.366,-122.856,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRMH869,467.725,462.725,5,127.3,Brownsville,Linn,OR,US,,44.3935,-122.985,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,CSQ
+WRCJ832,467.725,462.725,5,100,Forest Grove,Washington,OR,US,Hwy 47,45.5234,-123.084,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRAJ748,467.725,462.725,5,CSQ,Government Camp,Clackamas,OR,US,Cj's Food Mart,45.2518,-121.71,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCD602,467.725,462.725,5,141.3,Grants Pass,Josephine,OR,US,Gilbert Peak,42.4894,-123.305,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRXP547,467.725,462.725,5,103.5,Sandy,Clackamas,OR,US,,45.4096,-122.276,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WPTV577,467.55,462.55,5,85.4,Allentown,Lehigh,PA,US,Big Rock Park,40.6023,-75.4714,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,85.4,85.4
+WSMI632,467.55,462.55,5,203.5,Bangor,Northampton,PA,US,,40.8653,-75.2072,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WSFB236,467.625,462.55,5.075,203.5,East Stroudsburg,Monroe,PA,US,,41.0031,-75.1818,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WREX343,467.55,462.55,5,107.2,Elliottsburg,Perry,PA,US,West Perry High School,40.389,-77.2889,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRVA363,0,462.55,-462.55,136.5,Jennersville,Chester,PA,US,New London Post Office,39.8232,-75.8697,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WSLC242,467.55,462.55,5,136.5,Lynnville,Lehigh,PA,US,,40.647,-75.7516,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRVN232,467.55,462.55,5,CSQ,Palmyra,Lebanon,PA,US,BlueBrute mobile RV unit,41.2033,-77.1945,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRDT431,467.55,462.55,5,218.1,Philipsburg,Centre,PA,US,Rattlesnake Fire Tower,40.9145,-78.0077,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,218.1,218.1
+WSAR525,467.55,462.55,5,D025,Reading,Berks,PA,US,,40.4065,-75.9325,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D025,D025
+WROW350,467.55,462.55,5,156.7,Shermans Dale,Perry,PA,US,,40.3187,-77.1708,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WSHY533,467.55,462.55,5,123,Springs,Somerset,PA,US,,39.7337,-79.1492,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WRQG818,467.55,462.55,5,CSQ,Warminster,Bucks,PA,US,,41.2033,-77.1945,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRVP824,467.55,462.55,5,162.2,Willow Street,Lancaster,PA,US,,39.985,-76.276,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRMV901,467.575,462.55,5.025,141.3,York,York,PA,US,,39.9661,-76.7199,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+KAE5263,467.575,462.575,5,114.8,Allentown,Lehigh,PA,US,Big Rock Park,40.5684,-75.4341,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRER765,467.575,462.575,5,CSQ,Carlisle,Cumberland,PA,US,,40.1635,-77.1639,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRBK915,467.575,462.575,5,141.3,Millerstown,Perry,PA,US,,40.5495,-77.1547,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRJN905,467.575,462.575,5,67,Northern Cambria,Cambria,PA,US,,40.6639,-78.7825,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRKF763,467.575,462.575,5,141.3,Pittsburgh,Allegheny,PA,US,,40.4916,-80.0174,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRYW364,467.575,462.575,5,225.7,Plumsteadville,Bucks,PA,US,,40.3874,-75.1466,,,,,,,,,,Yes,,,,,,,0,,0,,,,,225.7,225.7
+WSER257,467.575,462.575,5,CSQ,Reading,Berks,PA,US,,41.2033,-77.1945,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTT738,467.575,462.575,5,173.8,Tannersville,Monroe,PA,US,Camelback Mountain,41.0553,-75.3561,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+WSMN414,467.575,462.575,5,146.2,Wilcox,Elk,PA,US,Rasselas,41.6022,-78.6129,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,146.2,146.2
+WRMV901,467.575,462.575,5,141.3,York,York,PA,US,,39.9661,-76.7199,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRDD268,467.6,462.6,5,CSQ,Erie,Erie,PA,US,,41.9082,-80.3486,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+KAF9349,467.6,462.6,5,123,Geistown Borough,Cambria,PA,US,,40.2925,-78.8666,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRJT787,467.6,462.6,5,136.5,Greensburg,Westmoreland,PA,US,,40.3015,-79.5389,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRHZ245,467.6,462.6,5,123,Harrisburg,York,PA,US,Reesers Summit,40.1918,-76.8677,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+wrna576,467.6,462.6,5,173.8,Kane,McKean,PA,US,,41.6596,-78.8115,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+WSMV317,467.6,462.6,5,136.5,Penn Valley,Montgomery,PA,US,,40.0246,-75.2705,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WQZS896,467.6,462.6,5,141.3,Pottsville,Schuylkill,PA,US,,40.6879,-76.1971,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKH707,0,462.6,-462.6,91.5,Scranton,Lackawanna,PA,US,Mulberry Tower,41.4103,-75.6611,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WQXD881,467.6,462.6,5,D411,Tamaqua,Schuylkill,PA,US,,40.7973,-75.9694,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D411,D411
+WRKC406,467.6,462.6,5,186.2,Warren,Warren,PA,US,Kinzua Dam,41.8385,-79.0038,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WPTV577,467.6,462.6,5,192.8,Wind Gap,Monroe,PA,US,Next To Route 33,40.8429,-75.3023,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WSCU294,467.625,462.625,5,D251,Bangor,Northampton,PA,US,Near Franklin Hill Vinyards,40.791,-75.2116,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D251,203.5
+WPTV577,467.625,462.625,5,192.8,Bethlehem,Lehigh,PA,US,Savercool Ave Gauff's Hill,40.6259,-75.3705,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,192.8
+WRAC649,467.625,462.625,5,141.3,Carlisle,Cumberland,PA,US,,40.1184,-77.19,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRFF835,467.625,462.625,5,151.4,Johnstown,Cambria,PA,US,,41.2033,-77.1945,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WQZF229,467.625,462.625,5,141.3,Lock Haven,Clinton,PA,US,Swissdale Mt.,41.1994,-77.4314,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQWU887,467.625,462.625,5,141.3,Middleburg,Snyder,PA,US,,40.7859,-77.0472,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVZ620,467.625,462.625,5,D346,Quakertown,Bucks,PA,US,,40.4418,-75.3416,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D346,D346
+WRVZ620,467.625,462.625,5,192.8,Quakertown,Bucks,PA,US,,40.4232,-75.3445,,,,,,,,,,Yes,,,,,,,0,,0,,,,,192.8,151.4
+WSMN414,467.625,462.625,5,146.2,Ridgway,Elk,PA,US,Bootjck Mtn,41.3927,-78.6904,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,146.2,146.2
+WRMD534,467.625,462.625,5,179.9,Warminster,Bucks,PA,US,,40.2068,-75.0996,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WQOU639,467.625,462.625,5,173.8,Williamsburg,Blair,PA,US,Loop Fire Tower,40.4972,-78.133,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,173.8,173.8
+WQRH343,467.65,462.65,5,CSQ,Duryea,Lackawanna,PA,US,I380/i84/i81,41.3725,-75.5894,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSIF564,467.65,462.65,5,CSQ,New Castle,Lawrence,PA,US,,41.0037,-80.347,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKL411,467.65,462.65,5,123,Pottsville,Schuylkill,PA,US,,40.6856,-76.1955,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WQXP640,467.65,462.65,5,186.2,Pottsville,Schuylkill,PA,US,,40.6878,-76.1986,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WRDV946,467.65,462.65,5,141.3,Rockton,Clearfield,PA,US,,41.0755,-78.5498,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRJG249,467.65,462.65,5,141.3,Slatington,Lehigh,PA,US,Blue Mountain,40.7526,-75.6062,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRWQ569,467.65,462.65,5,127.3,Waynesboro,Franklin,PA,US,,39.7991,-77.6072,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRMV901,467.65,462.65,5,141.3,York,York,PA,US,Hollywood Heights,39.9626,-76.7277,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRAV831,467.675,462.675,5,D506,East Norriton,Montgomery,PA,US,Einstein Medical Center,40.1532,-75.3441,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D506,D506
+WRVX293,467.675,462.675,5,131.8,Holtwood,Lancaster,PA,US,,39.8786,-76.2713,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,131.8,131.8
+WRAD459,467.675,462.675,5,141.3,Lancaster,Lancaster,PA,US,Near Franklin &amp; Marshall Coll,40.0467,-76.1784,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSHL562,467.675,462.675,5,151.4,Mahaffey,Clearfield,PA,US,,40.8778,-78.7286,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,CSQ
+WQWJ647,467.675,462.675,5,118.8,Manheim,Lancaster,PA,US,Sparc repeater tower,40.16,-76.45,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRVA363,467.675,462.675,5,D125,Oxford Boro,Chester,PA,US,Oxford Walmart,39.7856,-75.9786,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D125,D125
+WROK592,467.675,462.675,5,118.8,Pittsburgh,Allegheny,PA,US,,41.2033,-77.1945,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WQXP640,467.675,462.675,5,186.2,St. Clair,Schuylkill,PA,US,Burma Road,40.7634,-76.1374,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WRWL377,467.675,462.675,5,D506,Tullytown,Bucks,PA,US,,40.1421,-74.8226,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D506,D506
+WRPG447,467.675,462.675,5,127.3,Venus,Venango,PA,US,,41.3671,-79.4778,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WQGU515,467.675,462.675,5,141.3,Williamsport,Lycoming,PA,US,Bald Eagle Mtn,41.2036,-76.9641,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WPWN390,467.7,462.7,5,136.5,Chester,Delaware,PA,US,Sunoco Station,39.863,-75.3709,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+KAE8031,467.7,462.7,5,D365,Easton,Northampton,PA,US,Gaffney Hill,40.6258,-75.2547,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D365,D365
+WRFZ317,467.7,462.7,5,123,Harrisburg,Dauphin,PA,US,,40.3432,-76.7803,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+KAF9349,467.7,462.7,5,123,Johnstown,Cambria,PA,US,Chickaree Mountain,40.4415,-78.9008,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSGR596,467.7,462.7,5,CSQ,Mt Pleasant,Westmoreland,PA,US,,40.149,-79.5412,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRQJ293,467.7,462.7,5,CSQ,New Kensington,Westmoreland,PA,US,,40.5698,-79.7648,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WROM573,467.7,462.7,5,146.2,Reading,Berks,PA,US,,40.3356,-75.9269,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WSEI555,467.7,462.7,5,203.5,Spring Grove,York,PA,US,,39.8745,-76.8658,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRVS771,467.7,462.7,5,CSQ,State College,Centre,PA,US,,40.7968,-77.8561,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSCF479,467.7,462.7,5,173.8,Tunckhannock,Monroe,PA,US,Pimple Hill,41.029,-75.5082,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+WSHM438,467.7,462.7,5,141.3,Uniontown,Fayette,PA,US,Uniontown Amateur Radio Club,39.9341,-79.7381,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRYL566,467.7,462.7,5,136.5,Worcester,Montgomery,PA,US,,40.2125,-75.3688,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRTT738,467.725,462.725,5,141.3,East Stroudsburg,Monroe,PA,US,Godfrey Ridge Rd,40.9799,-75.1754,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSGU512,467.725,462.725,5,131.8,Elizabeth,Allegheny,PA,US,Route 51 Estates,40.2247,-79.857,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,131.8
+WRQU235,467.725,462.725,5,85.4,Hegins,Schuylkill,PA,US,,40.7648,-73.9808,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,85.4
+WQYM530,467.725,462.725,5,D125,Jennersville,Chester,PA,US,Sr 1 / Sr 796,39.809,-75.874,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D125,D125
+WSAW263,467.725,462.725,5,186.2,Morrisville,Bucks,PA,US,,40.1891,-74.7882,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WSMN414,467.725,462.725,5,146.2,"Pennfield, Pa.",Clearfield,PA,US,Boone Mtn,41.246,-78.6457,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WRAX971,467.725,462.725,5,225.7,Philadelphia,Philadelphia,PA,US,Marconi Park,39.9193,-75.1712,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,225.7,225.7
+WROE856,467.725,462.725,5,141.3,Richboro,Bucks,PA,US,,40.2151,-75.0107,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQLC540,467.725,462.725,5,D131,Wilkes-Barre,Luzerne,PA,US,Bear Creek Twp,41.1981,-75.8207,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D131,D131
+WRFA267,467.55,462.55,5,CSQ,Barceloneta,Barceloneta,PR,US,,18.4547,-66.5384,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRAJ444,467.55,462.55,5,127.3,Maricao,Maricao,PR,US,,18.1477,-66.9827,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRAJ444,467.55,462.55,5,CSQ,Palmer,Rio Grande,PR,US,,18.1477,-66.9826,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAJ444,467.55,462.55,5,CSQ,Rio Grande,Rio Grande,PR,US,,18.309,-65.794,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQTB486,467.575,462.575,5,107.2,Cerro Roncador,Utuado,PR,US,,18.2326,-66.762,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRWM496,467.575,462.575,5,CSQ,Corozal,Corozal,PR,US,,18.2504,-66.3322,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRBU648,467.575,462.575,5,CSQ,LAJAS,Lajas,PR,US,,17.9731,-67.0477,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMN620,467.575,462.575,5,CSQ,Penuelas,Ponce,PR,US,Ponce,18.0413,-66.529,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WROG208,467.6,462.6,5,167.9,Canovanillas,Carolina,PR,US,,18.3562,-65.9245,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WRCU369,467.6,462.6,5,CSQ,Lares,Lares,PR,US,,18.2947,-66.8771,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAF986,467.6,462.6,5,CSQ,Mayaguez,Mayaguez,PR,US,,18.1842,-67.1076,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAK595,467.6,462.6,5,CSQ,Puerto Rico,Bayamon,PR,US,,18.2208,-66.5901,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSFW365,467.6,462.6,5,CSQ,Puerto rico,Isabela,PR,US,,18.2208,-66.5901,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAK595,467.625,462.625,5,CSQ,Puerto Rico,Naranjito,PR,US,,18.2208,-66.5901,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSHC677,467.625,462.625,5,D351,Vega Baja,Vega Baja,PR,US,Pugnado,18.3802,-66.4408,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D351,D351
+WRAJ444,467.65,462.65,5,CSQ,Aguada,Aguada,PR,US,Atalaya,18.3163,-67.1781,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMQ202,467.65,462.65,5,CSQ,Manati Alcaldia,Manati,PR,US,Centro Urbano,18.4205,-66.4867,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAK595,467.65,462.65,5,CSQ,Puerto Rico,Toa Alta,PR,US,,18.2208,-66.5901,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAK595,467.675,462.675,5,CSQ,Bayamon,Bayamon,PR,US,,18.3894,-66.1653,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAW470,467.675,462.675,5,CSQ,Lajas,Lajas,PR,US,,18.0511,-67.032,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRCE986,467.675,462.675,5,CSQ,Lajas,Lajas,PR,US,Surcando La Historia Inc.,18.0496,-67.0608,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFC700,467.675,462.675,5,CSQ,Moca,Moca,PR,US,,18.377,-67.0872,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAJ444,467.7,462.7,5,CSQ,Jayuya,Jayuya,PR,US,,18.1722,-66.5919,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSJH354,467.725,462.725,5,CSQ,Camuy,Camuy,PR,US,,18.3682,-66.8276,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJB619,467.725,462.725,5,CSQ,Moca,Moca,PR,US,Bo. Naranjo,18.344,-67.105,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAJ444,467.725,462.725,5,CSQ,Mona,Mayaguez,PR,US,,18.0883,-67.9372,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJI538,467.575,462.575,5,67,Portsmouth,Newport,RI,US,Mt Hope Bridge,41.6008,-71.2499,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WSCD474,467.6,462.6,5,118.8,Tiverton,Newport,RI,US,,41.6259,-71.2134,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WQEW867,467.625,462.625,5,136.5,Newport,Newport,RI,US,Pell Bridge,41.498,-71.324,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+WROV324,467.725,462.725,5,100,North Providence,Providence,RI,US,,41.869,-71.434,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WQKX665,467.55,462.55,5,CSQ,Conway,Horry,SC,US,Highway 501 near CCU,33.836,-79.0478,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMX283,467.55,462.55,5,141.3,Kershaw,Lancaster,SC,US,Kershaw Builders Supply,34.5467,-80.5814,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSBP556,467.55,462.55,5,103.5,Lexington,Lexington,SC,US,Lake Murray Dam,34.0532,-81.2179,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRCE714,467.55,462.55,5,127.3,Six Mile,Pickens,SC,US,Six Mile Mountain,34.8341,-82.8067,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRDG771,467.55,462.55,5,141.3,Sumter,Sumter,SC,US,Kaitlynn's Cafe,33.9204,-80.3415,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,CSQ
+WRNU673,467.575,462.575,5,127.3,Anderson,Anderson,SC,US,,34.595,-82.6801,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WSGZ466,467.575,462.575,5,100,Gable,Sumter,SC,US,,33.9204,-80.3415,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRYU732,467.575,462.575,5,CSQ,Wallace,Marlboro,SC,US,Sc Stateline,34.796,-79.7174,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,114.8
+WSDG351,467.6,462.6,5,67,Beaufort,Beaufort,SC,US,Shell Point,32.4316,-80.6698,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,CSQ
+WRTQ857,467.6,462.6,5,118.8,Bennettsville,Marlboro,SC,US,Nc / Sc State Line,34.8031,-79.6801,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,123
+WQKX665,467.6,462.6,5,CSQ,Fork,Dillon,SC,US,,34.2878,-79.2576,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRUJ874,467.6,462.6,5,141.3,Gaffney,Cherokee,SC,US,PGF Campgrounds,34.8797,-81.5343,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WROW382,467.6,462.6,5,141.3,York,York,SC,US,,35.0456,-81.2641,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRWL818,467.625,462.625,5,171.3,Anderson,Anderson,SC,US,Lake Hartwell,34.4545,-82.8122,,,,,,,,,,Yes,,,,,,,0,,0,,,,,171.3,CSQ
+WRJI479,467.625,462.625,5,141.3,Ballentine,Richland,SC,US,Lake Murray,33.8361,-81.1637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSFI972,467.625,462.625,5,67,Belton,Anderson,SC,US,Brown Avenue,34.5018,-82.4852,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRMH299,467.625,462.625,5,D251,Chester,Chester,SC,US,,34.708,-81.2303,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D251,107.2
+WRMX280,467.625,462.625,5,123,Edgefield,Edgefield,SC,US,,33.7942,-81.8903,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRQU236,467.625,462.625,5,79.7,Florence,Florence,SC,US,,34.1954,-79.7626,,,,,,,,,,Yes,,,,,,,0,,0,,,,,79.7,79.7
+WRAM265,467.625,462.625,5,141.3,Rock Hill,York,SC,US,Newport,33.8361,-81.1637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSKM324,467.625,462.625,5,D134,St Stephen,Berkeley,SC,US,Russellville Tower,33.3947,-79.9572,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D134,D134
+WSJY897,467.625,462.625,5,67,Walhalla,Oconee,SC,US,Water Tower,34.7588,-83.0707,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,67,67
+WRMI622,467.65,462.65,5,141.3,Rock Hill,York,SC,US,,34.9351,-81.0456,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRFH302,467.65,462.65,5,D165,Travelers Rest,Greenville,SC,US,Paris Mountain,33.8361,-81.1637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D165,D165
+WQXE747,467.675,462.675,5,D032,Cherry Grove Beach,Horry,SC,US,Near The Shack Restaurant,33.8443,-78.6338,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D032,D032
+WQXE747,467.675,462.675,5,D032,Chester,Chester,SC,US,Near Chester Medical Center,34.6878,-81.1798,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D032,D032
+WQOY993,467.675,462.675,5,123,Cleveland,Greenville,SC,US,Caesars Head,33.8361,-81.1637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRON298,467.7,462.7,5,D162,Gaffney,Cherokee,SC,US,,35.0718,-81.6498,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D162,D162
+WRWI686,467.7,462.7,5,179.9,Longs,Horry,SC,US,Iga,33.51,-78.45,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,CSQ
+WRCE714,467.7,462.7,5,127.3,Pickens,Pickens,SC,US,Glassy Mt,34.9003,-82.66,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WSDG351,467.725,462.725,5,67,Beaufort,Beaufort,SC,US,Paninis Restaurant,32.4308,-80.6726,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,67,CSQ
+WRMH299,467.725,462.725,5,103.5,Chester,Chester,SC,US,,34.7105,-81.2344,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,CSQ
+WSNU611,467.725,462.725,5,162.2,Fort Mill,Lancaster,SC,US,,34.9785,-80.8383,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRKE862,467.725,462.725,5,136.5,Starr,Anderson,SC,US,,34.3771,-82.6957,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WQVR264,467.725,462.725,5,141.3,Sumter,Sumter,SC,US,Toumey Hospital,33.9281,-80.3435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRCE714,467.725,462.725,5,123,Travelers Rest,Greenville,SC,US,,35.0463,-82.3872,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WRTY988,467.725,462.725,5,CSQ,Westminster,Oconee,SC,US,,33.8361,-81.1637,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WPYL496,467.55,462.55,5,71.9,Box elder,Pennington,SD,US,,44.1063,-103.068,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WSCE787,467.55,462.55,5,141.3,Edgemont,Fall River,SD,US,Edgemont Water Tower,43.2972,-103.835,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPL218,467.55,462.55,5,136.5,Pickstown,Charles Mix,SD,US,North Point,43.0686,-98.532,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSCE787,467.575,462.575,5,141.3,Hot springs,Fall River,SD,US,Battle Mountain,43.4429,-103.455,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSCE787,467.6,462.6,5,141.3,Custer,Custer,SD,US,Mount Coolidge,43.7446,-103.482,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSCE787,467.65,462.65,5,141.3,Custer,Custer,SD,US,Bear Mountain,43.8672,-103.75,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROC467,467.65,462.65,5,100,Redfield,Spink,SD,US,Bald mountains,44.8478,-98.6549,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WRAS704,467.625,462.675,4.95,141.3,Sioux Falls,Minnehaha,SD,US,North Cliff Ave,43.546,-96.7313,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQK570,467.7,462.7,5,110.9,Mission Hill,Yankton,SD,US,,42.9233,-97.2789,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WSAF883,467.725,462.725,5,156.7,Selby,Walworth,SD,US,,45.5053,-100.038,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WRYZ299,467.65,462.65,5,127.3,Prospect,Giles,TN,US,,35.008,-86.8475,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRMZ886,467.7,462.7,5,114.8,Shelbyville,Bedford,TN,US,,35.5175,-86.5804,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WROF665,467.55,462.55,5,CSQ,Humboldt,Gibson,TN,US,,35.5175,-86.5804,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRTR997,467.6,462.6,5,88.5,Johnson city,Washington,TN,US,,35.5175,-86.5804,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRYI432,467.6,462.6,5,141.3,Greenbrier,Robertson,TN,US,,35.5175,-86.5804,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPS982,467.7,462.7,5,162.2,Columbia,Maury,TN,US,Rock Springs / Sowell Mill Pik,35.6151,-87.0353,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,CSQ
+WRKR381,467.725,462.725,5,82.5,Spring Hill,Maury,TN,US,,35.7512,-86.93,,,,,,,,,,Yes,,,,,,,0,,0,,,,,82.5,82.5
+WQQD714,467.725,462.725,5,91.5,Murfreesboro,Rutherford,TN,US,,35.7666,-86.3926,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WQQD714,467.725,462.725,5,91.5,Murfreesboro,Rutherford,TN,US,,35.7732,-86.4016,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WSLE910,467.7,462.7,5,123,Murfreesboro,Rutherford,TN,US,,35.8211,-86.4618,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WRMZ886,467.55,462.55,5,114.8,Murfreesboro,Rutherford,TN,US,,35.8381,-86.5362,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRMZ886,467.6,462.6,5,114.8,Murfreesboro,Rutherford,TN,US,,35.8381,-86.536,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRMZ886,467.65,462.65,5,114.8,Rutherford County,Rutherford,TN,US,,35.8381,-86.536,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WQQD714,467.7,462.7,5,91.5,Franklin,Williamson,TN,US,,35.9829,-86.8421,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WQQD714,467.625,462.625,5,91.5,Smyrna,Rutherford,TN,US,,35.9815,-86.5835,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WQQD714,467.675,462.675,5,141.3,Lebanon,Wilson,TN,US,,36.1587,-86.3838,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRAA525,467.55,462.55,5,77,Hampton,Carter,TN,US,Nanny Goat Hill,36.1094,-86.8171,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,77,77
+WQZI220,467.575,462.575,5,141.3,Nashville,Davidson,TN,US,Love Circle,36.1382,-86.8159,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSHW626,467.55,462.55,5,110.9,Lebanon,Wilson,TN,US,Airport,36.1972,-86.314,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRXK276,467.7,462.7,5,114.8,Hendersonville,Sumner,TN,US,,36.3,-86.6,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,107.2
+WRQC456,467.65,462.65,5,141.3,Gallatin,Sumner,TN,US,Music Mt.,36.4671,-86.4768,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRWY508,467.55,462.55,5,141.3,Bethpage,Sumner,TN,US,,36.5761,-86.3743,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVT652,467.575,462.575,5,88.5,Millersville,Sumner,TN,US,Millersville GMRS,36.3777,-86.7057,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WRXF873,467.725,462.725,5,136.5,Portland,Sumner,TN,US,,36.5767,-86.5146,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRWG739,467.55,462.55,5,141.3,Springfield,Robertson,TN,US,,36.5098,-86.8722,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSDC364,467.7,462.7,5,179.9,Clarksville,Montgomery,TN,US,,36.5333,-87.4278,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,179.9,179.9
+WQWR627,467.55,462.55,5,67,Bath Springs,Decatur,TN,US,,35.482,-88.103,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WSFT846,467.55,462.55,5,D503,Benton,Polk,TN,US,Oswald Dome,35.1139,-84.6154,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D503,D503
+WRZW558,467.55,462.55,5,141.3,Collierville,Shelby,TN,US,,35.1,-89.7,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRDE282,467.55,462.55,5,CSQ,Etowah,McMinn,TN,US,Starr Mtn,35.2495,-84.5272,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WQYU407,467.55,462.55,5,CSQ,Georgetown,Hamilton,TN,US,,35.2621,-84.9655,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSGS218,467.55,462.55,5,136.5,Kingsport,Sullivan,TN,US,Boone lake,36.3886,-82.3479,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRJZ925,467.55,462.55,5,141.3,Pigeon Forge,Sevier,TN,US,Bluff Mountain,35.8114,-83.6679,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRPR207,467.575,462.575,5,CSQ,Kingsport,Sullivan,TN,US,Bays Mountain,35.5175,-86.5804,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQYU407,467.575,462.575,5,CSQ,Lookout Mountain,Hamilton,TN,US,Lookout Mtn,34.9854,-85.3604,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+Wsfb954,467.575,462.575,5,107.2,Murfreesboro,Rutherford,TN,US,,35.8456,-86.3903,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WQJA637,467.575,462.575,5,141.3,Tallassee,Blount,TN,US,Top-of-the-world,35.6617,-83.8958,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQYU407,467.575,462.575,5,CSQ,Top Of The World,Blount,TN,US,Cades Cove,35.6379,-83.9237,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRDE282,467.6,462.6,5,CSQ,Athens,McMinn,TN,US,,35.4429,-84.593,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRJZ925,467.6,462.6,5,141.3,Knoxville,Knox,TN,US,Sharps Ridge,36.0111,-83.9313,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSCG533,467.6,462.6,5,151.4,Livingston,Overton,TN,US,Allons Tower,36.469,-85.3531,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,151.4,CSQ
+WRKA462,467.6,462.6,5,141.3,Tiptonville,Lake,TN,US,Reelfoot Lake,36.3803,-89.4497,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSAD793,467.625,462.625,5,CSQ,Jonesborough,Washington,TN,US,,36.2198,-82.4211,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQYU407,467.625,462.625,5,CSQ,Ooltewah,Hamilton,TN,US,,35.0557,-85.0602,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRQK371,467.625,462.625,5,123,Roan Mountain,Carter,TN,US,Rip Shin,36.1927,-82.1333,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,CSQ
+WRDE282,467.65,462.65,5,CSQ,Etowah,McMinn,TN,US,,35.3234,-84.5249,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRMS395,467.65,462.65,5,CSQ,Greeneville,Greene,TN,US,,36.0774,-82.691,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXK276,467.65,462.65,5,D754,Hendersonville,Sumner,TN,US,,36.3,-86.6,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D754,D754
+WRTR662,467.65,462.65,5,141.3,Memphis,Shelby,TN,US,,35.0592,-90.0321,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRMN270,467.65,462.65,5,141.3,Mountain City,Johnson,TN,US,Stone Mountain,36.3764,-81.7861,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRJH697,467.675,462.675,5,123,Cleveland,Bradley,TN,US,,35.1475,-84.5885,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRNU734,467.675,462.675,5,88.5,Erwin,Unicoi,TN,US,,36.1451,-82.4168,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,CSQ
+WSAC927,467.675,462.675,5,118.8,Hixson,Hamilton,TN,US,,35.1893,-85.2101,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRQK371,467.675,462.675,5,123,Johnson City,Washington,TN,US,,36.3627,-82.3944,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,CSQ
+WROX887,467.675,462.675,5,141.3,Memphis,Shelby,TN,US,East Memphis Hilton Hotel,35.1061,-89.868,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQJA637,467.675,462.675,5,141.3,Sevierville,Sevier,TN,US,Bluff Mountain (Greentop),35.8115,-83.6693,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRNU734,467.7,462.7,5,123,Butler,Carter,TN,US,Watuaga Lake,36.3532,-82.0313,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WQYU407,467.7,462.7,5,CSQ,Chattanooga,Hamilton,TN,US,East Brainerd,35.0211,-85.1675,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRTR432,467.7,462.7,5,100,Enville,Chester,TN,US,,35.467,-88.454,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRFL895,467.7,462.7,5,141.3,Gatlinburg,Sevier,TN,US,Ski Mountain,35.7038,-83.5657,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,103.5
+WRNS340,467.7,462.7,5,151.4,Knoxville,Knox,TN,US,Fountain City,36.0672,-83.8959,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRXK822,467.625,462.7,4.925,100,Lafollette,Campbell,TN,US,,36.3798,-84.1218,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRDE282,467.7,462.7,5,CSQ,Madisonville,Monroe,TN,US,,35.5198,-84.3635,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQYU407,467.7,462.7,5,CSQ,Rockwood,Roane,TN,US,Mt Roosevelt,35.9163,-84.7035,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRNU734,467.725,462.725,5,123,Bristol,Sullivan,TN,US,South Holston Lake,36.5204,-82.0956,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WRXG879,467.725,462.725,5,D071,Jellico,Campbell,TN,US,White Oak,36.5879,-84.1269,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D071,D071
+WRJZ925,467.725,462.725,5,141.3,Oakridge,Anderson,TN,US,,36.0479,-84.3405,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQWN337,467.55,462.55,5,123,Beaumont,Jefferson,TX,US,Rogers Park (vicinity),30.0903,-94.1813,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSGU761,467.55,462.55,5,141.3,Brookshire,Fort Bend,TX,US,,29.7606,-95.8885,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSEE493,467.55,462.55,5,D503,Copperas Cove,Coryell,TX,US,,31.1554,-97.9237,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D503,D503
+WSJE373,467.55,462.55,5,146.2,Corsicana,Navarro,TX,US,,32.0908,-96.5134,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,146.2,146.2
+WQUM597,467.55,462.55,5,141.3,Dallas,Dallas,TX,US,White Rock Lake,32.8385,-96.7131,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQA615,467.55,462.55,5,167.9,Eula,Callahan,TX,US,Weather Station KTXCLYDE13 WU,32.369,-99.563,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WRYX509,467.55,462.55,5,107.2,Gatesville,Coryell,TX,US,South Mountain,31.4683,-97.6866,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRJV317,467.55,462.55,5,141.3,Hunt,Kerr,TX,US,Hvfd South Fork Sub-station,30.0084,-99.3805,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXG431,467.55,462.55,5,110.9,Minerva,Milam,TX,US,,30.7661,-96.9796,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WSKU643,467.55,462.55,5,162.2,Plainview,Hale,TX,US,,34.1874,-101.73,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRWT372,467.55,462.55,5,241.8,Rockwall,Rockwall,TX,US,,32.8246,-96.325,,,,,,,,,,Yes,,,,,,,0,,0,,,,,241.8,241.8
+WQQQ870,467.55,462.55,5,107.2,San Angelo,Tom Green,TX,US,5513 Stewart Lane,31.3969,-100.485,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,CSQ
+WQJZ921,467.55,462.55,5,141.3,Santa Anna,Coleman,TX,US,West end Santa Anna Mountain,31.9686,-99.9018,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRUW408,467.55,462.55,5,103.5,Startzville,Comal,TX,US,Canyon Lake,29.8645,-98.3022,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WSAM504,467.55,462.55,5,CSQ,Watauga,Tarrant,TX,US,,32.8898,-97.2407,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSEV342,467.575,462.575,5,203.5,Camp Wood,Real,TX,US,,29.6694,-100.012,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WQZN894,467.575,462.575,5,146.2,Coldspring,San Jacinto,TX,US,,30.5403,-95.2106,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,CSQ
+WSBR984,467.575,462.575,5,D454,Dobbin,Montgomery,TX,US,,30.319,-95.7577,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D454,D454
+WRJV317,467.575,462.575,5,141.3,Hunt,Kerr,TX,US,,30.083,-99.3306,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPK506,467.575,462.575,5,141.3,Leander,Williamson,TX,US,,30.5622,-97.8558,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRWM826,467.575,462.575,5,141.3,Leonard,Fannin,TX,US,West Of,33.3944,-96.3466,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRWW239,467.575,462.575,5,141.3,Midland,Midland,TX,US,,32.0248,-101.906,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCP705,467.575,462.575,5,141.3,Oglesby,Coryell,TX,US,,31.4189,-97.5061,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPG595,467.575,462.575,5,151.4,Port O' Connor,Calhoun,TX,US,,28.4335,-96.4325,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WREI852,467.575,462.575,5,100,Rockwall,Rockwall,TX,US,E of Wilkerson Sanders stadium,32.9091,-96.4501,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,CSQ
+WRJG536,467.6,462.6,5,CSQ,Commerce,Hunt,TX,US,Commerce High School,33.2436,-95.9228,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRPR901,467.6,462.6,5,D624,Denton,Denton,TX,US,TWU Building,33.2148,-97.1331,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D624,D624
+WRJC281,467.6,462.6,5,141.3,Dunlay,Medina,TX,US,,29.3513,-98.9582,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSKK924,467.6,462.6,5,210.7,El Campo,Wharton,TX,US,,29.3159,-96.3339,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,210.7
+WRXB309,467.6,462.6,5,141.3,Fort Stockton,Pecos,TX,US,,30.8863,-102.88,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRJV317,467.6,462.6,5,141.3,Kerrville,Kerr,TX,US,,30.0474,-99.1403,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVG545,467.6,462.6,5,141.3,Lakeport,Gregg,TX,US,Near Longview Regional Airport,32.405,-94.7203,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQRK273,467.6,462.6,5,250.3,Lampasas,Lampasas,TX,US,,31.0642,-98.2017,,,,,,,,,,Yes,,,,,,,0,,0,,,,,250.3,250.3
+WRNQ654,467.6,462.6,5,CSQ,Laredo,Webb,TX,US,College Heights South,27.4294,-99.4858,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZK546,467.6,462.6,5,141.3,Leander,Travis,TX,US,,30.5079,-97.8928,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRJQ567,467.6,462.6,5,100,Montgomery,Montgomery,TX,US,,30.3883,-95.6963,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WQVY368,467.6,462.6,5,162.2,Temple,Bell,TX,US,Southwest Temple,31.0895,-97.3806,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRJV395,467.6,462.6,5,CSQ,Wimberley,Hays,TX,US,,29.9974,-98.0986,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQQH251,467.6,462.6,5,162.2,Wolfforth,Lubbock,TX,US,,33.5056,-102.012,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WRFC958,467.625,462.625,5,136.5,Brookston,Lamar,TX,US,,33.6228,-95.6993,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+WRQA615,467.625,462.625,5,151.4,Clyde,Callahan,TX,US,Light on High Tower,32.378,-99.532,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRKH887,467.625,462.625,5,141.3,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRKH887,467.625,462.625,5,127.3,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,127.3,127.3
+WRDK329,467.625,462.625,5,141.3,Floresville,Wilson,TX,US,,29.1336,-98.1561,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKH887,467.625,462.625,5,141.3,Mesquite,Dallas,TX,US,,32.7668,-96.5992,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRVB840,467.625,462.625,5,131.8,Nash Forreston,Ellis,TX,US,,32.2785,-96.8557,,,,,,,,,,Yes,,,,,,,0,,0,,,,,131.8,CSQ
+WRDX849,467.625,462.625,5,225.7,Richmond,Fort Bend,TX,US,Fort Bend County Fairgrounds,29.451,-95.8746,,,,,,,,,,Yes,,,,,,,0,,0,,,,,225.7,225.7
+WROZ535,467.625,462.625,5,D132,Warren,Tyler,TX,US,Hwy 69 Bridge,30.6078,-94.4015,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D132,D132
+WQXE937,467.65,462.65,5,203.5,Bandera,Bandera,TX,US,,29.6727,-99.0015,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRYZ886,467.65,462.65,5,CSQ,Burleson,Johnson,TX,US,,32.5424,-97.3231,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRKH887,467.65,462.65,5,D627,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D627,D156
+WSCA723,467.65,462.65,5,127.3,Goldthwaite,Mills,TX,US,,31.4499,-98.5709,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WRJV317,467.65,462.65,5,141.3,Hunt,Kerr,TX,US,Mo Ranch / North Fork,30.0632,-99.3699,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKH887,467.65,462.65,5,D627,Irving,Dallas,TX,US,,32.8136,-96.9547,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D627,D156
+WQYM992,467.65,462.65,5,123,Leon Valley,Bexar,TX,US,,29.4992,-98.6047,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSAB252,467.65,462.65,5,233.6,Los Fresnos,Cameron,TX,US,Water Tower,26.0813,-97.4809,,,,,,,,,,Yes,,,,,,,0,,0,,,,,233.6,233.6
+WRUG875,467.65,462.65,5,162.2,Mcdade,Bastrop,TX,US,Star Ranch,30.316,-97.244,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,CSQ
+WQPI555,467.65,462.65,5,D606,Mesquite,Dallas,TX,US,,32.7668,-96.5992,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D606,D606
+WSCT237,467.65,462.65,5,D631,New Waverly,Walker,TX,US,,30.6008,-95.484,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D631,D631
+WRTY258,467.65,462.65,5,118.8,Palestine,Anderson,TX,US,,31.7606,-95.6315,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,173.8
+WRAA259,467.65,462.65,5,D411,Round Rock,Williamson,TX,US,,30.5083,-97.6789,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D411,D411
+WRJH615,467.675,462.675,5,141.3,Amarillo,Potter,TX,US,,35.1992,-101.845,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSKI831,467.675,462.675,5,141.3,Austin,Travis,TX,US,Camp Mabry,30.3199,-97.7547,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRKY481,467.675,462.675,5,CSQ,Bayside,Refugio,TX,US,,28.1016,-97.2053,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRKH887,467.675,462.675,5,D025,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D025,D025
+WRKH887,467.675,462.675,5,D606,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D606,D606
+WRKH887,0,462.675,-462.675,D712,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D712,D025
+WSAH546,467.675,462.675,5,199.5,Laredo,Webb,TX,US,Jet Bowl North Area,27.5533,-99.4872,,,,,,,,,,Yes,,,,,,,0,,0,,,,,199.5,199.5
+WSHE916,467.675,462.675,5,203.5,Larue,Henderson,TX,US,,32.0764,-95.6898,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WSIG454,467.675,462.675,5,218.1,Longview,Harrison,TX,US,Longview Heights,32.5062,-94.6792,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,218.1,218.1
+WQQH251,467.675,462.675,5,141.3,Lubbock,Lubbock,TX,US,,33.5849,-101.845,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQPI555,467.675,462.675,5,D606,Mesquite,Dallas,TX,US,Mesquite Tower,32.7635,-96.635,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D606,D606
+WRFP880,467.675,462.675,5,141.3,Odessa,Ector,TX,US,,31.8153,-102.394,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRYF926,467.675,462.675,5,CSQ,Paris,Lamar,TX,US,,33.6609,-95.5555,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRND785,467.675,462.675,5,CSQ,Potosi,Taylor,TX,US,,32.2818,-99.7559,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRAL242,467.675,462.675,5,D223,Troy,Bell,TX,US,Pleasant View Cemetary,31.1894,-97.318,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D223,D223
+WRXZ789,467.7,462.7,5,100,Beaumont,Jefferson,TX,US,,30.1144,-94.0282,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WSGB808,467.7,462.7,5,136.5,Buda,Hays,TX,US,,30.0817,-97.8429,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WQYX489,467.7,462.7,5,136.5,Canton,Van Zandt,TX,US,,32.4854,-95.8771,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRCW322,467.7,462.7,5,123,Crockett,Houston,TX,US,,31.3178,-95.4572,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRKH887,467.7,462.7,5,D503,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D503,D263
+WRKH887,467.7,462.7,5,D606,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D606,D606
+WQNA381,467.7,462.7,5,CSQ,Farmersville,Collin,TX,US,,33.1634,-96.36,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRZE964,467.7,462.7,5,123,Killeen,Bell,TX,US,Three Angels Bridge,31.0068,-97.884,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WQQH251,467.7,462.7,5,118.8,Lubbock,Lubbock,TX,US,,33.5858,-101.845,,,,,,,,,,Yes,,,,,,,0,,0,,,,,118.8,118.8
+WRWF998,467.7,462.7,5,CSQ,Mansfield,Tarrant,TX,US,,32.5639,-97.1351,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQPI555,467.7,462.7,5,D606,Mesquite,Dallas,TX,US,Mesquite Tower,32.7628,-96.6347,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D606,D606
+WRKY482,467.7,462.7,5,146.2,Mexia,Limestone,TX,US,Tehuacana,31.7524,-96.5442,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,CSQ
+WRJQ567,467.7,462.7,5,141.3,The Woodlands,Montgomery,TX,US,I-45/rayford Rd,30.1759,-95.4802,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRJW846,467.7,462.7,5,141.3,Weatherford,Parker,TX,US,Near Pythian Home,32.7454,-97.752,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQQQ870,467.725,462.725,5,123,Ballinger,Runnels,TX,US,,31.7382,-99.9473,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WSEN956,467.725,462.725,5,107.2,Bertram,Burnet,TX,US,,30.8346,-97.93,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WRHV671,467.725,462.725,5,141.3,Carlos,Grimes,TX,US,NOV Water Tower,30.591,-96.101,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRKH887,467.725,462.725,5,CSQ,Dallas,Dallas,TX,US,,32.7767,-96.797,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRPL432,467.725,462.725,5,141.3,Haltom City,Tarrant,TX,US,,32.782,-97.2766,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRAF241,467.725,462.725,5,CSQ,Ingleside,San Patricio,TX,US,,27.8778,-97.2117,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSJC209,467.675,462.725,4.95,123,Katy,Harris,TX,US,,29.8272,-95.7489,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WQXE937,467.725,462.725,5,203.5,Medina,Kerr,TX,US,,29.9389,-99.2661,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,203.5,203.5
+WSDM218,467.725,462.725,5,141.3,San Antonio,Bexar,TX,US,The Alamo,29.343,-98.4189,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSMK564,467.55,462.55,5,D712,Oakley,Summit,UT,US,Beaver Springs Ranch,40.7846,-111.161,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D712,D712
+WRCN936,467.55,462.55,5,D114,Pleasant View,Weber,UT,US,Rocky Point,41.3183,-111.992,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D114,D114
+WQFS702,467.55,462.55,5,146.2,Salt Lake City,Salt Lake,UT,US,,39.321,-111.094,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WRKZ706,467.575,462.575,5,159.8,Highland,Utah,UT,US,,40.3706,-111.758,,,,,,,,,,Yes,,,,,,,0,,0,,,,,159.8,159.8
+WRUJ850,467.575,462.575,5,D115,Ogden,Weber,UT,US,Ogden Airport,41.1837,-112.018,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D115,D115
+WSEB294,467.6,462.6,5,123,American Fork,Utah,UT,US,Famchan-martin Park,40.3908,-111.81,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WREX300,467.6,462.6,5,141.3,Junction,Piute,UT,US,,38.24,-112.22,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRUW570,467.6,462.6,5,79.7,Monroe,Sevier,UT,US,,38.63,-112.121,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,79.7,CSQ
+WRCN936,467.6,462.6,5,D114,Ogden,Weber,UT,US,Mt Ogden,41.1935,-111.874,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D114,D114
+WQFS702,467.6,462.6,5,CSQ,Salt Lake City,Salt Lake,UT,US,,39.321,-111.094,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRAV802,467.625,462.625,5,141.3,Farmington,Davis,UT,US,,40.9805,-111.887,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRFW386,467.625,462.625,5,103.5,Logan,Cache,UT,US,Logan Peak,41.7134,-111.718,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WQOF592,467.625,462.625,5,123,Orem,Utah,UT,US,,40.3263,-111.715,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRZC582,467.65,462.65,5,D251,Cottonwood Heights,Salt Lake,UT,US,,40.6073,-111.8,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D251,D251
+WRZC582,467.65,462.65,5,146.2,Cottonwood Heights,Salt Lake,UT,US,Ferguson Trail,40.6073,-111.799,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WRZC582,467.65,462.65,5,D251,Cottonwood Heights,Salt Lake,UT,US,Salt Lake City,40.6183,-111.816,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D251,D251
+WSGE412,467.65,462.65,5,131.8,Redmond,Sanpete,UT,US,Water Tank Hill,38.9991,-111.871,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,131.8,131.8
+WRTR726,467.65,462.65,5,141.3,Stansbury Park,Tooele,UT,US,,40.6353,-112.31,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRCN936,467.675,462.675,5,D114,Plymouth,Box Elder,UT,US,,41.8501,-112.24,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D114,D114
+WSGE412,467.675,462.675,5,141.3,Salina,Sevier,UT,US,,38.7578,-111.67,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRPZ528,467.675,462.675,5,141.3,South Salt Lake,Salt Lake,UT,US,,39.321,-111.094,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROC248,467.625,462.675,4.95,167.9,Springville,Utah,UT,US,,40.1652,-111.611,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WSDE320,467.7,462.7,5,D223,Oak City,Millard,UT,US,,39.3743,-112.337,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D223,D223
+WROH982,467.7,462.7,5,100,Ogden,Weber,UT,US,,41.2237,-111.933,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,107.2
+WRCN936,467.7,462.7,5,D114,Ogden,Box Elder,UT,US,Promontory Mountains,41.3889,-112.46,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D114,D114
+WRTJ330,467.725,462.725,5,CSQ,Emigration Canyon,Salt Lake,UT,US,Emigration Canyon,40.7579,-111.789,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRYI932,467.725,462.725,5,136.5,Layton,Davis,UT,US,South of hill afb,41.0877,-111.972,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRQG910,467.725,462.725,5,136.5,Marysvale,Piute,UT,US,,38.4494,-112.23,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WPON592,467.55,462.55,5,141.3,Falls Church,Fairfax,VA,US,Seven Corners,38.8727,-77.1613,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRUJ544,467.55,462.55,5,107.2,Fincastle,Botetourt,VA,US,Purgatory Mountain,37.6105,-79.6882,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WRPT445,467.55,462.55,5,167.9,Glade Hill,Franklin,VA,US,,37.0259,-79.8087,,,,,,,,,,Yes,,,,,,,0,,0,,,,,167.9,167.9
+WQAI638,467.55,462.55,5,CSQ,Green Bay,Prince Edward,VA,US,,37.1338,-78.3147,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSKF291,467.55,462.55,5,79.7,Lynchburg,(independent),VA,US,,36.9494,-78.9888,,,,,,,,,,Yes,,,,,,,0,,0,,,,,79.7,79.7
+WSFB816,467.55,462.55,5,141.3,Lynchburg,(independent),VA,US,,37.4149,-79.1422,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WREE397,467.55,462.55,5,100,Montross,Westmoreland,VA,US,,37.4316,-78.6569,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRVM703,467.55,462.55,5,77,New Castle,Craig,VA,US,,37.5001,-80.1109,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRTM515,467.55,462.55,5,123,Newport News,(independent),VA,US,,37.0351,-76.457,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRFW739,467.55,462.55,5,CSQ,Pulaski,Pulaski,VA,US,Peaks Lnob,37.0239,-80.7467,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,141.3
+WQPL257,467.55,462.55,5,118.8,Winchester,Frederick,VA,US,North Mountain,39.1958,-78.3545,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,118.8,118.8
+WRDF311,467.575,462.575,5,136.5,Alexandria,Fairfax,VA,US,"Mount Vernon, VA",38.7224,-77.1155,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+KAD6329,467.575,462.575,5,141.3,Arlington,Arlington,VA,US,Clarendon,38.89,-77.0864,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WREI955,467.575,462.575,5,156.7,Cross Junction,Frederick,VA,US,Cacapon Mountain,39.462,-78.3479,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,156.7,156.7
+WSEV713,467.575,462.575,5,203.5,Hampton,(independent),VA,US,Bethel Tower Hampton,37.0536,-76.4312,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,203.5,203.5
+WRNR868,467.575,462.575,5,141.3,New Market,Page,VA,US,Luray,38.6003,-78.6329,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WROW434,467.575,462.575,5,CSQ,Richmond,Chesterfield,VA,US,,37.5031,-77.5224,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WSEI782,467.575,462.575,5,D244,"South hill, va",Mecklenburg,VA,US,,36.72,-78.12,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D244,D244
+KAB7046,467.6,462.6,5,141.3,Alexandria,(independent),VA,US,West End,38.8124,-77.1376,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WSNU397,467.6,462.6,5,136.5,Bedford,Bedford,VA,US,Thaxton Mountain,37.3116,-79.6514,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRXJ407,467.6,462.6,5,71.9,Chesapeake,(independent),VA,US,CHSPK-CM,36.864,-76.3984,,,,,,,,,,Yes,,,,,,,0,,0,,,,,71.9,71.9
+WROC846,467.6,462.6,5,123,Christiansburg,Montgomery,VA,US,,37.1312,-80.4078,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRUJ544,467.6,462.6,5,196.6,Covington,Alleghany,VA,US,Big Ridge,37.7098,-80.2625,,,,,,,,,,Yes,,,,,,,0,,0,,,,,196.6,196.6
+WRVD609,467.6,462.6,5,141.3,Narrows,Giles,VA,US,,37.3054,-80.8477,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXZ575,467.6,462.6,5,107.2,South Boston,Halifax,VA,US,,36.6999,-78.9089,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,107.2
+WSDH649,467.6,462.6,5,156.7,Stafford,Stafford,VA,US,,38.4642,-77.4821,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WROL631,467.6,462.6,5,123,Staunton,Augusta,VA,US,Elliott Knob,38.1665,-79.3145,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WPON592,467.625,462.625,5,123,Alexandria,(independent),VA,US,Fort Ward Park,38.8327,-77.0995,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WREW961,467.625,462.625,5,136.5,Aroda,Madison,VA,US,,38.3804,-78.2575,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WSKU445,467.625,462.625,5,114.8,Kenbridge,Lunenburg,VA,US,Sugar Hill,36.9448,-78.0474,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRFF516,467.625,462.625,5,CSQ,Linden,Fauquier,VA,US,Fiery Run Road,38.8607,-78.0565,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFZ495,467.625,462.625,5,162.2,Richlands,Russell,VA,US,Big A Mountain,37.0521,-82.0355,,,,,,,,,,Yes,,,,,,,0,,0,,,,,162.2,162.2
+WSHN928,467.625,462.625,5,141.3,Woodbridge,Prince William,VA,US,Government Complex Center,38.6582,-77.2497,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRTM515,467.65,462.65,5,114.8,Hampton,(independent),VA,US,,37.0852,-76.4268,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,114.8,114.8
+WRUJ544,467.65,462.65,5,206.5,Hot springs,Bath,VA,US,Ingalls air field,37.9514,-79.8339,,,,,,,,,,Yes,,,,,,,0,,0,,,,,206.5,206.5
+KAD6329,467.675,462.675,5,141.3,Falls Church,Fairfax,VA,US,Seven Corners,38.8743,-77.1485,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQYH591,467.675,462.675,5,123,Gordonsville,Orange,VA,US,Gibson Mountain,38.1875,-78.1575,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WQAI638,467.675,462.675,5,141.3,Green Bay,Prince Edward,VA,US,,37.1338,-78.3147,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WROV418,467.675,462.675,5,D073,Pearisburg,Giles,VA,US,Mtlake,37.3499,-80.5372,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D073,D073
+WRCN374,467.7,462.7,5,CSQ,Burnsville,Bath,VA,US,Chestnut Ridge,38.201,-79.6155,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRUJ544,467.7,462.7,5,151.4,Covington,Alleghany,VA,US,,37.7668,-79.9849,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRXL290,467.7,462.7,5,114.8,Front Royal,Warren,VA,US,Happy Creek,38.924,-78.161,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRKU609,467.7,462.7,5,118.8,Galax,Carroll,VA,US,,36.6679,-80.9064,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,118.8,CSQ
+WSGI446,467.7,462.7,5,103.5,Gate City,Scott,VA,US,Clinch Mountain,36.6426,-82.5419,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WSJP550,467.7,462.7,5,D245,Kenbridge,Lunenburg,VA,US,Old America Gas Building,36.9622,-78.1295,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D245,D245
+WRWN411,467.7,462.7,5,77,Lovington,Nelson,VA,US,Rockfish,37.7598,-78.8707,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WSCP210,467.7,462.7,5,100,Pearisburg,Giles,VA,US,Dismal Peak,37.2472,-80.8558,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WSBV209,467.7,462.7,5,156.7,Troy,Fluvanna,VA,US,,37.9581,-78.2512,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,CSQ
+WRQJ344,467.7,462.7,5,123,Verona,Augusta,VA,US,,38.205,-79.0117,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRQC755,467.725,462.725,5,141.3,Bluefield,Bland,VA,US,East River Mountain,37.2228,-81.2484,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRVF525,467.725,462.725,5,179.9,Radford,Floyd,VA,US,,36.9845,-80.5201,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WSCP976,467.725,462.725,5,199.5,Urbanna,Middlesex,VA,US,,37.3831,-76.3528,,,,,,,,,,Yes,,,,,,,0,,0,,,,,199.5,199.5
+WRJB378,467.55,462.55,5,100,Mendon,Rutland,VT,US,,43.394,-72.5335,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSCQ213,467.55,462.55,5,136.5,Benton City,Benton,WA,US,,46.2632,-119.488,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRJB332,467.55,462.55,5,CSQ,Covington,King,WA,US,Dusk Peak,47.3415,-122.091,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,179.9
+WRAS397,467.55,462.55,5,CSQ,Liberty Lake,Spokane,WA,US,Greenridge,47.657,-117.061,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WSOC654,0,462.55,-462.55,CSQ,Oak Harbor,Island,WA,US,,48.2883,-122.648,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFA299,467.55,462.55,5,69.3,Selah,Yakima,WA,US,,46.654,-120.53,,,,,,,,,,Yes,,,,,,,0,,0,,,,,69.3,69.3
+WREM860,467.55,462.55,5,94.8,Vancouver,Clark,WA,US,,45.628,-122.674,,,,,,,,,,Yes,,,,,,,0,,0,,,,,94.8,94.8
+WQFS650,467.55,462.55,5,206.5,Wenatchee,Chelan,WA,US,Wenatchee Heights,47.353,-120.316,,,,,,,,,,Yes,,,,,,,0,,0,,,,,206.5,206.5
+WRMK208,467.575,462.575,5,CSQ,Anderson Island,Pierce,WA,US,Matthews Way,47.1641,-122.681,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQXM274,467.575,462.575,5,141.3,Eastsound,San Juan,WA,US,Mt. Constitution,48.6658,-122.863,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,100
+WRDK266,467.575,462.575,5,CSQ,Fern Prairie,Clark,WA,US,,45.6459,-122.391,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQRZ288,467.575,462.575,5,156.7,Lake Tapps,Pierce,WA,US,,47.2403,-122.181,,,,,,,,,,Yes,,,,,,,0,,0,,,,,156.7,156.7
+WQXU640,467.575,462.575,5,141.3,Loon Lake,Stevens,WA,US,,48.0194,-117.61,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSMG307,467.575,462.575,5,CSQ,North Seattle,King,WA,US,,47.672,-122.325,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRWB806,467.575,462.575,5,67,Othello,Adams,WA,US,,46.8248,-119.173,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WRWB806,0,462.575,-462.575,67,Othello,Adams,WA,US,,46.826,-119.176,,,,,,,,,,Yes,,,,,,,0,,0,,,,,67,67
+WQYS525,467.575,462.575,5,123,Redmond,King,WA,US,Trilogy Tennis Courts,47.7063,-122.027,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WSFY282,467.575,462.575,5,229.1,Vaughn,Pierce,WA,US,,47.3212,-122.771,,,,,,,,,,Yes,,,,,,,0,,0,,,,,229.1,229.1
+WRPL875,467.575,462.575,5,CSQ,Yelm,Thurston,WA,US,,46.942,-122.606,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,167.9
+WRPC310,467.6,462.6,5,D074,Bremerton,Kitsap,WA,US,Gold Mtn,47.5496,-122.784,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D074,D074
+WQYQ893,467.6,462.6,5,127.3,Clinton,Island,WA,US,South Whidbey Scachet Head,47.9279,-122.418,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WQTD867,467.6,462.6,5,141.3,Decatur Island,San Juan,WA,US,,48.512,-122.822,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSIY528,467.6,462.6,5,CSQ,East Wenatchee,Douglas,WA,US,,47.4157,-120.293,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFE684,467.6,462.6,5,100,Elk,Spokane,WA,US,,47.9677,-117.244,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRCN294,467.6,462.6,5,88.5,Hoquiam,Grays Harbor,WA,US,North bay,47.046,-124.08,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,CSQ
+WSOC654,467.6,462.6,5,91.5,Oak Harbor,Island,WA,US,,48.2883,-122.648,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WRJB953,467.6,462.6,5,141.3,Olympia,Thurston,WA,US,,46.9616,-122.831,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPE780,467.6,462.6,5,91.5,Port Townsend,Jefferson,WA,US,Morgan Hill,48.1248,-122.765,,,,,,,,,,Yes,,,,,,,0,,0,,,,,91.5,91.5
+WQYS525,467.6,462.6,5,123,Redmond,King,WA,US,Trilogy Cedar Lodge,47.7074,-122.029,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRTY274,467.6,462.6,5,103.5,Roy,Pierce,WA,US,,47.0043,-122.54,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,CSQ
+WSFK553,467.6,462.6,5,77,Spanaway,Pierce,WA,US,,47.104,-122.435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WQWH848,467.625,462.625,5,91.5,East Tiger,King,WA,US,Oly-Comm3,47.4882,-121.947,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,91.5,91.5
+WRWB806,467.625,462.625,5,69.3,Othello,Adams,WA,US,,46.826,-119.175,,,,,,,,,,Yes,,,,,,,0,,0,,,,,69.3,69.3
+WRKA470,467.625,462.625,5,100,Spokane,Spokane,WA,US,Inland Empire Arborcrest,47.6987,-117.248,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRKA470,467.625,462.625,5,100,Spokane,Spokane,WA,US,Krell Mtn,47.5953,-117.302,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WROD852,467.65,462.65,5,151.4,Bothell,Snohomish,WA,US,Canyon Park,47.7983,-122.211,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,CSQ
+WRTK646,467.65,462.65,5,114.8,Lynden,Whatcom,WA,US,,48.9421,-122.457,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRAV809,467.65,462.65,5,206.5,Moses Lake,Grant,WA,US,,47.1502,-119.256,,,,,,,,,,Yes,,,,,,,0,,0,,,,,206.5,206.5
+WRFA299,467.65,462.65,5,69.3,Selah,Yakima,WA,US,,46.654,-120.53,,,,,,,,,,Yes,,,,,,,0,,0,,,,,69.3,69.3
+WSCU663,467.65,462.65,5,85.4,Snoqualmie,King,WA,US,Jeanne Hansen Park,47.5192,-121.883,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,CSQ
+WSFK553,467.65,462.65,5,77,Spanaway,Pierce,WA,US,,47.104,-122.435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRFV479,467.65,462.65,5,103.5,West Richland,Benton,WA,US,,46.289,-119.345,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WQWH848,467.675,462.675,5,100,Discovery Bay,Jefferson,WA,US,Oly-Comm1,48.0159,-122.926,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WRTT306,467.675,462.675,5,114.8,Everson,Whatcom,WA,US,,48.9201,-122.343,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRPR468,467.675,462.675,5,173.8,Gig Harbor,Pierce,WA,US,Peacock Hill,47.3911,-122.608,,,,,,,,,,Yes,,,,,,,0,,0,,,,,173.8,173.8
+WQZA702,467.675,462.675,5,100,Othello,Adams,WA,US,Radar Hill,46.7588,-119.229,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WQWH848,467.675,462.675,5,210.7,Port Townsend,Jefferson,WA,US,Oly-Comm2,48.1137,-122.764,,,,,,,,,,Yes,,,,,,,0,,0,,,,,210.7,210.7
+WRKA470,467.675,462.675,5,77,Spokane,Spokane,WA,US,Krell Hill,47.5875,-117.305,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WQXF968,467.675,462.675,5,141.3,Walla Walla,Walla Walla,WA,US,Pikes Peak,46.0154,-118.204,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRBQ486,467.7,462.7,5,254.1,Auburn,King,WA,US,,47.2848,-122.222,,,,,,,,,,Yes,,,,,,,0,,0,,,,,254.1,254.1
+WRJB682,467.7,462.7,5,88.5,Marysville,Snohomish,WA,US,,48.0635,-122.193,,,,,,,,,,Yes,,,,,,,0,,0,,,,,88.5,88.5
+WSCC621,467.7,462.7,5,114.8,Moses Lake North,Grant,WA,US,,47.1301,-119.278,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,114.8,114.8
+WSLF710,467.7,462.7,5,136.5,Mukilteo,Snohomish,WA,US,Picnic Point,47.8716,-122.304,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRNV843,467.7,462.7,5,103.5,North Bend,King,WA,US,Mt Si - Mt Teneriffe,47.4801,-121.718,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRVI233,467.7,462.7,5,210.7,Shelton,Mason,WA,US,,47.21,-122.97,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,210.7,210.7
+WSFK553,467.7,462.7,5,77,Spanaway,Pierce,WA,US,,47.104,-122.435,,,,,,,,,,Yes,,,,,,,0,,0,,,,,77,77
+WRKR649,467.7,462.7,5,136.5,Winlock,Lewis,WA,US,,46.4871,-122.866,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WRFJ988,467.725,462.725,5,127.3,Cheney,Spokane,WA,US,,47.4825,-117.588,,,,,,,,,,Yes,,,,,,,0,,0,,,,,127.3,127.3
+WQXU640,467.725,462.725,5,141.3,Kettle Falls,Stevens,WA,US,,48.6113,-118.008,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WQVZ485,467.725,462.725,5,141.3,Snohomish,Snohomish,WA,US,,47.9129,-122.098,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WPYA330,467.725,462.725,5,69.3,Wenatchee,Chelan,WA,US,Windy Ridge,47.2741,-120.406,,,,,,,,,,Yes,,,,,,,0,,0,,,,,69.3,69.3
+WQHT392,467.55,462.55,5,103.5,Chilton,Calumet,WI,US,,44.0289,-88.1629,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WSCL733,467.55,462.55,5,141.3,Fitchburg,Dane,WI,US,,42.9511,-89.3719,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSKT526,467.55,462.55,5,136.5,Janesville,Rock,WI,US,5 Points,42.6821,-89.0275,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WQGT456,467.575,462.575,5,103.5,Adams,Adams,WI,US,,43.9561,-89.8182,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRCR868,467.575,462.575,5,114.8,Antigo,Langlade,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,114.8,114.8
+WRNV607,467.575,462.575,5,97.4,Monroe,Green,WI,US,,42.6011,-89.6385,,,,,,,,,,Yes,,,,,,,0,,0,,,,,97.4,97.4
+WROP543,467.6,462.6,5,107.2,Baraboo,Sauk,WI,US,Baraboo Bluffs,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,107.2,103.5
+WROP543,467.6,462.6,5,82.5,Beaver Dam,Dodge,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,82.5,82.5
+WROP543,467.6,462.6,5,97.4,Depere,Brown,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,97.4,103.5
+WROP543,467.6,462.6,5,69.3,Lacrosse,La Crosse,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,69.3,103.5
+WROP543,467.6,462.6,5,D244,Mayville,Dodge,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D244,103.5
+WROP543,467.6,462.6,5,D116,New Berlin,Waukesha,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D116,103.5
+WROP543,467.6,462.6,5,D343,Platteville,Grant,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,D343,103.5
+WROP543,467.6,462.6,5,D116,St Germain,Vilas,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D116,103.5
+WSAB569,467.625,462.625,5,114.8,Port Washington,Ozaukee,WI,US,,43.3872,-87.8756,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,114.8,114.8
+WRTD287,467.625,462.625,5,D506,Waupaca,Waupaca,WI,US,,43.7844,-88.7879,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D506,D506
+WRDX865,467.65,462.65,5,CSQ,Sheboygan,Sheboygan,WI,US,,43.732,-87.718,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRFU809,467.675,462.675,5,CSQ,Clinton,Rock,WI,US,,42.5578,-88.8651,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WRXH381,467.675,462.675,5,D445,Madison,Dane,WI,US,East Side,43.0722,-89.4007,,,,,,,,,,Yes,,,,,,,0,,0,,,,,D445,D445
+WQNX906,467.675,462.675,5,CSQ,Sheboygan,Sheboygan,WI,US,Sheboygan Moto,43.7591,-87.7168,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,114.8
+KAE0394,467.675,462.675,5,151.4,Wausau,Marathon,WI,US,Mosinee hill,44.8877,-89.6504,,,,,,,,,,Yes,,,,,,,0,,0,,,,,151.4,151.4
+WRTG755,467.7,462.7,5,100,Manitowoc,Manitowoc,WI,US,,44.069,-87.677,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WRKE334,467.7,462.7,5,203.5,Wisconsin Rapids,Wood,WI,US,,44.3765,-89.8008,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,CSQ
+WRPI377,467.725,462.725,5,186.2,Cumberland,Barron,WI,US,,45.5349,-92.0357,,,,,,,,,,Yes,,,,,,,0,,0,,,,,186.2,186.2
+WRCZ592,467.725,462.725,5,136.5,Neenah,Winnebago,WI,US,,44.1712,-88.4822,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,136.5
+WSEA707,467.725,462.725,5,203.5,Seneca,Crawford,WI,US,Seneca,43.2548,90.9794,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,203.5
+WRDX865,467.725,462.725,5,CSQ,Sheboygan,Sheboygan,WI,US,,43.7514,-87.7139,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,CSQ
+WQNX906,467.725,462.725,5,CSQ,Sheboygan,Sheboygan,WI,US,Sheboygan Moto,43.7016,-87.7108,,,,,,,,,,Yes,,,,,,,0,,0,,,,,CSQ,118.8
+WRUM663,467.55,462.55,5,141.3,Beckley,Raleigh,WV,US,Spruce Mountain,37.8635,-81.3,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSJK841,467.725,462.55,5.175,123,Martinsburg,Berkeley,WV,US,Dry Run Rd North Mountain,39.5163,-78.0175,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,123
+WRPT445,467.55,462.55,5,CSQ,Paynesville,McDowell,WV,US,,37.3407,-81.8494,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,CSQ,CSQ
+WRQW793,467.55,462.55,5,141.3,Ravenswood,Jackson,WV,US,,39.0353,-81.6676,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WQBA456,467.55,462.55,5,141.3,Richwood,Nicholas,WV,US,Mid-town,38.5976,-80.4549,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WSND599,467.575,462.575,5,103.5,Beckley,Raleigh,WV,US,,37.7792,-81.1971,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRDM641,467.575,462.575,5,100,Charleston,Kanawha,WV,US,East Side,38.5976,-80.4549,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,100,100
+WSJX263,467.575,462.575,5,136.5,Fairmont,Marion,WV,US,,39.4709,-80.1526,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,136.5,136.5
+WRQW793,467.575,462.575,5,103.5,Vienna,Wood,WV,US,,39.3441,-81.4968,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,103.5,103.5
+WREC680,467.6,462.6,5,141.3,Ansted,Fayette,WV,US,,38.1362,-81.0995,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,CSQ
+WRWB465,467.6,462.6,5,141.3,Beckley,Raleigh,WV,US,Lick Knob,37.9476,-81.3084,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,141.3
+WRWK421,467.6,462.6,5,151.4,Princeton,Mercer,WV,US,,37.3903,-81.0656,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,151.4,151.4
+WRQW793,467.6,462.6,5,141.3,Ravenswood,Jackson,WV,US,,38.9606,-81.7664,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRQW793,467.6,462.6,5,103.5,Rockport,Wood,WV,US,,39.0501,-81.5541,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRVB405,467.625,462.625,5,100,Alderson,Greenbrier,WV,US,Keeney Knob Fire Tower,38.5976,-80.4549,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSBB248,467.625,462.625,5,141.3,Fairmont,Marion,WV,US,,39.468,-80.132,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRXA649,467.625,462.625,5,179.9,Falling Waters,Berkeley,WV,US,,39.5595,-77.8906,,,,,,,,,,Yes,,,,,,,0,,0,,,,,179.9,179.9
+WQQL731,467.625,462.625,5,110.9,Grantsville,Calhoun,WV,US,,38.9234,-81.0959,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRQZ307,467.625,462.625,5,85.4,Huntington,Cabell,WV,US,,38.4158,-82.4015,,,,,,,,,,Yes,,,,,,,0,,0,,,,,85.4,85.4
+WSCR594,467.625,462.625,5,107.2,Moorefield,Hardy,WV,US,Branch Mountain,38.9829,-78.908,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,107.2,107.2
+WRQW793,467.625,462.625,5,146.2,Parkersburg,Wood,WV,US,,39.247,-81.4701,,,,,,,,,,Yes,,,,,,,0,,0,,,,,146.2,146.2
+WQWI512,467.625,462.625,5,103.5,Poca,Putnam,WV,US,Doc Bailey Rd Bridge,38.4551,-81.7691,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRKM204,467.625,462.625,5,123,Wheeling,Ohio,WV,US,,40.064,-80.7209,,,,,,,,,,Yes,,,,,,,0,,0,,,,,123,CSQ
+WSGV374,467.65,462.65,5,141.3,Craigsville,Nicholas,WV,US,Cottle Knob,38.3584,-80.6463,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRYQ719,467.65,462.65,5,103.5,Hinton,Summers,WV,US,,38.5976,-80.4549,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,CSQ
+WSGV347,467.65,462.65,5,141.3,Richwood,Nicholas,WV,US,Grasshopper,38.2248,-80.5331,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRPJ893,467.675,462.675,5,103.5,Huntington,Cabell,WV,US,Cabell/Wayne line,38.37,-82.4379,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRQW793,467.675,462.675,5,141.3,Walker,Wood,WV,US,,39.2441,-81.2758,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WSMR338,467.7,462.7,5,110.9,Annamoriah,Calhoun,WV,US,,38.9411,-81.2353,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,110.9,110.9
+WRWK421,467.7,462.7,5,171.3,Sandstone,Summers,WV,US,Sewell Mtn,37.7786,-80.8568,,,,,,,,,,Yes,,,,,,,0,,0,,,,,171.3,171.3
+WRQW793,467.7,462.7,5,103.5,St. Marys,Pleasants,WV,US,,39.3657,-81.159,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WRMV638,467.725,462.725,5,203.5,Branchland,Lincoln,WV,US,Adkins Ridge,38.198,-82.0808,,,,,,,,,,Yes,,,,,,,0,,0,,,,,203.5,103.5
+WSMR338,467.725,462.725,5,100,Creston,Wirt,WV,US,,38.9216,-81.2866,,,,,,,,,,Yes,,,,,,,0,,0,,,,,100,100
+WSJK841,467.725,462.725,5,123,Martinsburg,Berkeley,WV,US,Dry Run Rd,39.4786,-77.9812,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,123,123
+WRQW793,467.725,462.725,5,103.5,Walker,Wood,WV,US,,39.2467,-81.4168,,,,,,,,,,Yes,,,,,,,0,,0,,,,,103.5,103.5
+WSCQ446,467.55,462.55,5,110.9,Gillette,Campbell,WY,US,,44.5,-105.5,,,,,,,,,,Yes,,,,,,,0,,0,,,,,110.9,110.9
+WRDR919,467.6,462.6,5,141.3,Hawk springs,Goshen,WY,US,,41.7832,-104.286,,,,,,,,,,Yes,,,,,,,0,,0,,,,,141.3,141.3
+WRTP515,467.675,462.675,5,136.5,Cody,Park,WY,US,,44.496,-109.154,,,,,,,,,,Yes,,,,,,,0,,0,,,,,136.5,CSQ
+WRUK935,467.7,462.7,5,141.3,Casper,Natrona,WY,US,Casper Mountain,42.7428,-106.308,,,,,,,,,,Yes,,,,,,,0,,0,,,,Yes,141.3,192.8
