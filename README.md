@@ -25,6 +25,7 @@ It calculates geographic line-of-sight coverage circles around each repeater sit
 ├── gmrs_coverage.kml                # Generated KML output
 ├── gmrs_coverage.geojson            # Generated GeoJSON output
 └── README.md
+```
 
 ---
 
