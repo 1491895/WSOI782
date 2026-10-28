@@ -53,11 +53,11 @@ def parse_mygmrs_csv(filepath):
             offset_val = row.get("Offset (MHz)", "5.0")
             offset_str = f"+{float(offset_val):.1f} MHz" if offset_val else "+5.0 MHz"
 
-            # Tone handling (Tone / PL Tone / TSQ Tone)
+            # Tone handling
             tone = row.get("Tone") or row.get("PL Tone") or "CSQ"
             tsq = row.get("TSQ Tone", "")
 
-            # Coverage radius based on Wide Area flag
+            # Coverage radius strictly from Wide Area column
             is_wide_area = str(row.get("Wide Area", "")).strip().lower() == "yes"
             radius = WIDE_AREA_RADIUS_MILES if is_wide_area else LOCAL_RADIUS_MILES
 
@@ -83,13 +83,17 @@ def export_kml(repeaters, out_path="gmrs_coverage.kml"):
         '<kml xmlns="http://www.opengis.net/kml/2.2">',
         '  <Document>',
         '    <name>myGMRS Repeater Coverage</name>',
+        '    <!-- Lighter Purple for 18-mile Standard Local -->',
         '    <Style id="localBubble">',
-        '      <LineStyle><color>ff0000ff</color><width>2</width></LineStyle>',
-        '      <PolyStyle><color>330000ff</color></PolyStyle>', # Translucent red
+        '      <LineStyle><color>fffc84c0</color><width>2</width></LineStyle>',
+        '      <PolyStyle><color>33fc84c0</color></PolyStyle>',
+        '      <IconStyle><scale>0.8</scale></IconStyle>',
         '    </Style>',
+        '    <!-- Blue/Teal for 30-mile Wide Area -->',
         '    <Style id="wideBubble">',
         '      <LineStyle><color>ffffaa00</color><width>2</width></LineStyle>',
-        '      <PolyStyle><color>33ffaa00</color></PolyStyle>', # Translucent blue/teal
+        '      <PolyStyle><color>33ffaa00</color></PolyStyle>',
+        '      <IconStyle><scale>0.8</scale></IconStyle>',
         '    </Style>'
     ]
 
@@ -104,30 +108,31 @@ def export_kml(repeaters, out_path="gmrs_coverage.kml"):
             f"<b>Offset:</b> {r['offset']}<br/>"
             f"<b>PL Tone:</b> {r['tone']} Hz<br/>"
             f"<b>TSQ Tone:</b> {r['tsq']}<br/>"
-            f"<b>Coverage Type:</b> {'Wide Area (~30 mi)' if r['wide_area'] else 'Standard Local (~18 mi)'}"
+            f"<b>Coverage:</b> {'Wide Area (~30 mi)' if r['wide_area'] else 'Standard Local (~18 mi)'}"
         )
 
         kml.append(f"""
-    <!-- Pin -->
     <Placemark>
       <name>{r['callsign']} ({r['frequency']})</name>
       <description><![CDATA[{desc}]]></description>
-      <Point><coordinates>{r['lon']},{r['lat']},0</coordinates></Point>
-    </Placemark>
-    <!-- Range Bubble -->
-    <Placemark>
-      <name>{r['callsign']} Bubble</name>
       <styleUrl>{style_id}</styleUrl>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs><LinearRing><coordinates>{coord_str}</coordinates></LinearRing></outerBoundaryIs>
-      </Polygon>
+      <MultiGeometry>
+        <Point>
+          <coordinates>{r['lon']},{r['lat']},0</coordinates>
+        </Point>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing><coordinates>{coord_str}</coordinates></LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
     </Placemark>""")
 
     kml.append('  </Document>\n</kml>')
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(kml))
-    print(f"Generated KML: {out_path} ({len(repeaters)} repeaters)")
+    print(f"Generated KML: {out_path} ({len(repeaters)} features)")
 
 def export_geojson(repeaters, out_path="gmrs_coverage.geojson"):
     features = []
